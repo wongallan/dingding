@@ -253,6 +253,7 @@ The booklet is done when:
 ## Risk Controls and Error Prevention
 
 - **OCR drift risk**: Keep batch sizes small and persist page references.
+- **Low-confidence lyric OCR risk**: If lyric-heavy pages are heavily degraded, complete a conservative first pass with explicit `[[unclear]]` notes, then add a targeted re-OCR follow-up task (single-page, higher DPI or alternate OCR settings) before final scene lock.
 - **Speaker confusion risk**: Enforce stable line IDs and section boundaries.
 - **Terminology drift risk**: Update glossary before editing later scenes.
 - **Lyric over-adaptation risk**: Track adaptation rationale in song decisions file.

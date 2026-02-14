@@ -33,3 +33,10 @@ Document major lyric adaptation decisions so all agents apply the same artistic 
 - Final lyric rendering: Retained declarative chant structure (`Invincible great butlers...`) while normalizing noisy OCR tokens into coherent service-themed lyric lines.
 - Rationale (meter, tone, audience clarity, artistic intent): Keep ensemble momentum and boastful tone for stage energy; prioritize semantic anchors (discipline, readiness, confidence, support) where OCR character-level certainty is low.
 - Approved by: Copilot (GPT-5.3-Codex)
+
+- Scene/Song: Scene 03 quarantine panic song segment (`管家慌亂歌`, page 13)
+- Source phrase: fragmented symptom-and-duty panic lines under emergency isolation announcement.
+- Literal meaning: Butlers fear infection, inability to serve, and loss of control during quarantine.
+- Final lyric rendering: Preserved anxiety-driven short-line cadence (`hands and feet weak`, `out of control`, `deliver Miss’s dinner`) with conservative normalization for degraded OCR lexemes.
+- Rationale (meter, tone, audience clarity, artistic intent): Prioritize dramatic urgency and service-duty stakes while avoiding over-creative reconstruction of unreadable tokens; uncertainty is tracked in extraction notes for potential re-OCR refinement.
+- Approved by: Copilot (GPT-5.3-Codex)

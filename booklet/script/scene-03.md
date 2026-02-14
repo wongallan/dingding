@@ -169,3 +169,93 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Characters: 聽講最近有一種嚴重嘅病毒，中咗之後會成日打乞……
 - Sidney Lau romanization: teng1 gong2 zeoi3 gan6 jau5 jat1 zung2 jim4 zung6 ge3 beng6 duk6, zung3 zo2 zi1 hau6 wui5 sing4 jat6 daa2 hat1...
 - English translation: I heard there’s a serious virus going around lately—after you catch it, you keep sneezing...
+
+## Section 2 (pages 13-14)
+
+- Characters: 聽講最近有一種嚴重嘅病毒，中咗之後會成日打乞嗤……（再大聲）乞嗤……
+- Sidney Lau romanization: teng1 gong2 zeoi3 gan6 jau5 jat1 zung2 jim4 zung6 ge3 beng6 duk6, zung3 zo2 zi1 hau6 wui5 sing4 jat6 daa2 hat1 ci1... (zoi3 daai6 seng1) hat1 ci1...
+- English translation: I heard there’s a serious virus going around lately—once you catch it, you keep sneezing... (louder) A-choo...
+
+- Characters: 如果唔小心感染病毒，我哋咪要隔離，照顧唔到少爺小姐？
+- Sidney Lau romanization: jyu4 gwo2 m4 siu2 sam1 gam2 jim5 beng6 duk6, ngo5 dei6 mai6 jiu3 gaak3 lei4, ziu3 gu3 m4 dou2 siu3 je5 siu2 ze2?
+- English translation: If we accidentally get infected, does that mean we have to quarantine and can’t look after the young masters and misses?
+
+- Characters: 你打乞嗤？
+- Sidney Lau romanization: nei5 daa2 hat1 ci1?
+- English translation: Did you just sneeze?
+
+- Characters: 各位管家，因為懷疑你哋中咗管家界絕症——懶惰感冒，管家會議而家進入緊急狀態。
+- Sidney Lau romanization: gok3 wai2 gun2 gaa1, jan1 wai6 waai4 ji4 nei5 dei6 zung3 zo2 gun2 gaa1 gaai3 zyut6 zing3 -- laan5 do6 gam2 mou6, gun2 gaa1 wui6 ji5 ji4 gaa1 zeon3 jap6 gan2 gap1 zong6 taai3.
+- English translation: Attention, butlers: because you are suspected of contracting the butler world’s terminal illness—Lazy Flu—the butler meeting is now entering emergency mode.
+
+- Characters: 個個都唔可以離開呢間房。
+- Sidney Lau romanization: go3 go3 dou1 m4 ho2 ji5 lei4 hoi1 ni1 gaan1 fong4.
+- English translation: No one is allowed to leave this room.
+
+- Characters: 吓！少爺小姐點算呀？
+- Sidney Lau romanization: haa2! siu3 je5 siu2 ze2 dim2 syun3 aa3?
+- English translation: What?! Then what about the young masters and misses?
+
+- Characters: 手腳也軟。
+- Sidney Lau romanization: sau2 goek3 jaa5 jyun5.
+- English translation: My hands and feet are going weak.
+
+- Characters: 人像已經失控。
+- Sidney Lau romanization: jan4 zoeng6 ji5 ging1 sat1 hung3.
+- English translation: It feels like everything is already out of control.
+
+- Characters: 我頭極痛。
+- Sidney Lau romanization: ngo5 tau4 gik6 tung3.
+- English translation: My head hurts terribly.
+
+- Characters: 如像墮進惡夢。
+- Sidney Lau romanization: jyu4 zoeng6 do6 zeon3 ok3 mung6.
+- English translation: It’s like falling into a nightmare.
+
+- Characters: 怎會接觸這種奇異病菌。
+- Sidney Lau romanization: zam2 wui5 zip3 zuk1 ze5 zung2 kei4 ji6 beng6 gwan2.
+- English translation: How did we come into contact with such a strange germ?
+
+- Characters: 心煩無奈，累了未放鬆。
+- Sidney Lau romanization: sam1 faan4 mou4 noi6, leoi6 liu5 mei6 fong3 sung1.
+- English translation: Restless and helpless—tired, but still not at ease.
+
+- Characters: 隔離被困，小姐晚餐如何能送。
+- Sidney Lau romanization: gaak3 lei4 bei6 kwan3, siu2 ze2 maan5 caan1 jyu4 ho4 nang4 sung3.
+- English translation: Trapped in quarantine—how can we deliver Miss’s dinner?
+
+- Characters: 命運被愚弄。
+- Sidney Lau romanization: ming6 wan6 bei6 jyu4 lung6.
+- English translation: Fate is making fools of us.
+
+- Characters: 小姐慣常被我寵。
+- Sidney Lau romanization: siu2 ze2 gwaan3 soeng4 bei6 ngo5 cung2.
+- English translation: Miss is usually cared for by me.
+
+- Characters: 曬被鋪床，涼又凍。
+- Sidney Lau romanization: saai3 bei6 pou1 cong4, loeng4 jau6 dung3.
+- English translation: Airing quilts and making beds—cold and chilly.
+
+- Characters: 穿上校衫，刷牙梳洗。
+- Sidney Lau romanization: cyun1 soeng5 haau6 saam1, caat3 ngaa4 so1 sai2.
+- English translation: Put on school uniform, brush teeth, wash up.
+
+- Characters: 沒我在，放學發現漏，擔心她哭叫難自控。
+- Sidney Lau romanization: mut6 ngo5 zoi6, fong3 hok6 faat3 jin6 lau6, daam1 sam1 taa1 huk1 giu3 naan4 zi6 hung3.
+- English translation: Without me there, after school she may find things missing—I worry she’ll cry out and won’t be able to calm down.
+
+- Characters: 早日結束，能為我解封。
+- Sidney Lau romanization: zou2 jat6 git3 cuk1, nang4 wai4 ngo5 gaai2 fung1.
+- English translation: Let this end soon, so I can be released.
+
+- Characters: 擺脫這惡夢。
+- Sidney Lau romanization: baai2 tyut3 ze5 ok3 mung6.
+- English translation: Break free from this nightmare.
+
+- Characters: 我一定做得到。
+- Sidney Lau romanization: ngo5 jat1 ding6 zou6 dak1 dou2.
+- English translation: I can definitely do it.
+
+- Characters: 身體要健康。
+- Sidney Lau romanization: san1 tai2 jiu3 gin6 hong1.
+- English translation: The body must stay healthy.

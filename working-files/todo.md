@@ -14,5 +14,7 @@
 - done: Run Scene 02 scene-level QA (including provisional OCR normalizations)
 - done: Process Scene 03 Section 01 extraction/translation from pages 11-12
 - done: QA Scene 03 Section 01 and update trackers/logs
-- pending: Process Scene 03 Section 02 extraction/translation from pages 13-14 (reconcile `S03-SEC01-L041` carry-over first)
-- pending: Commit this increment (Scene 03 Section 01)
+- done: Commit this increment (Scene 03 Section 01)
+- done: Process Scene 03 Section 02 extraction/translation from pages 13-14 (reconciled `S03-SEC01-L041` carry-over)
+- done: QA Scene 03 Section 02 and run Scene 03 scene-level QA
+- pending: Process Scene 04 Section 01 extraction/translation from next source page range

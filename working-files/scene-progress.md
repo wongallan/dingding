@@ -14,7 +14,7 @@ Use this file as the single source of truth for what is completed, in progress, 
 
 - Scene 01: Done
 - Scene 02: Done
-- Scene 03: In progress
+- Scene 03: Done
 - Scene 04: Not started
 - Scene 05: Not started
 - Scene 06: Not started
@@ -143,3 +143,27 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: `S03-SEC01-L041` is truncated at page boundary and must be reconciled immediately in Scene 03 Section 02 from page 13.
 - Decisions made: Kept conservative normalization on noisy OCR tokens; retained `麥芬尼/芬尼` as the same mapped character (`Fanny`) and preserved in working notes.
 - Next action: Process Scene 03 Section 02 from next source pages, beginning with carry-over completion for `S03-SEC01-L041`.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 03 / Section 02
+- Source pages: 13-14
+- Status: Done
+- Completed: OCR batch B08 saved; dialogue-only extraction staged with 22 lines (including carry-over completion for `S03-SEC01-L041`); 22 triplets written to `booklet/script/scene-03.md`; section QA completed.
+- Outstanding: Page-13 lyric cluster includes two conservatively normalized low-confidence lexemes (`S03-SEC02-L010`, `S03-SEC02-L016`) pending optional re-OCR hardening.
+- Decisions made: Preserved emergency-quarantine narrative flow and butler-panic song structure while explicitly tracking uncertainty in working extraction notes.
+- Next action: Run Scene 03 scene-level consistency pass and close scene status.
+
+### 2026-02-14 — Scene-Level Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 03 / Full Scene QA
+- Source pages: 11-14 (with page-14 Scene 04 crossover noted)
+- Status: Done
+- Completed: Scene-level continuity/duplicate/format checks logged in `working-files/qa/scene-03-scene-check.md`; Scene 03 marked complete.
+- Outstanding: Optional targeted re-OCR of page 13 lyrics to harden two low-confidence normalized tokens.
+- Decisions made: Treated page-boundary carry-over as closed and retained explicit uncertainty tracking rather than silently overfitting degraded OCR.
+- Next action: Start Scene 04 Section 01 extraction/conversion from page 14 with fresh section IDs.
