@@ -37,5 +37,5 @@
 
 ## Residual Risk Notes
 
-- Targeted hardening completed for `S05-SEC03-L004` and `S05-SEC03-L013` by re-checking `working-files/ocr/batch-12-pages-21-22.md`.
-- Residual low-confidence lexeme remains only at `S05-SEC03-L038`; section structure and continuity are stable.
+- Targeted hardening completed for `S05-SEC03-L004`, `S05-SEC03-L013`, and `S05-SEC03-L038` by re-checking `working-files/ocr/batch-12-pages-21-22.md`.
+- No remaining section-level lyric lexeme uncertainty for page 21 at current source quality.

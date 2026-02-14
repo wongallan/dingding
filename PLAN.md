@@ -496,3 +496,18 @@ Run optional publication-hardening pass:
 ## Revised Open Hardening Queue (Post Scene 09 Increment)
 
 - Optional micro-hardening for Scene 05 (`S05-SEC03-L038` lexeme `香濃不散`).
+
+## Execution Update (2026-02-14, Scene 05 Micro-Hardening Closure)
+
+- Verified via `working-files/todo.md`, Scene 05 QA notes, and output artifacts that the final uncompleted item was optional micro-hardening for `S05-SEC03-L038`.
+- Completed targeted re-check against `working-files/ocr/batch-12-pages-21-22.md` and locked wording stability for `S05-SEC03-L038` as `香濃不散`.
+- Updated all affected artifacts:
+   - `working-files/extracted/scene-05-section-03-raw-dialogue.md`
+   - `working-files/qa/scene-05-section-03-check.md`
+   - `working-files/qa/scene-05-scene-check.md`
+   - `working-files/scene-progress.md`
+   - `working-files/todo.md`
+
+## Revised Open Hardening Queue (Post Scene 05 Micro-Hardening Closure)
+
+- None.

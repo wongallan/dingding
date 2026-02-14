@@ -503,3 +503,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Optional micro-hardening remains for Scene 05 `S05-SEC03-L038` (`香濃不散`).
 - Decisions made: Locked conservative normalized reads as publication-stable for Scene 09 finale song; no stage-direction spillover or line-order drift found.
 - Next action: Execute the last remaining optional hardening item from `working-files/todo.md` (Scene 05 `S05-SEC03-L038`).
+
+### 2026-02-14 — Hardening Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 05 / Section 03 micro-hardening closure
+- Source pages: 21
+- Status: Done
+- Completed: Re-checked `working-files/ocr/batch-12-pages-21-22.md` against `working-files/extracted/scene-05-section-03-raw-dialogue.md` and `booklet/script/scene-05.md`; locked `S05-SEC03-L038` as `香濃不散` and synchronized section/scene QA plus todo tracking.
+- Outstanding: None.
+- Decisions made: Kept `香濃不散` unchanged as the best OCR-supported read (`濃不散`) with coherent lyric continuity after `你快看出爐`.
+- Next action: No remaining open hardening queue items in `working-files/todo.md`.

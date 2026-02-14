@@ -42,7 +42,7 @@
 | S05-SEC03-L035 | 21 | 比比 | 等一等 | Song continuation; OCR normalized |
 | S05-SEC03-L036 | 21 | 比比 | 等一等 | Song continuation; OCR normalized |
 | S05-SEC03-L037 | 21 | 比比 | 你快看出爐 | Song continuation; OCR normalized |
-| S05-SEC03-L038 | 21 | 比比 | 香濃不散 | Song continuation; conservative normalization |
+| S05-SEC03-L038 | 21 | 比比 | 香濃不散 | Song continuation; hardened with OCR re-check |
 | S05-SEC03-L039 | 21 | 比比 | 加啲蛋加啲粉，太有趣加啲冰 | Song continuation; merged split OCR line |
 | S05-SEC03-L040 | 21 | 比比 | 人人都讚 | Song continuation; OCR normalized |
 | S05-SEC03-L041 | 21 | 遙遙 | 慘啦，我啲早餐。 | Post-song dialogue; OCR normalized |
@@ -54,6 +54,6 @@
 
 ## Uncertainty Tracking
 
-- Targeted hardening completed for `S05-SEC03-L004` and `S05-SEC03-L013` via OCR re-check.
-- Residual low-confidence lyric lexeme remains in `S05-SEC03-L038` only; sequence and dramatic flow are stable.
+- Targeted hardening completed for `S05-SEC03-L004`, `S05-SEC03-L013`, and `S05-SEC03-L038` via OCR re-check.
+- No remaining page-21 lyric lexeme uncertainty in Scene 05 Section 03 at current source quality.
 - Speaker assignment on chorus lines is inferred from degraded speaker tags and prior call-response pattern; kept conservative and documented.

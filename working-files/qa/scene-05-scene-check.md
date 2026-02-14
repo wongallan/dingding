@@ -41,8 +41,8 @@
 
 ## Residual Risk Notes
 
-- Page-21 targeted hardening is complete for key low-confidence lyric lexemes (`S05-SEC03-L004`, `S05-SEC03-L013`).
-- Remaining non-blocking lyric uncertainty is concentrated in page-20 and one page-21 lexeme (`S05-SEC03-L038`).
+- Page-21 targeted hardening is complete for low-confidence lyric lexemes (`S05-SEC03-L004`, `S05-SEC03-L013`, `S05-SEC03-L038`).
+- Remaining non-blocking lyric uncertainty is limited to page-20 conservative normalizations.
 
 ## Scene Status
 
