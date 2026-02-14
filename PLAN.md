@@ -261,6 +261,22 @@ The booklet is done when:
 
 ---
 
+## Execution Updates
+
+### 2026-02-14
+
+- Verified highest-priority unfinished task via outputs/tracking: Scene 05 Section 01 (page 18) was not yet extracted/converted.
+- Completed Scene 05 Section 01 pipeline end-to-end:
+   - Extraction staged in `working-files/extracted/scene-05-section-01-raw-dialogue.md`
+   - Conversion written to `booklet/script/scene-05.md`
+   - Section QA logged in `working-files/qa/scene-05-section-01-check.md`
+- New/active follow-up tasks discovered during execution:
+   1. OCR next batch for Scene 05 continuity (`pages 19-20`) before Section 02 conversion.
+   2. Re-check low-confidence tokens from Scene 05 Section 01 (`S05-SEC01-L005`, `L007`, `L015`) against next-page context.
+   3. Keep Scene 04 page-17 lyric targeted re-OCR hardening as non-blocking publication-quality task.
+
+---
+
 ## Live Execution Updates (2026-02-14)
 
 - Scene 04 Section 03 source (page 17) is completed with conservative lyric normalization due low OCR confidence.

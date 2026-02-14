@@ -16,7 +16,7 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Scene 02: Done
 - Scene 03: Done
 - Scene 04: Done
-- Scene 05: Not started
+- Scene 05: In progress
 - Scene 06: Not started
 - Scene 07: Not started
 - Scene 08: Not started
@@ -215,3 +215,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Optional page-17 lyric re-OCR hardening task remains tracked as non-blocking follow-up.
 - Decisions made: Scene boundary ownership locked (`第四幕完` closes Scene 04, `第五幕` begins Scene 05).
 - Next action: Begin Scene 05 Section 01 extraction/conversion from page 18 onward.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 05 / Section 01
+- Source pages: 18
+- Status: Done
+- Completed: Dialogue-only extraction staged with 15 lines; 15 triplets written to `booklet/script/scene-05.md`; section QA completed in `working-files/qa/scene-05-section-01-check.md`.
+- Outstanding: Three low-confidence OCR lexemes (`S05-SEC01-L005`, `L007`, `L015`) require cross-check during next batch.
+- Decisions made: Preserved mixed-language spoken tokens and kept conservative normalization where OCR was degraded.
+- Next action: OCR and process Scene 05 Section 02 from pages 19-20, then continue section loop.
