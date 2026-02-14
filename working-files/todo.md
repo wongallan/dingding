@@ -10,5 +10,6 @@
 - done: Targeted lyric hardening complete for Scene 04 page-17 lyric block (`S04-SEC03-L016` to `L025`; lock on `L023`).
 - done: Optional publication-polish hardening complete for Scene 09 finale lyric cluster (pages 37-38), with OCR-backed wording stability lock.
 - done: Optional micro-hardening complete for Scene 05 (`S05-SEC03-L038` lexeme `香濃不散`) with OCR-backed wording lock.
+- done: Final terminology lock and tracker sync complete (canonical terms/names locked; plan/progress trackers synchronized).
 - in-progress: None.
 - pending: None.

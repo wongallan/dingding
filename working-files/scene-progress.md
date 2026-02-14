@@ -515,3 +515,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: None.
 - Decisions made: Kept `香濃不散` unchanged as the best OCR-supported read (`濃不散`) with coherent lyric continuity after `你快看出爐`.
 - Next action: No remaining open hardening queue items in `working-files/todo.md`.
+
+### 2026-02-14 — Canonical Lock Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Cross-scene terminology and naming lock
+- Source pages: Script corpus references (Scenes 01/05/06/09 term occurrences)
+- Status: Done
+- Completed: Verified usage in booklet outputs and finalized canonical locks in `working-files/place-term-glossary.md` (`比卡特羅家族` → `Pikatero Family`, `愛叮堡榮譽` → `Love-Ding Honor`, `安特烈山` → `Mount Antrel`) and `working-files/character-name-map.md` (`達爾` locked as `Dar`; `芬尼/麥芬尼` treated as one character entry).
+- Outstanding: None.
+- Decisions made: Historical section/scene notes that mention provisional status are retained as audit history; canonical references are now locked in shared maps.
+- Next action: No remaining open production tasks; maintainers can proceed to publication/export workflow when needed.

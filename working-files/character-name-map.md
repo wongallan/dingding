@@ -25,13 +25,13 @@ Use this file to lock character naming across all scenes.
 - 哈娜 — haa1 no4 — Hana — Butler character introduced in Scene 02.
 - 占士 — zim1 si6 — James — Butler/service role; appears in stage action in Scene 02.
 - 艾莉 — ngaai6 lei6 — Ellie — Butler/service role in Scene 02 breakfast segment.
-- 芬尼（麥芬尼） — fan1 nei4 (mak6 fan1 nei4) — Fanny — Butler label appears in two OCR variants on page 8; treated as same character provisionally.
+- 芬尼（麥芬尼） — fan1 nei4 (mak6 fan1 nei4) — Fanny — Butler label appears in two OCR variants; treated as the same character across scenes.
 - 晴兒 — cing4 ji4 — Ching-Yi — Classmate referenced in Scene 02 dialogue.
 - 奧妙妮 — ou3 miu6 nei4 — O-Miu-Nei — Butler/attendant addressing Dar in Scene 02 page 9.
 - 魯魯夫 — lou5 lou5 fu1 — Lulu-Fu — Butler in Bibi breakfast sequence (Scene 02 page 9).
 - 沙沙拉 — saa1 saa1 laai1 — Sa-Sa-La — Butler in Bibi breakfast sequence (Scene 02 page 9).
 - 管家合唱 — gun2 gaa1 hap6 coeng3 — Butler Chorus — Ensemble singer label for Scene 02 anthem on page 10.
 
-## Needs Decision
+## Finalization Note
 
-- Keep `達爾` as `Dar` (phonetic) vs `Dahl` (English-looking spelling).
+- `達爾` is locked as `Dar` across booklet and working files for consistency with script usage.

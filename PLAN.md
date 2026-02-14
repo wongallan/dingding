@@ -11,6 +11,13 @@ Critical requirements:
 - For songs, preserve artistic intent while staying faithful to source meaning (not purely literal translation).
 - Work iteratively in small sections to reduce confusion across scenes/characters.
 
+## Current Status Snapshot (2026-02-14)
+
+- Scene corpus completion: `booklet/script/scene-01.md` through `scene-09.md` are complete with section-level and scene-level QA logs.
+- Booklet completion: `booklet/characters.md`, `booklet/scene-synopsis.md`, and `booklet/overview.md` are populated and aligned to script outcomes.
+- Hardening queue: Targeted optional lyric/OCR hardening queue is closed.
+- Terminology state: Canonical names/terms are locked in `working-files/character-name-map.md` and `working-files/place-term-glossary.md`.
+
 ## Source Inventory (Current Workspace)
 
 - `reference/叮叮魔法師劇本1-38.pdf` (large scanned PDF, ~14.8 MB)
