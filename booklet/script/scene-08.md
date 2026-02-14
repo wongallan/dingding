@@ -335,3 +335,7 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Characters: 多謝！
 - Sidney Lau romanization: do1 ze6!
 - English translation: Thank you!
+
+---
+
+[← Back to Script Index](index.md) | [← Back to Home](../index.md)

@@ -35,6 +35,7 @@ This guide lists recurring characters and ensemble labels used across the full s
 
 ## Navigation
 
+- [← Back to Home](index.md)
 - [Overview](overview.md)
 - [Scene Synopsis](scene-synopsis.md)
 - [Script files](script/)

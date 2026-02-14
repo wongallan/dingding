@@ -251,3 +251,7 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Characters: 擺脫這惡夢。
 - Sidney Lau romanization: baai2 tyut3 ze5 ok3 mung6.
 - English translation: Break free from this nightmare.
+
+---
+
+[← Back to Script Index](index.md) | [← Back to Home](../index.md)

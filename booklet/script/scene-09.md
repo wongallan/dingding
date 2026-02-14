@@ -391,3 +391,7 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Characters: 成長！
 - Sidney Lau romanization: sing4 zoeng2!
 - English translation: Growth!
+
+---
+
+[← Back to Script Index](index.md) | [← Back to Home](../index.md)

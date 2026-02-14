@@ -1,0 +1,22 @@
+title: Ding Ding Magic
+description: A children's musical booklet
+theme: jekyll-theme-minimal
+
+# GitHub Pages settings
+baseurl: "/dingding"
+url: "https://wongallan.github.io"
+
+# Build settings
+markdown: kramdown
+
+# Include the booklet directory
+include:
+  - booklet
+
+# Exclude files
+exclude:
+  - reference
+  - working-files
+  - PLAN.md
+  - .git
+  - .gitignore
