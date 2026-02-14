@@ -462,3 +462,22 @@ Run optional publication-hardening pass:
 - Completed targeted hardening verification against `working-files/ocr/batch-18-pages-31-32.md` and closed both lines as stable.
 - Reconciled stale status drift across QA trackers where completed hardening was still listed as pending (notably Scene 06 and Scene 08 scene-level residual notes).
 - Updated lightweight status queue in `working-files/todo.md` to keep only active/open publication-hardening items.
+
+## Execution Update (2026-02-14, Scene 04 Hardening Increment)
+
+- Verified highest-priority uncompleted task by artifact state (`working-files/todo.md`, Scene 04 QA residual notes, and `booklet/script/scene-04.md`): optional targeted hardening for Scene 04 page-17 lyric block.
+- Completed targeted re-check against `working-files/ocr/batch-10-pages-17-18.md` and extraction/script outputs.
+- Applied one OCR-supported wording lock:
+   - `S04-SEC03-L023`: `無管家解決問題，個書包好重，點算好。` → `無管家解決問題，個書包好重，落堂點算好。`
+- Updated all affected artifacts:
+   - `booklet/script/scene-04.md`
+   - `working-files/extracted/scene-04-section-03-raw-dialogue.md`
+   - `working-files/qa/scene-04-section-03-check.md`
+   - `working-files/qa/scene-04-scene-check.md`
+   - `working-files/scene-progress.md`
+   - `working-files/todo.md`
+
+## Revised Open Hardening Queue (Post Scene 04 Increment)
+
+- Optional micro-hardening for Scene 05 (`S05-SEC03-L038` lexeme `香濃不散`).
+- Optional publication-polish hardening for Scene 09 finale lyric cluster (pages 37-38).

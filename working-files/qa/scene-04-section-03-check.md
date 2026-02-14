@@ -34,7 +34,14 @@
 - Stage directions, bell cues, and movement lines are excluded from triplets.
 - Result: PASS
 
+## Hardening Pass (2026-02-14)
+
+- Re-checked `working-files/ocr/batch-10-pages-17-18.md` against lyric lines `S04-SEC03-L016` to `S04-SEC03-L025`.
+- Locked one OCR-supported wording correction:
+  - `S04-SEC03-L023`: `無管家解決問題，個書包好重，點算好。`
+  - → `無管家解決問題，個書包好重，落堂點算好。`
+- Remaining lyric lines in this block are retained as conservative best reads under current OCR quality.
+
 ## Residual Risk Notes
 
-- OCR quality on page 17 is low, especially in the lyric block (`S04-SEC03-L016` to `S04-SEC03-L025`).
-- Recommend targeted re-OCR of page 17 before publication lock if higher-confidence lyric wording is required.
+- Page-17 lyric OCR remains noisy overall, but this section no longer has an open targeted hardening item.

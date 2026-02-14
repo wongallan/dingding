@@ -479,3 +479,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: One optional low-confidence lyric lexeme remains at `S05-SEC03-L038` (`香濃不散`).
 - Decisions made: Accepted OCR-supported Cantonese-tightened phrasing for `L004`/`L013` while retaining `L038` unchanged to avoid over-reconstruction.
 - Next action: Execute the remaining optional hardening task from `working-files/todo.md` (Scene 04 page-17 lyric block).
+
+### 2026-02-14 — Hardening Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 04 / Section 03 targeted lyric hardening
+- Source pages: 17
+- Status: Done
+- Completed: Re-checked `working-files/ocr/batch-10-pages-17-18.md` against staged extraction and script lines `S04-SEC03-L016` to `L025`; locked one OCR-supported wording correction in `S04-SEC03-L023` from `無管家解決問題，個書包好重，點算好。` to `無管家解決問題，個書包好重，落堂點算好。`; synchronized section/scene QA and todo tracking.
+- Outstanding: Optional publication hardening remains for Scene 05 `S05-SEC03-L038` and Scene 09 finale lyric cluster.
+- Decisions made: Accepted only one correction with direct OCR support (`...好重落堂點算好`) and retained other lyric lines as conservative best reads.
+- Next action: Execute next optional hardening item from `working-files/todo.md` (Scene 05 `S05-SEC03-L038`).

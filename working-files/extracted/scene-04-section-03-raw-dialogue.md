@@ -27,7 +27,7 @@
 | S04-SEC03-L020 | 17 | 眾人（唱） | 我唔知點樣踏前路，啊，有邊個可救助？ | Lyric line normalized |
 | S04-SEC03-L021 | 17 | 眾人（唱） | 我唔想撞親跌低，蜘蛛飛舞，好恐怖。 | Lyric line normalized |
 | S04-SEC03-L022 | 17 | 眾人（唱） | 我想逃，神經爆煲，點算好。 | Lyric line normalized |
-| S04-SEC03-L023 | 17 | 眾人（唱） | 無管家解決問題，個書包好重，點算好。 | Lyric line normalized |
+| S04-SEC03-L023 | 17 | 眾人（唱） | 無管家解決問題，個書包好重，落堂點算好。 | Lyric line hardened (targeted re-check against OCR batch 10) |
 | S04-SEC03-L024 | 17 | 眾人（唱） | 無管家煎炒煮炸，四周污糟，點算好。 | Lyric line normalized |
 | S04-SEC03-L025 | 17 | 眾人（唱） | 我置身黑暗像迷路。 | Lyric line normalized |
 

@@ -378,9 +378,9 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Sidney Lau romanization: ngo5 seung2 tou4, san4 ging1 baau3 bou1, dim2 syun3 hou2.
 - English translation: I want to run away; my nerves are blown—what do we do?
 
-- Characters: 無管家解決問題，個書包好重，點算好。
-- Sidney Lau romanization: mou4 gun2 gaa1 gaai2 kyut3 man6 tai4, go3 syu1 baau1 hou2 zung6, dim2 syun3 hou2.
-- English translation: No butlers to solve problems; this schoolbag is so heavy—what do we do?
+- Characters: 無管家解決問題，個書包好重，落堂點算好。
+- Sidney Lau romanization: mou4 gun2 gaa1 gaai2 kyut3 man6 tai4, go3 syu1 baau1 hou2 zung6, lok6 tong4 dim2 syun3 hou2.
+- English translation: No butlers to solve problems; this schoolbag is so heavy—how do we get through class?
 
 - Characters: 無管家煎炒煮炸，四周污糟，點算好。
 - Sidney Lau romanization: mou4 gun2 gaa1 zin1 caau2 zyu2 zaa3, sei3 zau1 wu1 zou1, dim2 syun3 hou2.

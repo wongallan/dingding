@@ -35,5 +35,4 @@
 
 ## Residual Risk Notes
 
-- Page-17 song OCR is low confidence; lyric wording is conservatively normalized and tracked in section QA/extraction notes.
-- Optional hardening task: targeted re-OCR on page 17 prior to final publication lock.
+- Page-17 song OCR remains lower confidence than dialogue passages, but targeted hardening is complete and one lyric line lock was applied (`S04-SEC03-L023`) during re-check.
