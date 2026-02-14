@@ -165,3 +165,13 @@ Track all OCR extraction batches from scanned sources.
 - Confidence notes: Page 26 is clean boundary material (`第六幕完`) with no spoken/sung lines; page 27 begins Scene 07 with dialogue and lyric content but mixed OCR confidence.
 - Unclear lines count: 8 (mostly page-27 low-confidence lyric tokens and fragmented dialogue lines)
 - Follow-up required: Close Scene 06 at page 26 boundary and start Scene 07 Section 01 extraction from page 27 (continue with next page for continuity).
+
+- Batch ID: B16
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Source file: reference/叮叮魔法師劇本1-38.pdf
+- Page range: 28-28
+- Output file: working-files/ocr/batch-16-pages-28-28.md
+- Confidence notes: Mixed-to-low OCR confidence; dialogue cues are recoverable and lyric lines are heavily fragmented but sequence-stable.
+- Unclear lines count: 10 (mostly lyric-token corruption in `我真的試了` tail and `靜靜守候` block)
+- Follow-up required: Continue Scene 07 with next OCR batch (pages 29-30) and schedule targeted lyric hardening for pages 27-28.

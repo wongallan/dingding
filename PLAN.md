@@ -319,7 +319,7 @@ The booklet is done when:
 
 ## Active Next Task
 
-- Process `Scene 07 / Section 01` from pages 27-28 and continue the extraction → conversion → QA loop.
+- Process `Scene 07 / Section 02` from pages 29-30 and continue the extraction → conversion → QA loop.
 
 ## Active OCR Follow-Ups (2026-02-14)
 
@@ -347,6 +347,7 @@ The booklet is done when:
 - 2026-02-14: Scene 02 scene-level QA completed and Scene 02 marked done (pages 6-10).
 - 2026-02-14: Scene 03 Section 01 completed (pages 11-12), extraction + conversion + section QA passed; one end-of-page carry-over line explicitly tracked (`S03-SEC01-L041`).
 - 2026-02-14: Scene 06 full-scene QA completed; page-26 OCR verifies `第六幕完` with no spoken/sung lines, so Scene 06 closes after Section 02.
+- 2026-02-14: Scene 07 Section 01 completed (pages 27-28), extraction + conversion + section QA passed; mixed-confidence lyric blocks were normalized conservatively with residual risk notes.
 
 ## Discovered Constraints (2026-02-14)
 
@@ -355,14 +356,21 @@ The booklet is done when:
 - For uncertain OCR tokens, normalize only when context is strong; otherwise retain `[[unclear]]` in extracted files and defer final wording.
 - Scene 02 page 6 includes dense OCR artifacts in lyric blocks and butler dialogue; prioritize adjacent-page context validation in the next batch (pages 7-8) before locking long-form lexical choices globally.
 - Scene 03 pages 11-12 contain heavier line-fragmentation and mixed-script OCR drift than Scene 02; preserve conservative normalization and avoid aggressive lexical reconstruction without adjacent-page confirmation.
+- Scene 07 pages 27-28 continue the same OCR drift pattern in lyric-heavy zones (`我真的試了`, `靜靜守候`); preserve sequence-first normalization and track low-confidence tokens explicitly for hardening passes.
+
+## Newly Discovered Follow-Up Tasks (2026-02-14)
+
+- Run targeted re-OCR hardening for Scene 07 pages 27-28 lyric clusters before scene lock.
+- Resolve low-confidence addressee token in `S07-SEC01-L010` (`阿叮` provisional) when clearer recurrence appears.
+- Keep competition title lexeme (`愛叮堡榮譽` variants) as provisional until a cleaner recurrence in later Scene 07/08 OCR confirms canonical wording.
 
 ---
 
 ## Immediate Next Action
 
-Continue with Scene 7, Section 1:
+Continue with Scene 7, Section 2:
 
-1. OCR pages 27-28 and save batch output under `working-files/ocr/`.
-2. Extract dialogue-only lines with fresh `S07-SEC01-Lxxx` IDs.
+1. OCR pages 29-30 and save batch output under `working-files/ocr/`.
+2. Extract dialogue-only lines with fresh `S07-SEC02-Lxxx` IDs.
 3. Convert and append triplets in `booklet/script/scene-07.md`.
 4. Run section QA, then proceed toward Scene 07 scene-level QA once section loop is complete.

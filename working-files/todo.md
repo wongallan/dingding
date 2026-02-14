@@ -3,13 +3,14 @@
 - done: Scene 01 complete (all sections + scene QA)
 - done: Scene 02 complete (all sections + scene QA)
 - done: Scene 03 complete (boundary-corrected + scene QA)
-- done: Run Scene 04 scene-level QA and close Scene 04
-- done: Run Scene 05 scene-level QA and close Scene 05
-- done: Scene 06 Section 01 extraction + translation + section QA (pages 22-23)
-- done: Scene 06 Section 02 extraction + translation + section QA (pages 24-25)
+- done: Scene 04 complete (scene-level QA closed)
+- done: Scene 05 complete (scene-level QA closed)
+- done: Scene 06 complete (all sections + scene-level QA + boundary lock)
+- done: OCR + process Scene 07 Section 01 from pages 27-28
+- in-progress: Scene 07 continuation (next section OCR + extraction + conversion + QA)
+- pending: OCR pages 29-30 and process Scene 07 Section 02
 - pending: Optional targeted re-OCR hardening for Scene 04 page-17 lyric block
 - pending: Optional targeted re-OCR hardening for Scene 05 page-21 lyric block
-- pending: Resolve canonical competition title lexeme (`愛叮堡榮譽` vs OCR variants) once clearer recurrence appears
 - pending: Targeted re-OCR hardening for Scene 06 page-25 low-confidence lyric lines (`S06-SEC02-L058`, `L061`, `L062`)
-- done: Scene 06 full-scene QA + boundary lock (page 26 confirmed as stage-direction-only `第六幕完`)
-- pending: OCR + process Scene 07 Section 01 from pages 27-28
+- pending: Targeted lyric hardening re-OCR for Scene 07 pages 27-28 (`S07-SEC01-L010`, song blocks)
+- pending: Resolve canonical competition title lexeme (`愛叮堡榮譽` vs OCR variants) once clearer recurrence appears

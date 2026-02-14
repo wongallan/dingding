@@ -18,7 +18,7 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Scene 04: Done
 - Scene 05: Done
 - Scene 06: Done
-- Scene 07: Not started
+- Scene 07: In progress
 - Scene 08: Not started
 - Scene 09: Not started
 
@@ -299,3 +299,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Targeted re-OCR hardening remains for low-confidence page-25 lyric lines (`S06-SEC02-L058`, `L061`, `L062`); competition-title lexeme remains provisional pending cleaner recurrence.
 - Decisions made: Closed Scene 06 with no Section 03 dialogue payload; re-prioritized workflow to Scene 07 start.
 - Next action: Begin Scene 07 Section 01 extraction/conversion from page 27 onward.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 07 / Section 01
+- Source pages: 27-28
+- Status: Done
+- Completed: OCR batch B16 generated for page 28; dialogue-only extraction staged with 34 lines; 34 triplets written to `booklet/script/scene-07.md`; section QA completed in `working-files/qa/scene-07-section-01-check.md`.
+- Outstanding: Song-heavy lyric tokens remain low-confidence on pages 27-28 and should be targeted for hardening re-OCR in a follow-up pass.
+- Decisions made: Preserved mixed-language spoken tokens (`I hate it`, `Baby`, `relax`) and applied conservative lyric normalization to maintain sequence and scene intent.
+- Next action: OCR pages 29-30 and process Scene 07 Section 02.

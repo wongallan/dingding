@@ -47,3 +47,17 @@ Document major lyric adaptation decisions so all agents apply the same artistic 
 - Final lyric rendering: Retained recurring `what do we do` cadence in each line while normalizing heavily fragmented OCR into coherent, performable panic-chorus lines.
 - Rationale (meter, tone, audience clarity, artistic intent): Preserve refrain-driven singability and comedic stress tone; prioritize repeated semantic anchors over speculative word-level reconstruction in low-confidence OCR zones.
 - Approved by: Copilot (GPT-5.3-Codex)
+
+- Scene/Song: Scene 07 breakdown song (`我真的試了`, pages 27-28)
+- Source phrase: repeated `叮一聲` contrast against loss-of-control and self-doubt lines.
+- Literal meaning: The singer contrasts former effortless magic with present helplessness and fear of trying again.
+- Final lyric rendering: Kept `叮一聲` as a recurring anchor while condensing fragmented OCR lyric shards into coherent emotional lines in the same narrative order.
+- Rationale (meter, tone, audience clarity, artistic intent): Preserve collapse-from-confidence arc and stage emotion; prioritize continuity and semantic anchors over speculative character-level reconstruction in low-confidence tokens.
+- Approved by: Copilot (GPT-5.3-Codex)
+
+- Scene/Song: Scene 07 butler support song (`靜靜守候`, page 28)
+- Source phrase: quiet guardianship, stepping back, and staying nearby through setbacks.
+- Literal meaning: Love means allowing growth through independent struggle while continuing to protect from a respectful distance.
+- Final lyric rendering: Used calm, promise-like phrasing around `守候`, `放手`, and `陪伴` to keep the mentorship/guardianship emotional core.
+- Rationale (meter, tone, audience clarity, artistic intent): Maintain lullaby-like reassurance and thematic handoff from dependency to independence; keep recurring support verbs stable for future scene callbacks.
+- Approved by: Copilot (GPT-5.3-Codex)
