@@ -266,6 +266,7 @@ The booklet is done when:
    - speaker label variant `芬尼` vs `麥芬尼`
    - one imperative particle in `S02-SEC02-L021`
 - Pages 9-10 did not provide clear recurrence for final lexical confirmation; keep these as explicitly tracked provisional normalizations until cleaner source evidence appears.
+- Scene 03 page 12 ends with a truncated dialogue line (virus/sneezing line); treat as mandatory carry-over reconciliation at Scene 03 Section 02 start before scene-level QA.
 
 ---
 
@@ -281,6 +282,7 @@ The booklet is done when:
 - 2026-02-14: Scene 02 Section 02 completed (pages 7-8), extraction + conversion + section QA passed.
 - 2026-02-14: Scene 02 Section 03 completed (pages 9-10), extraction + conversion + section QA passed; lyric-heavy OCR normalized conservatively with uncertainty notes.
 - 2026-02-14: Scene 02 scene-level QA completed and Scene 02 marked done (pages 6-10).
+- 2026-02-14: Scene 03 Section 01 completed (pages 11-12), extraction + conversion + section QA passed; one end-of-page carry-over line explicitly tracked (`S03-SEC01-L041`).
 
 ## Discovered Constraints (2026-02-14)
 
@@ -288,14 +290,15 @@ The booklet is done when:
 - Page-level OCR output includes artifacts (branding text, isolated numerals, and partial props notes) that must be filtered during extraction.
 - For uncertain OCR tokens, normalize only when context is strong; otherwise retain `[[unclear]]` in extracted files and defer final wording.
 - Scene 02 page 6 includes dense OCR artifacts in lyric blocks and butler dialogue; prioritize adjacent-page context validation in the next batch (pages 7-8) before locking long-form lexical choices globally.
+- Scene 03 pages 11-12 contain heavier line-fragmentation and mixed-script OCR drift than Scene 02; preserve conservative normalization and avoid aggressive lexical reconstruction without adjacent-page confirmation.
 
 ---
 
 ## Immediate Next Action
 
-Continue with Scene 3, Section 1:
+Continue with Scene 3, Section 2:
 
-1. Identify next source page range immediately after Scene 02 ending marker and OCR that batch.
-2. Save batch output and extract dialogue-only lines with fresh `S03-SEC01-Lxxx` IDs.
+1. OCR next source pages (starting page 13) and reconcile the carry-over completion for `S03-SEC01-L041` first.
+2. Save batch output and extract dialogue-only lines with fresh `S03-SEC02-Lxxx` IDs.
 3. Convert and append section triplets in `booklet/script/scene-03.md`.
 4. Run section QA and update trackers/logs.

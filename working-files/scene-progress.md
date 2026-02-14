@@ -14,7 +14,7 @@ Use this file as the single source of truth for what is completed, in progress, 
 
 - Scene 01: Done
 - Scene 02: Done
-- Scene 03: Not started
+- Scene 03: In progress
 - Scene 04: Not started
 - Scene 05: Not started
 - Scene 06: Not started
@@ -131,3 +131,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Provisional OCR normalizations from Section 02 remain tracked in working notes due lack of clearer recurrence.
 - Decisions made: Closed Scene 02 as complete within available source quality; unresolved lexical uncertainty preserved as explicit risk note rather than silently forcing novel terms.
 - Next action: Start Scene 03 Section 01 extraction/conversion on next source page range.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 03 / Section 01
+- Source pages: 11-12
+- Status: Done
+- Completed: OCR batch B07 saved; dialogue-only extraction staged with 41 lines; 41 triplets written to `booklet/script/scene-03.md`; section QA completed.
+- Outstanding: `S03-SEC01-L041` is truncated at page boundary and must be reconciled immediately in Scene 03 Section 02 from page 13.
+- Decisions made: Kept conservative normalization on noisy OCR tokens; retained `麥芬尼/芬尼` as the same mapped character (`Fanny`) and preserved in working notes.
+- Next action: Process Scene 03 Section 02 from next source pages, beginning with carry-over completion for `S03-SEC01-L041`.

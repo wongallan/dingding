@@ -75,3 +75,13 @@ Track all OCR extraction batches from scanned sources.
 - Confidence notes: Mixed-to-low OCR quality on lyric-heavy page 10; scene-level structure recoverable with conservative normalization.
 - Unclear lines count: 6 (mostly lyric token degradation and one page-9 timephrase lexeme)
 - Follow-up required: Carry unresolved lyric-token uncertainty to cross-scene terminology normalization if a cleaner source version becomes available.
+
+- Batch ID: B07
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Source file: reference/叮叮魔法師劇本1-38.pdf
+- Page range: 11-12
+- Output file: working-files/ocr/batch-07-pages-11-12.md
+- Confidence notes: Low-to-mixed OCR quality with heavy header/noise artifacts and split speaker lines; dialogue remains recoverable with conservative normalization.
+- Unclear lines count: 3 (one angle-token ambiguity resolved contextually and one page-boundary truncated line carried forward)
+- Follow-up required: Reconcile carry-over line from page 12 to page 13 at start of Scene 03 Section 02 before scene-level QA.
