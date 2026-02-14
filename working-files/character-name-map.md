@@ -23,6 +23,9 @@ Use this file to lock character naming across all scenes.
 - 貝琪 — bui3 kei4 — Becky — Butler character introduced in Scene 02.
 - 哈娜 — haa1 no4 — Hana — Butler character introduced in Scene 02.
 - 占士 — zim1 si6 — James — Butler/service role; appears in stage action in Scene 02.
+- 艾莉 — ngaai6 lei6 — Ellie — Butler/service role in Scene 02 breakfast segment.
+- 芬尼（麥芬尼） — fan1 nei4 (mak6 fan1 nei4) — Fanny — Butler label appears in two OCR variants on page 8; treated as same character provisionally.
+- 晴兒 — cing4 ji4 — Ching-Yi — Classmate referenced in Scene 02 dialogue.
 
 ## Needs Decision
 

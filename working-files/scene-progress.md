@@ -95,3 +95,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Validate heavy OCR normalizations against next pages for continuity; continue Scene 02 on pages 7-8.
 - Decisions made: Treated opening chorus as lyric lines with preserved repetition; normalized degraded lexemes only when contextual confidence was sufficient and logged each normalization.
 - Next action: Process Scene 02 Section 02 from pages 7-8 with fresh IDs (`S02-SEC02-Lxxx`).
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 02 / Section 02
+- Source pages: 7-8
+- Status: Done
+- Completed: OCR batch B05 saved; dialogue-only extraction staged with 38 lines; 38 triplets written to `booklet/script/scene-02.md`; section QA completed.
+- Outstanding: Re-validate four provisional OCR normalizations during Scene 02 scene-level QA (`魚水波蛋`, `貴族早餐指引`, `芬尼/麥芬尼`, and one imperative particle in `S02-SEC02-L021`).
+- Decisions made: Normalized dropped speaker label before `唔制呀，我想食奶凍先。` to `遙遙` by dialogue flow; normalized `麥芬尼` to `芬尼` provisionally for consistency.
+- Next action: Process Scene 02 Section 03 from pages 9-10 and then run Scene 02 scene-level consistency pass.

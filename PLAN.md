@@ -258,6 +258,15 @@ The booklet is done when:
 - **Lyric over-adaptation risk**: Track adaptation rationale in song decisions file.
 - **Missed lines risk**: Mandatory extracted-vs-written line count check per section.
 
+## Active OCR Follow-Ups (2026-02-14)
+
+- Scene 02 pages 7-8 produced four provisional normalizations that must be verified during Scene 02 scene-level QA:
+   - dish/item lexeme currently normalized as `魚水波蛋`
+   - protocol phrase currently normalized as `貴族早餐指引`
+   - speaker label variant `芬尼` vs `麥芬尼`
+   - one imperative particle in `S02-SEC02-L021`
+- Add targeted cross-check in next batch (pages 9-10) to confirm these terms before marking Scene 02 as done.
+
 ---
 
 ## Execution Updates (Living)
