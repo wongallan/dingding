@@ -480,4 +480,19 @@ Run optional publication-hardening pass:
 ## Revised Open Hardening Queue (Post Scene 04 Increment)
 
 - Optional micro-hardening for Scene 05 (`S05-SEC03-L038` lexeme `香濃不散`).
-- Optional publication-polish hardening for Scene 09 finale lyric cluster (pages 37-38).
+
+## Execution Update (2026-02-14, Scene 09 Hardening Increment)
+
+- Verified the highest-impact uncompleted task via artifacts (`working-files/todo.md`, `working-files/qa/scene-09-section-02-check.md`, `working-files/qa/scene-09-scene-check.md`): optional publication-polish hardening for Scene 09 finale lyric cluster.
+- Completed targeted re-check against `working-files/ocr/batch-21-pages-37-38.md` for `S09-SEC02-L018` to `S09-SEC02-L061`.
+- Locked wording stability with no additional text corrections required in final script output.
+- Updated all affected artifacts:
+   - `working-files/todo.md`
+   - `working-files/scene-progress.md`
+   - `working-files/qa/scene-09-section-02-check.md`
+   - `working-files/qa/scene-09-scene-check.md`
+   - `working-files/song-style-decisions.md`
+
+## Revised Open Hardening Queue (Post Scene 09 Increment)
+
+- Optional micro-hardening for Scene 05 (`S05-SEC03-L038` lexeme `香濃不散`).

@@ -491,3 +491,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Optional publication hardening remains for Scene 05 `S05-SEC03-L038` and Scene 09 finale lyric cluster.
 - Decisions made: Accepted only one correction with direct OCR support (`...好重落堂點算好`) and retained other lyric lines as conservative best reads.
 - Next action: Execute next optional hardening item from `working-files/todo.md` (Scene 05 `S05-SEC03-L038`).
+
+### 2026-02-14 — Hardening Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 09 / Section 02 finale lyric cluster hardening
+- Source pages: 37-38
+- Status: Done
+- Completed: Re-checked `working-files/ocr/batch-21-pages-37-38.md` against `working-files/extracted/scene-09-section-02-raw-dialogue.md` and `booklet/script/scene-09.md`; finalized wording-stability lock for finale lyrics (`S09-SEC02-L018` to `L061`) with no additional text corrections required.
+- Outstanding: Optional micro-hardening remains for Scene 05 `S05-SEC03-L038` (`香濃不散`).
+- Decisions made: Locked conservative normalized reads as publication-stable for Scene 09 finale song; no stage-direction spillover or line-order drift found.
+- Next action: Execute the last remaining optional hardening item from `working-files/todo.md` (Scene 05 `S05-SEC03-L038`).

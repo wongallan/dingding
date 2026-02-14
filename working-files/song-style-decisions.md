@@ -96,3 +96,10 @@ Document major lyric adaptation decisions so all agents apply the same artistic 
 - Final lyric rendering: `冇得咁高貴` and `檸汁顯得矜貴`.
 - Rationale (meter, tone, audience clarity, artistic intent): Tightened Cantonese phrasing to OCR-supported reads and stage-singable cadence while preserving the boastful culinary refrain tone.
 - Approved by: Copilot (GPT-5.3-Codex)
+
+- Scene/Song: Scene 09 finale ensemble (`最強的魔法`, pages 37-38)
+- Source phrase: concluding lyric sequence `S09-SEC02-L018` to `S09-SEC02-L061` under noisy OCR.
+- Literal meaning: The ensemble closes on shared growth, courage, companionship, and love-as-magic affirmation.
+- Final lyric rendering: Retained conservative normalized line sequence already staged in Scene 09 with no additional wording changes after targeted hardening review.
+- Rationale (meter, tone, audience clarity, artistic intent): Publication-polish pass prioritized sequence integrity and thematic anchors over speculative reconstruction; current wording is stable for live follow-along readability at available source confidence.
+- Approved by: Copilot (GPT-5.3-Codex)

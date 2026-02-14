@@ -37,4 +37,10 @@
 
 ## Residual Risk Notes
 
-- Finale song pages are OCR-noisy; current text is conservative normalization preserving sequence and core semantic motifs.
+- Finale-song targeted hardening review completed against `working-files/ocr/batch-21-pages-37-38.md`; wording is now locked as publication-stable for current source quality.
+
+## Hardening Addendum (2026-02-14)
+
+- Re-check scope: `S09-SEC02-L018` to `S09-SEC02-L061`.
+- Outcome: no additional line-level wording corrections required.
+- Verification: completeness/order/speaker/format checks remain PASS after hardening lock.

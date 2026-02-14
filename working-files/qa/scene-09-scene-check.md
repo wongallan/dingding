@@ -34,7 +34,7 @@
 
 ## Residual Risk Notes
 
-- Finale song lexemes are normalized from low-confidence OCR; a targeted lyric hardening re-OCR pass remains optional for publication polish, not blocking completion.
+- Finale-song lyric cluster (pages 37-38) hardening review is completed and wording-locked as publication-stable for current source quality.
 
 ## Scene Status
 
