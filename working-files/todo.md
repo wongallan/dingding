@@ -11,4 +11,5 @@
 - pending: Optional targeted re-OCR hardening for Scene 05 page-21 lyric block
 - pending: Resolve canonical competition title lexeme (`愛叮堡榮譽` vs OCR variants) once clearer recurrence appears
 - pending: Targeted re-OCR hardening for Scene 06 page-25 low-confidence lyric lines (`S06-SEC02-L058`, `L061`, `L062`)
-- in-progress: OCR + process Scene 06 Section 03 from next source pages
+- done: Scene 06 full-scene QA + boundary lock (page 26 confirmed as stage-direction-only `第六幕完`)
+- pending: OCR + process Scene 07 Section 01 from pages 27-28

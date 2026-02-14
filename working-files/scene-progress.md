@@ -17,7 +17,7 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Scene 03: Done
 - Scene 04: Done
 - Scene 05: Done
-- Scene 06: In progress
+- Scene 06: Done
 - Scene 07: Not started
 - Scene 08: Not started
 - Scene 09: Not started
@@ -287,3 +287,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Three page-25 lyric lines remain low-confidence (`S06-SEC02-L058`, `L061`, `L062`) and competition-title lexeme is still provisional pending clearer recurrence.
 - Decisions made: Preserved quiz and magic-round sequence exactly; applied conservative lyric normalization rather than overfitting noisy OCR.
 - Next action: Process Scene 06 Section 03 from next source pages and carry forward targeted re-OCR hardening items before Scene 06 lock.
+
+### 2026-02-14 — Scene-Level Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 06 / Full Scene QA
+- Source pages: 22-26
+- Status: Done
+- Completed: Scene-level continuity/boundary/format checks logged in `working-files/qa/scene-06-scene-check.md`; verified page 26 (`working-files/ocr/batch-15-pages-26-27.md`) is stage-direction-only with `（第六幕完）`; Scene 06 marked complete.
+- Outstanding: Targeted re-OCR hardening remains for low-confidence page-25 lyric lines (`S06-SEC02-L058`, `L061`, `L062`); competition-title lexeme remains provisional pending cleaner recurrence.
+- Decisions made: Closed Scene 06 with no Section 03 dialogue payload; re-prioritized workflow to Scene 07 start.
+- Next action: Begin Scene 07 Section 01 extraction/conversion from page 27 onward.

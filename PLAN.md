@@ -261,9 +261,9 @@ The booklet is done when:
 
 ## Active Follow-ups (Updated 2026-02-14)
 
-- Scene 06 Section 02 (pages 24-25) completed with conservative normalization.
-- Add targeted single-page re-OCR hardening task for page-25 lyric lines (`S06-SEC02-L058`, `S06-SEC02-L061`, `S06-SEC02-L062`) before Scene 06 scene-level lock.
-- Keep competition-title lexeme (`愛叮堡榮譽`) provisional until confirmed by cleaner recurrence in later Scene 06 pages.
+- Scene 06 full-scene QA completed; boundary lock confirmed via page 26 (`第六幕完`, stage-direction-only).
+- Keep targeted single-page re-OCR hardening task for page-25 lyric lines (`S06-SEC02-L058`, `S06-SEC02-L061`, `S06-SEC02-L062`) as publication-quality follow-up.
+- Keep competition-title lexeme (`愛叮堡榮譽`) provisional until confirmed by cleaner recurrence in Scene 07+ pages.
 
 ## Active Open Issues (Rolling)
 
@@ -273,8 +273,8 @@ The booklet is done when:
 
 ## Execution Status Snapshot (2026-02-14)
 
-- Scenes completed: 01-05
-- Current highest-priority pending task: start Scene 06 Section 01 from pages 22-23.
+- Scenes completed: 01-06
+- Current highest-priority pending task: start Scene 07 Section 01 from pages 27-28.
 - Non-blocking hardening follow-ups discovered during Scene 05 close-out:
    - Optional targeted re-OCR of Scene 04 page-17 lyric block.
    - Optional targeted re-OCR of Scene 05 page-21 lyric block.
@@ -319,7 +319,7 @@ The booklet is done when:
 
 ## Active Next Task
 
-- Process `Scene 05 / Section 03` from pages 21-22 and continue the extraction → conversion → QA loop.
+- Process `Scene 07 / Section 01` from pages 27-28 and continue the extraction → conversion → QA loop.
 
 ## Active OCR Follow-Ups (2026-02-14)
 
@@ -346,6 +346,7 @@ The booklet is done when:
 - 2026-02-14: Scene 02 Section 03 completed (pages 9-10), extraction + conversion + section QA passed; lyric-heavy OCR normalized conservatively with uncertainty notes.
 - 2026-02-14: Scene 02 scene-level QA completed and Scene 02 marked done (pages 6-10).
 - 2026-02-14: Scene 03 Section 01 completed (pages 11-12), extraction + conversion + section QA passed; one end-of-page carry-over line explicitly tracked (`S03-SEC01-L041`).
+- 2026-02-14: Scene 06 full-scene QA completed; page-26 OCR verifies `第六幕完` with no spoken/sung lines, so Scene 06 closes after Section 02.
 
 ## Discovered Constraints (2026-02-14)
 
@@ -359,9 +360,9 @@ The booklet is done when:
 
 ## Immediate Next Action
 
-Continue with Scene 5, Section 3:
+Continue with Scene 7, Section 1:
 
-1. OCR pages 21-22 and save batch output under `working-files/ocr/`.
-2. Extract dialogue-only lines with fresh `S05-SEC03-Lxxx` IDs.
-3. Convert and append triplets in `booklet/script/scene-05.md`.
-4. Run section QA, then proceed toward Scene 05 scene-level QA once section loop is complete.
+1. OCR pages 27-28 and save batch output under `working-files/ocr/`.
+2. Extract dialogue-only lines with fresh `S07-SEC01-Lxxx` IDs.
+3. Convert and append triplets in `booklet/script/scene-07.md`.
+4. Run section QA, then proceed toward Scene 07 scene-level QA once section loop is complete.
