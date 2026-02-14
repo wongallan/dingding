@@ -19,7 +19,7 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Scene 05: Done
 - Scene 06: Done
 - Scene 07: Done
-- Scene 08: Not started
+- Scene 08: In progress
 - Scene 09: Not started
 
 ## Section Log (append-only)
@@ -335,3 +335,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Song-heavy lyric tokens remain low-confidence on pages 27-28 and should be targeted for hardening re-OCR in a follow-up pass.
 - Decisions made: Preserved mixed-language spoken tokens (`I hate it`, `Baby`, `relax`) and applied conservative lyric normalization to maintain sequence and scene intent.
 - Next action: OCR pages 29-30 and process Scene 07 Section 02.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 08 / Section 01
+- Source pages: 31-32
+- Status: Done
+- Completed: OCR batch B18 saved; dialogue-only extraction staged with 34 lines; 34 triplets written to `booklet/script/scene-08.md`; section QA completed in `working-files/qa/scene-08-section-01-check.md`.
+- Outstanding: Low-confidence fragments remain in `S08-SEC01-L009` and `S08-SEC01-L031` for targeted hardening re-OCR.
+- Decisions made: Preserved opening-song motivational cadence (`重新起步`) and butler-observation comedic tone while applying conservative normalization where OCR tokens were fragmented.
+- Next action: OCR pages 33-34 and process Scene 08 Section 02.

@@ -352,6 +352,7 @@ The booklet is done when:
 - 2026-02-14: Scene 07 Section 01 completed (pages 27-28), extraction + conversion + section QA passed; mixed-confidence lyric blocks were normalized conservatively with residual risk notes.
 - 2026-02-14: Scene 07 Section 02 completed (pages 29-30), extraction + conversion + section QA passed; `新節奏` call/response block normalized conservatively with explicit low-confidence markers.
 - 2026-02-14: Scene 07 full-scene QA completed and Scene 07 marked done (pages 27-30).
+- 2026-02-14: Scene 08 Section 01 completed (pages 31-32), extraction + conversion + section QA passed; opening `重新起步` song and butler-observation dialogue converted with conservative normalization for fragmented OCR tokens.
 
 ## Discovered Constraints (2026-02-14)
 
@@ -368,14 +369,15 @@ The booklet is done when:
 - Resolve low-confidence addressee token in `S07-SEC01-L010` (`阿叮` provisional) when clearer recurrence appears.
 - Resolve low-confidence `新節奏` bracket tokens in `S07-SEC02-L021`, `L025`, and `L029` when cleaner recurrence appears.
 - Keep competition title lexeme (`愛叮堡榮譽` variants) as provisional until a cleaner recurrence in later Scene 07/08 OCR confirms canonical wording.
+- Run targeted hardening re-OCR for Scene 08 page-31/32 low-confidence lines `S08-SEC01-L009` and `S08-SEC01-L031` before publication lock.
 
 ---
 
 ## Immediate Next Action
 
-Continue with Scene 8, Section 1:
+Continue with Scene 8, Section 2:
 
-1. OCR pages 31-32 and save batch output under `working-files/ocr/`.
-2. Extract dialogue-only lines with fresh `S08-SEC01-Lxxx` IDs.
+1. OCR pages 33-34 and save batch output under `working-files/ocr/`.
+2. Extract dialogue-only lines with fresh `S08-SEC02-Lxxx` IDs.
 3. Convert and append triplets in `booklet/script/scene-08.md`.
 4. Run section QA and continue section loop until Scene 08 scene-level QA.

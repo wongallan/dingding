@@ -68,3 +68,10 @@ Document major lyric adaptation decisions so all agents apply the same artistic 
 - Final lyric rendering: Preserved call-and-response tension between doubt and encouragement, keeping `雙手` and `嘗試` as repeated semantic anchors.
 - Rationale (meter, tone, audience clarity, artistic intent): Maintain momentum from breakdown to agency; prioritize coherent emotional arc and recurring motif continuity over speculative word-level reconstruction in low-confidence OCR brackets.
 - Approved by: Copilot (GPT-5.3-Codex)
+
+- Scene/Song: Scene 08 opening ensemble (`重新起步`, page 31)
+- Source phrase: repeated encouragement lines around falling, regrouping, and mutual support (`跌低過`, `重新開始`, `互相協助`).
+- Literal meaning: Children will stumble, but can recover through rest, renewed effort, and companionship.
+- Final lyric rendering: Kept short, chant-like motivational lines with clear recovery verbs (`start again`, `help each other`) and preserved the communal support anchor.
+- Rationale (meter, tone, audience clarity, artistic intent): Preserve upbeat reset energy at Scene 08 opening while keeping language simple for live follow-along readability; avoid speculative embellishment in low-confidence OCR fragments.
+- Approved by: Copilot (GPT-5.3-Codex)

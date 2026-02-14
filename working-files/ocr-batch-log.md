@@ -185,3 +185,13 @@ Track all OCR extraction batches from scanned sources.
 - Confidence notes: Mixed OCR quality with recoverable dialogue and low-confidence call/response lyric tokens in `新節奏`.
 - Unclear lines count: 6 (mainly lyric-fragment bracket tokens and one noun token in song block)
 - Follow-up required: Optional targeted lyric hardening re-OCR for Scene 07 pages 29-30 before publication lock; continue primary flow with Scene 08 from page 31.
+
+- Batch ID: B18
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Source file: reference/叮叮魔法師劇本1-38.pdf
+- Page range: 31-32
+- Output file: working-files/ocr/batch-18-pages-31-32.md
+- Confidence notes: Mixed OCR quality; opening song lines are mostly recoverable, but page-32 action/dialogue has fragmented tokens around surveillance phrasing and one mid-clause floral line.
+- Unclear lines count: 5 (two high-impact normalized lines tracked as hardening candidates, plus three minor lexical fragments normalized contextually)
+- Follow-up required: Continue primary flow with Scene 08 Section 02 (pages 33-34) and keep targeted hardening task for `S08-SEC01-L009` and `S08-SEC01-L031`.
