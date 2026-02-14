@@ -89,3 +89,10 @@ Document major lyric adaptation decisions so all agents apply the same artistic 
 - Final lyric rendering: `離開幫手必會失鎮定。` / `強大世界裡魔法。` / `在哪可否來和應。`
 - Rationale (meter, tone, audience clarity, artistic intent): Targeted hardening favors conservative coherence and emotional continuity with adjacent lines (`取勝`, `我命`, `泡影`, `沒法證`) while avoiding speculative over-reconstruction beyond OCR evidence.
 - Approved by: Copilot (GPT-5.3-Codex)
+
+- Scene/Song: Scene 05 breakfast song continuation (page 21)
+- Source phrase: low-confidence lyric lexemes in `S05-SEC03-L004` and `S05-SEC03-L013`.
+- Literal meaning: The singers emphasize refined flavor while continuing playful recipe boasting.
+- Final lyric rendering: `冇得咁高貴` and `檸汁顯得矜貴`.
+- Rationale (meter, tone, audience clarity, artistic intent): Tightened Cantonese phrasing to OCR-supported reads and stage-singable cadence while preserving the boastful culinary refrain tone.
+- Approved by: Copilot (GPT-5.3-Codex)

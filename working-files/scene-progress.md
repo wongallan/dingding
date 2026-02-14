@@ -467,3 +467,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Optional publication hardening remains for Scene 04 page-17 and Scene 05 page-21 lyric blocks.
 - Decisions made: Retained `小燕`/`你要`/`說要` phrasing for `S07-SEC02-L021`, `L025`, `L029` as the best OCR-supported coherent read in current source quality.
 - Next action: Execute next highest pending optional hardening from `working-files/todo.md` (Scene 04 page-17 lyric block).
+
+### 2026-02-14 — Hardening Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 05 / Section 03 targeted lyric hardening
+- Source pages: 21
+- Status: Done
+- Completed: Re-checked `working-files/ocr/batch-12-pages-21-22.md` against staged extraction and script lines `S05-SEC03-L004`, `S05-SEC03-L013`, `S05-SEC03-L038`; locked wording updates for `L004` (`冇得咁高貴`) and `L013` (`檸汁顯得矜貴`) in both extracted and booklet files; synchronized section/scene QA and todo tracking.
+- Outstanding: One optional low-confidence lyric lexeme remains at `S05-SEC03-L038` (`香濃不散`).
+- Decisions made: Accepted OCR-supported Cantonese-tightened phrasing for `L004`/`L013` while retaining `L038` unchanged to avoid over-reconstruction.
+- Next action: Execute the remaining optional hardening task from `working-files/todo.md` (Scene 04 page-17 lyric block).

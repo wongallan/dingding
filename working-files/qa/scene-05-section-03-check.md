@@ -37,5 +37,5 @@
 
 ## Residual Risk Notes
 
-- Page-21 lyric OCR remains low-confidence in a few lexemes; section structure and continuity are stable.
-- Optional targeted single-page re-OCR can harden final lyric wording before publication lock.
+- Targeted hardening completed for `S05-SEC03-L004` and `S05-SEC03-L013` by re-checking `working-files/ocr/batch-12-pages-21-22.md`.
+- Residual low-confidence lexeme remains only at `S05-SEC03-L038`; section structure and continuity are stable.

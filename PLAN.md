@@ -261,6 +261,14 @@ The booklet is done when:
 
 ---
 
+## Live Optional Hardening Queue (2026-02-14)
+
+- Done: Scene 05 page-21 lyric hardening (`S05-SEC03-L004`, `S05-SEC03-L013`) with QA/tracker synchronization.
+- Pending: Scene 04 page-17 lyric block targeted re-OCR hardening (highest remaining optional task).
+- Note: Remaining Scene 05 uncertainty is narrowed to one non-blocking lexeme (`S05-SEC03-L038`).
+
+---
+
 ## Hardening Backlog Snapshot (2026-02-14)
 
 Status-tracked publication hardening queue (verified against `booklet/` + `working-files/` outputs):

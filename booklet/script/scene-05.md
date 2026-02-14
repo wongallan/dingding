@@ -310,9 +310,9 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Sidney Lau romanization: si6 do1 be1 lei2 do1 san1 sin1 jau6 daan6 daan6 ngaa4
 - English translation: Strawberries are fresh and springy
 
-- Characters: 冇得多麼高貴
-- Sidney Lau romanization: mou5 dak1 do1 mo1 gou1 gwai3
-- English translation: Nothing beats that classy taste
+- Characters: 冇得咁高貴
+- Sidney Lau romanization: mou5 dak1 gam3 gou1 gwai3
+- English translation: Nothing could be more refined
 
 - Characters: 牛角酥原味最好
 - Sidney Lau romanization: ngau4 gok3 sou1 jyun4 mei6 zeoi3 hou2
@@ -346,9 +346,9 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Sidney Lau romanization: lok6 mat6 tong4
 - English translation: Pour in honey
 
-- Characters: 檸汁幾得矜貴
-- Sidney Lau romanization: ning4 zap1 gei2 dak1 ging1 gwai3
-- English translation: Lemon juice gives it a refined touch
+- Characters: 檸汁顯得矜貴
+- Sidney Lau romanization: ning4 zap1 hin2 dak1 ging1 gwai3
+- English translation: Lemon juice makes it feel refined
 
 - Characters: 蘋果批甜味最好
 - Sidney Lau romanization: ping4 gwo2 pai1 tim4 mei6 zeoi3 hou2

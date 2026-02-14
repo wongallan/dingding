@@ -8,7 +8,7 @@
 | S05-SEC03-L001 | 21 | 遙遙 | 朱古力加啲Cream太誘人 | Song continuation; OCR normalized |
 | S05-SEC03-L002 | 21 | 遙遙 | 唧花最美麗 | Song continuation; OCR normalized |
 | S05-SEC03-L003 | 21 | 遙遙 | 士多啤梨多新鮮又彈彈牙 | Song continuation; OCR normalized |
-| S05-SEC03-L004 | 21 | 遙遙 | 冇得多麼高貴 | Song continuation; conservative normalization |
+| S05-SEC03-L004 | 21 | 遙遙 | 冇得咁高貴 | Song continuation; hardened with OCR re-check |
 | S05-SEC03-L005 | 21 | 比比 | 牛角酥原味最好 | Song continuation; OCR normalized |
 | S05-SEC03-L006 | 21 | 比比 | 焗嘅味道更好，放入焗爐等三分鐘出世 | Song continuation; merged split OCR line |
 | S05-SEC03-L007 | 21 | 比比 | 加啲粉 | Song continuation; OCR normalized |
@@ -17,7 +17,7 @@
 | S05-SEC03-L010 | 21 | 比比 | 蘋果批最暖胃 | Song continuation; OCR normalized |
 | S05-SEC03-L011 | 21 | 比比 | 加啲水加冰 | Song continuation; OCR normalized |
 | S05-SEC03-L012 | 21 | 比比 | 落蜜糖 | Song continuation; OCR normalized |
-| S05-SEC03-L013 | 21 | 比比 | 檸汁幾得矜貴 | Song continuation; conservative normalization |
+| S05-SEC03-L013 | 21 | 比比 | 檸汁顯得矜貴 | Song continuation; hardened with OCR re-check |
 | S05-SEC03-L014 | 21 | 比比 | 蘋果批甜味最好 | Song continuation; OCR normalized |
 | S05-SEC03-L015 | 21 | 比比 | 用力越快越好 | Song continuation; repeated refrain |
 | S05-SEC03-L016 | 21 | 比比 | 用力攪越快越好 | Song continuation; OCR normalized |
@@ -54,5 +54,6 @@
 
 ## Uncertainty Tracking
 
-- Page-21 song block remains low-confidence in several lyric lexemes (`S05-SEC03-L004`, `L013`, `L038`); sequence and dramatic flow are stable.
+- Targeted hardening completed for `S05-SEC03-L004` and `S05-SEC03-L013` via OCR re-check.
+- Residual low-confidence lyric lexeme remains in `S05-SEC03-L038` only; sequence and dramatic flow are stable.
 - Speaker assignment on chorus lines is inferred from degraded speaker tags and prior call-response pattern; kept conservative and documented.
