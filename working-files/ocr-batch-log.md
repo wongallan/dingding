@@ -95,3 +95,13 @@ Track all OCR extraction batches from scanned sources.
 - Confidence notes: Low OCR quality on page-13 lyric cluster with heavy token corruption; dialogue skeleton recoverable using conservative normalization and continuity anchors.
 - Unclear lines count: 2 (song lexemes normalized conservatively in `S03-SEC02-L010` and `S03-SEC02-L016`)
 - Follow-up required: Run targeted re-OCR for page 13 with alternate settings before final lock of lyric wording, if cleaner source is available.
+
+- Batch ID: B09
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Source file: reference/叮叮魔法師劇本1-38.pdf
+- Page range: 15-16
+- Output file: working-files/ocr/batch-09-pages-15-16.md
+- Confidence notes: Mixed OCR quality with frequent line fragmentation and multilingual token noise; classroom dialogue flow recoverable with conservative normalization.
+- Unclear lines count: 5 (`S04-SEC02-L001`, `L007`, `L019`, `L033`, `L041` required heavier reconstruction)
+- Follow-up required: Optional targeted re-OCR of pages 15-16 to harden normalized lexemes before final Scene 04 scene-level lock.

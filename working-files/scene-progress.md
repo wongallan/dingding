@@ -179,3 +179,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Continue Scene 04 with next source page range and run scene-level QA after all sections are complete.
 - Decisions made: Reassigned page-14 opening chorus lines to Scene 04 (from prior Scene 03 boundary staging) to preserve scene ownership.
 - Next action: Process Scene 04 Section 02 from the next page batch.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 04 / Section 02
+- Source pages: 15-16
+- Status: Done
+- Completed: OCR batch B09 saved; dialogue-only extraction staged with 46 lines; 46 triplets written to `booklet/script/scene-04.md`; section QA completed in `working-files/qa/scene-04-section-02-check.md`.
+- Outstanding: Heavier OCR normalizations in five lines should be hardened via optional targeted re-OCR before final Scene 04 lock.
+- Decisions made: Added `柔柔（老師）` to canonical character map; retained mixed-language spoken tokens (`Baby`, `Too bad`, `Water, I need water`) where present in source style.
+- Next action: Process Scene 04 Section 03 from next source page range, then run full Scene 04 scene-level QA.

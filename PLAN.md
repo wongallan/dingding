@@ -258,6 +258,13 @@ The booklet is done when:
 - **Speaker confusion risk**: Enforce stable line IDs and section boundaries.
 - **Terminology drift risk**: Update glossary before editing later scenes.
 - **Lyric over-adaptation risk**: Track adaptation rationale in song decisions file.
+
+---
+
+## Active Follow-Up Queue (Discovered During Execution)
+
+- 2026-02-14: Scene 04 Section 02 (pages 15-16) required five heavy OCR normalizations (`S04-SEC02-L001`, `L007`, `L019`, `L033`, `L041`).
+- Action: run targeted re-OCR for pages 15-16 (alternate DPI/model) before final scene lock if higher-confidence source can be produced.
 - **Missed lines risk**: Mandatory extracted-vs-written line count check per section.
 - **Boundary bleed risk**: When one page includes a scene transition, perform immediate boundary reconciliation before locking section/scene QA.
 

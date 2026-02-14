@@ -12,6 +12,7 @@ Use this file to lock character naming across all scenes.
 ## Entries
 
 - 喬治（總管） — giu1 zi6 (zung2 gun2) — George (Head Butler) — Narrator/host role in Scene 1 opening.
+- 柔柔（老師） — jau4 jau4 (lou5 si1) — Miss Yau-Yau — Teacher in Scene 04 classroom sequence.
 - 遙遙 — jiu4 jiu4 — Yiu-Yiu — Student, energetic and outspoken.
 - 安娜 — on1 no4 — Anna — Student.
 - 花輪達爾（達爾） — faa1 leon4 daat6 ji5 (daat6 ji5) — Dar — Student, flashy style.
