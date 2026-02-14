@@ -86,6 +86,7 @@ For each OCR batch:
 3. Preserve line order exactly as performed.
 4. Capture speaker labels exactly as source where possible.
 5. Flag ambiguous speaker attribution in working files, not in final booklet output.
+6. Remove decorative headers/logos, prop lists, and standalone printed line numbers before staging dialogue lines.
 
 ### 1.3 Section Staging File
 
@@ -257,13 +258,19 @@ The booklet is done when:
 - **Lyric over-adaptation risk**: Track adaptation rationale in song decisions file.
 - **Missed lines risk**: Mandatory extracted-vs-written line count check per section.
 
+## Discovered Constraints (2026-02-14)
+
+- RapidOCR on this PDF is workable but noisy on title/header regions; manual normalization is required before conversion.
+- Page-level OCR output includes artifacts (branding text, isolated numerals, and partial props notes) that must be filtered during extraction.
+- For uncertain OCR tokens, normalize only when context is strong; otherwise retain `[[unclear]]` in extracted files and defer final wording.
+
 ---
 
 ## Immediate Next Action
 
-Start with Scene 1, Section 1:
+Continue with Scene 1, Section 2:
 
-1. OCR first 2–4 relevant PDF pages via subagent/tool.
+1. OCR next 2–4 relevant PDF pages (pages 3-4) via tool.
 2. Save batch output and extract dialogue-only lines with IDs.
-3. Convert and write first section in `booklet/script/scene-01.md`.
+3. Convert and append section triplets in `booklet/script/scene-01.md`.
 4. Run section QA and log outcomes.

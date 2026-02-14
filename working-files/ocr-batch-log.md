@@ -16,4 +16,12 @@ Track all OCR extraction batches from scanned sources.
 
 ## Batches
 
-- None yet.
+- Batch ID: B01
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Source file: reference/叮叮魔法師劇本1-38.pdf
+- Page range: 1-2
+- Output file: working-files/ocr/batch-01-pages-01-02.md
+- Confidence notes: Mixed OCR quality; dialogue mostly recoverable with manual normalization. Decorative header, line numbers, and prop text created noise.
+- Unclear lines count: 3 (minor lexical uncertainty, resolved contextually)
+- Follow-up required: Continue with pages 3-4; apply pre-filter for branding/header and standalone line numbers.

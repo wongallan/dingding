@@ -11,7 +11,8 @@ Use this file for recurring world terms, place names, magical phrases, titles, a
 
 ## Entries
 
-- TBD — TBD — TBD — Add once verified from script OCR.
+- 愛叮堡學院 — oi3 ding1 bou2 hok6 jyun2 — Love-Ding Fort Academy — School name in opening scene.
+- 叮叮魔法 — ding1 ding1 mo4 faat3 — Ding Ding Magic — Signature magic phrase/style.
 
 ## Needs Decision
 
