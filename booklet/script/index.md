@@ -14,6 +14,10 @@ Full script for **Ding Ding Magic** by scene.
 8. [Scene 8](scene-08.md)
 9. [Scene 9](scene-09.md)
 
+## Quick Reader
+
+- [Script Reader (line-by-line)](reader.md)
+
 ---
 
 [← Back to main page](../index.md)
