@@ -45,3 +45,13 @@ Track all OCR extraction batches from scanned sources.
 - Confidence notes: Page 5 end-of-scene lines recoverable with normalization; page 6 introduces Scene 2 and remains out of scope for this increment.
 - Unclear lines count: 2 (speaker labels missing on two recoverable dialogue lines in page 5)
 - Follow-up required: Start Scene 02 Section 01 from page 6 onward with fresh IDs and character mapping updates.
+
+- Batch ID: B04
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Source file: reference/叮叮魔法師劇本1-38.pdf
+- Page range: 6-6
+- Output file: working-files/ocr/batch-04-pages-06-06.md
+- Confidence notes: Mixed-to-low OCR quality on lyric and dialogue lines; requires line-level normalization and artifact filtering.
+- Unclear lines count: 5 (degraded lexical tokens normalized contextually in extraction notes)
+- Follow-up required: Continue Scene 02 with next OCR batch (pages 7-8) and re-check any provisional lexical reconstructions.

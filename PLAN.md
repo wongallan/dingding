@@ -268,20 +268,22 @@ The booklet is done when:
 - Carry-over task completed: reconciled page-boundary continuation from `S01-SEC02-L051` before assigning Section 03 IDs.
 - New term-validation task: verify final spellings/meaning for `比卡特羅家族` and `愛叮堡榮譽` against clearer OCR in next batch before locking global glossary.
 - Scene boundary discovered: page 6 starts Scene 2 (`第二幕`), so Scene 01 extraction scope closes at page 5.
+- 2026-02-14: Scene 02 Section 01 completed (page 6), extraction + conversion + section QA passed; heavy OCR normalizations documented line-by-line in staged extraction.
 
 ## Discovered Constraints (2026-02-14)
 
 - RapidOCR on this PDF is workable but noisy on title/header regions; manual normalization is required before conversion.
 - Page-level OCR output includes artifacts (branding text, isolated numerals, and partial props notes) that must be filtered during extraction.
 - For uncertain OCR tokens, normalize only when context is strong; otherwise retain `[[unclear]]` in extracted files and defer final wording.
+- Scene 02 page 6 includes dense OCR artifacts in lyric blocks and butler dialogue; prioritize adjacent-page context validation in the next batch (pages 7-8) before locking long-form lexical choices globally.
 
 ---
 
 ## Immediate Next Action
 
-Continue with Scene 2, Section 1:
+Continue with Scene 2, Section 2:
 
-1. OCR next relevant PDF pages beginning at page 6 (Scene 2 opening).
-2. Save batch output and extract dialogue-only lines with fresh Scene 02 section IDs.
+1. OCR next relevant PDF pages 7-8 for Scene 2 continuation.
+2. Save batch output and extract dialogue-only lines with fresh `S02-SEC02-Lxxx` IDs.
 3. Convert and append section triplets in `booklet/script/scene-02.md`.
-4. Run section QA and log outcomes.
+4. Run section QA and update trackers/logs.

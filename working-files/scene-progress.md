@@ -13,7 +13,7 @@ Use this file as the single source of truth for what is completed, in progress, 
 ## Scene Status
 
 - Scene 01: Done
-- Scene 02: Not started
+- Scene 02: In progress
 - Scene 03: Not started
 - Scene 04: Not started
 - Scene 05: Not started
@@ -83,3 +83,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Re-validate provisional terms (`比卡特羅家族`, `愛叮堡榮譽`) when clearer OCR occurrences are available.
 - Decisions made: Scene 01 marked complete; Scene 02 starts at page 6 (`第二幕`).
 - Next action: Begin Scene 02 Section 01 extraction and conversion.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 02 / Section 01
+- Source pages: 6
+- Status: Done
+- Completed: OCR batch B04 saved for page 6; dialogue-only extraction staged with 37 lines; 37 triplets written to `booklet/script/scene-02.md`; section QA completed.
+- Outstanding: Validate heavy OCR normalizations against next pages for continuity; continue Scene 02 on pages 7-8.
+- Decisions made: Treated opening chorus as lyric lines with preserved repetition; normalized degraded lexemes only when contextual confidence was sufficient and logged each normalization.
+- Next action: Process Scene 02 Section 02 from pages 7-8 with fresh IDs (`S02-SEC02-Lxxx`).

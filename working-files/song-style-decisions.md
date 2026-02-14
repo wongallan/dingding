@@ -19,3 +19,10 @@ Document major lyric adaptation decisions so all agents apply the same artistic 
 - Final lyric rendering: "I just need one ding" / "One ding—..."
 - Rationale (meter, tone, audience clarity, artistic intent): Preserve chant-like catchphrase for audience participation while keeping semantic anchor tied to immediate magical effect.
 - Approved by: Copilot (GPT-5.3-Codex)
+
+- Scene/Song: Scene 02 opening chorus `萬能的爸媽` (page 6)
+- Source phrase: `爸爸媽媽` refrain and caregiving detail lines (`你每天煮早餐`, `日日教我執書包`)
+- Literal meaning: Parents are all-capable caretakers who support a child through daily routines and emotional comfort.
+- Final lyric rendering: Kept direct parental refrain as `Dad and Mom` with warm, audience-readable domestic imagery in complete sentence lines.
+- Rationale (meter, tone, audience clarity, artistic intent): Preserve repetitive sing-along structure while prioritizing clear emotional gratitude over strict literal compression.
+- Approved by: Copilot (GPT-5.3-Codex)
