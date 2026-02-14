@@ -18,7 +18,7 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Scene 04: Done
 - Scene 05: Done
 - Scene 06: Done
-- Scene 07: In progress
+- Scene 07: Done
 - Scene 08: Not started
 - Scene 09: Not started
 
@@ -298,6 +298,30 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Completed: Scene-level continuity/boundary/format checks logged in `working-files/qa/scene-06-scene-check.md`; verified page 26 (`working-files/ocr/batch-15-pages-26-27.md`) is stage-direction-only with `（第六幕完）`; Scene 06 marked complete.
 - Outstanding: Targeted re-OCR hardening remains for low-confidence page-25 lyric lines (`S06-SEC02-L058`, `L061`, `L062`); competition-title lexeme remains provisional pending cleaner recurrence.
 - Decisions made: Closed Scene 06 with no Section 03 dialogue payload; re-prioritized workflow to Scene 07 start.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 07 / Section 02
+- Source pages: 29-30
+- Status: Done
+- Completed: OCR batch B17 saved; dialogue-only extraction staged with 37 lines; 37 triplets written to `booklet/script/scene-07.md`; section QA completed in `working-files/qa/scene-07-section-02-check.md`.
+- Outstanding: Low-confidence lyric tokens remain in `S07-SEC02-L021`, `L025`, and `L029` for optional targeted hardening.
+- Decisions made: Preserved mixed-language code-switching and kept conservative lyric normalization where OCR was fragmented.
+- Next action: Run Scene 07 full-scene QA and close scene status.
+
+### 2026-02-14 — Scene-Level Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 07 / Full Scene QA
+- Source pages: 27-30
+- Status: Done
+- Completed: Scene-level continuity/boundary/format checks logged in `working-files/qa/scene-07-scene-check.md`; Scene 07 marked complete.
+- Outstanding: Optional targeted lyric hardening re-OCR remains for pages 27-30 (`S07-SEC01-L010`; `S07-SEC02-L021`, `L025`, `L029`).
+- Decisions made: Closed Scene 07 at page-30 `第七幕完`; next production priority moved to Scene 08 page 31.
+- Next action: Begin Scene 08 Section 01 extraction/conversion from pages 31-32.
 - Next action: Begin Scene 07 Section 01 extraction/conversion from page 27 onward.
 
 ### 2026-02-14 — Section Update

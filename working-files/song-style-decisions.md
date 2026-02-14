@@ -61,3 +61,10 @@ Document major lyric adaptation decisions so all agents apply the same artistic 
 - Final lyric rendering: Used calm, promise-like phrasing around `守候`, `放手`, and `陪伴` to keep the mentorship/guardianship emotional core.
 - Rationale (meter, tone, audience clarity, artistic intent): Maintain lullaby-like reassurance and thematic handoff from dependency to independence; keep recurring support verbs stable for future scene callbacks.
 - Approved by: Copilot (GPT-5.3-Codex)
+
+- Scene/Song: Scene 07 resilience ensemble (`新節奏`, pages 29-30)
+- Source phrase: self-reliance refrains (`靠自己雙手`, `自我解救`) interleaved with fear/confession counters (`我不敢去試`, `怕出醜`).
+- Literal meaning: The character moves from dependency/fear toward action by accepting support while choosing to act with her own hands.
+- Final lyric rendering: Preserved call-and-response tension between doubt and encouragement, keeping `雙手` and `嘗試` as repeated semantic anchors.
+- Rationale (meter, tone, audience clarity, artistic intent): Maintain momentum from breakdown to agency; prioritize coherent emotional arc and recurring motif continuity over speculative word-level reconstruction in low-confidence OCR brackets.
+- Approved by: Copilot (GPT-5.3-Codex)

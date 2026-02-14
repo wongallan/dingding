@@ -263,6 +263,8 @@ The booklet is done when:
 
 - Scene 06 full-scene QA completed; boundary lock confirmed via page 26 (`第六幕完`, stage-direction-only).
 - Keep targeted single-page re-OCR hardening task for page-25 lyric lines (`S06-SEC02-L058`, `S06-SEC02-L061`, `S06-SEC02-L062`) as publication-quality follow-up.
+- Scene 07 full-scene QA completed; boundary lock confirmed via page 30 (`第七幕完`).
+- Keep targeted lyric hardening task for Scene 07 low-confidence tokens (`S07-SEC01-L010`; `S07-SEC02-L021`, `L025`, `L029`) as publication-quality follow-up.
 - Keep competition-title lexeme (`愛叮堡榮譽`) provisional until confirmed by cleaner recurrence in Scene 07+ pages.
 
 ## Active Open Issues (Rolling)
@@ -273,8 +275,8 @@ The booklet is done when:
 
 ## Execution Status Snapshot (2026-02-14)
 
-- Scenes completed: 01-06
-- Current highest-priority pending task: start Scene 07 Section 01 from pages 27-28.
+- Scenes completed: 01-07
+- Current highest-priority pending task: start Scene 08 Section 01 from pages 31-32.
 - Non-blocking hardening follow-ups discovered during Scene 05 close-out:
    - Optional targeted re-OCR of Scene 04 page-17 lyric block.
    - Optional targeted re-OCR of Scene 05 page-21 lyric block.
@@ -319,7 +321,7 @@ The booklet is done when:
 
 ## Active Next Task
 
-- Process `Scene 07 / Section 02` from pages 29-30 and continue the extraction → conversion → QA loop.
+- Process `Scene 08 / Section 01` from pages 31-32 and continue the extraction → conversion → QA loop.
 
 ## Active OCR Follow-Ups (2026-02-14)
 
@@ -348,6 +350,8 @@ The booklet is done when:
 - 2026-02-14: Scene 03 Section 01 completed (pages 11-12), extraction + conversion + section QA passed; one end-of-page carry-over line explicitly tracked (`S03-SEC01-L041`).
 - 2026-02-14: Scene 06 full-scene QA completed; page-26 OCR verifies `第六幕完` with no spoken/sung lines, so Scene 06 closes after Section 02.
 - 2026-02-14: Scene 07 Section 01 completed (pages 27-28), extraction + conversion + section QA passed; mixed-confidence lyric blocks were normalized conservatively with residual risk notes.
+- 2026-02-14: Scene 07 Section 02 completed (pages 29-30), extraction + conversion + section QA passed; `新節奏` call/response block normalized conservatively with explicit low-confidence markers.
+- 2026-02-14: Scene 07 full-scene QA completed and Scene 07 marked done (pages 27-30).
 
 ## Discovered Constraints (2026-02-14)
 
@@ -360,17 +364,18 @@ The booklet is done when:
 
 ## Newly Discovered Follow-Up Tasks (2026-02-14)
 
-- Run targeted re-OCR hardening for Scene 07 pages 27-28 lyric clusters before scene lock.
+- Run targeted re-OCR hardening for Scene 07 pages 27-30 lyric clusters before publication lock.
 - Resolve low-confidence addressee token in `S07-SEC01-L010` (`阿叮` provisional) when clearer recurrence appears.
+- Resolve low-confidence `新節奏` bracket tokens in `S07-SEC02-L021`, `L025`, and `L029` when cleaner recurrence appears.
 - Keep competition title lexeme (`愛叮堡榮譽` variants) as provisional until a cleaner recurrence in later Scene 07/08 OCR confirms canonical wording.
 
 ---
 
 ## Immediate Next Action
 
-Continue with Scene 7, Section 2:
+Continue with Scene 8, Section 1:
 
-1. OCR pages 29-30 and save batch output under `working-files/ocr/`.
-2. Extract dialogue-only lines with fresh `S07-SEC02-Lxxx` IDs.
-3. Convert and append triplets in `booklet/script/scene-07.md`.
-4. Run section QA, then proceed toward Scene 07 scene-level QA once section loop is complete.
+1. OCR pages 31-32 and save batch output under `working-files/ocr/`.
+2. Extract dialogue-only lines with fresh `S08-SEC01-Lxxx` IDs.
+3. Convert and append triplets in `booklet/script/scene-08.md`.
+4. Run section QA and continue section loop until Scene 08 scene-level QA.
