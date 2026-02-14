@@ -20,7 +20,7 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Scene 06: Done
 - Scene 07: Done
 - Scene 08: Done
-- Scene 09: In progress
+- Scene 09: Done
 
 ## Section Log (append-only)
 
@@ -383,3 +383,27 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Competition object/title lexeme (`愛叮堡榮譽` variants) remains provisional and needs clearer recurrence in pages 37-38 before scene lock.
 - Decisions made: Preserved non-magic problem-solving structure (`三步找法`) and conservative normalization in noisy lexeme zones while excluding stage-direction-only movement/lighting lines.
 - Next action: OCR pages 37-38 and process Scene 09 Section 02.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 09 / Section 02
+- Source pages: 37-38
+- Status: Done
+- Completed: OCR batch B21 saved; dialogue+song extraction staged with 61 lines; 61 triplets written to `booklet/script/scene-09.md`; section QA completed in `working-files/qa/scene-09-section-02-check.md`.
+- Outstanding: Finale-song lyric cluster remains conservatively normalized from low-confidence OCR and is tracked as optional publication hardening.
+- Decisions made: Locked competition object/title wording as `愛叮堡榮譽` (`Love-Ding Honor`) for Scene 09 consistency; retained sequence-first normalization for finale song refrains.
+- Next action: Run Scene 09 full-scene QA and close scene status.
+
+### 2026-02-14 — Scene-Level Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 09 / Full Scene QA
+- Source pages: 35-38
+- Status: Done
+- Completed: Scene-level continuity/boundary/format checks logged in `working-files/qa/scene-09-scene-check.md`; Scene 09 marked complete.
+- Outstanding: Optional targeted lyric hardening for pages 37-38 remains non-blocking follow-up.
+- Decisions made: Locked final scene ownership through page 38 `(全劇完)` with no cross-scene spillover.
+- Next action: Run booklet-level consistency pass for `booklet/characters.md`, `booklet/scene-synopsis.md`, and `booklet/overview.md` against finalized scripts.

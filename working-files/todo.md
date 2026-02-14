@@ -13,12 +13,13 @@
 - done: OCR pages 33-34 and process Scene 08 Section 02
 - done: Scene 08 complete (all sections + scene-level QA)
 - done: OCR pages 35-36 and process Scene 09 Section 01
-- in-progress: OCR pages 37-38 and process Scene 09 Section 02
-- pending: Run Scene 09 scene-level QA after all Scene 09 sections are complete
+- done: OCR pages 37-38 and process Scene 09 Section 02
+- done: Run Scene 09 scene-level QA after all Scene 09 sections are complete
+- pending: Run booklet-level consistency pass across `booklet/characters.md`, `booklet/scene-synopsis.md`, and `booklet/overview.md` against final scripts
 - pending: Optional targeted re-OCR hardening for Scene 04 page-17 lyric block
 - pending: Optional targeted re-OCR hardening for Scene 05 page-21 lyric block
 - pending: Targeted re-OCR hardening for Scene 06 page-25 low-confidence lyric lines (`S06-SEC02-L058`, `L061`, `L062`)
 - pending: Targeted lyric hardening re-OCR for Scene 07 pages 27-30 (`S07-SEC01-L010`; `S07-SEC02-L021`, `L025`, `L029`)
 - pending: Targeted lyric/dialogue hardening re-OCR for Scene 08 pages 31-32 (`S08-SEC01-L009`, `S08-SEC01-L031`)
 - pending: Targeted lyric hardening re-OCR for Scene 08 pages 33-34 (`S08-SEC02-L030` to `S08-SEC02-L046`)
-- pending: Resolve canonical competition object/title lexeme (`愛叮堡榮譽` vs OCR variants) once clearer recurrence appears in Scene 09 continuation
+- done: Resolve canonical competition object/title lexeme lock for Scene 09 as `愛叮堡榮譽` / `Love-Ding Honor` (kept as conservative OCR normalization)

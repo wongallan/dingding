@@ -363,6 +363,8 @@ The booklet is done when:
 - 2026-02-14: Scene 07 full-scene QA completed and Scene 07 marked done (pages 27-30).
 - 2026-02-14: Scene 08 Section 01 completed (pages 31-32), extraction + conversion + section QA passed; opening `重新起步` song and butler-observation dialogue converted with conservative normalization for fragmented OCR tokens.
 - 2026-02-14: Scene 09 Section 01 completed (pages 35-36), extraction + conversion + section QA passed; opening ceremony + search drill sequence locked with conservative normalization.
+- 2026-02-14: Scene 09 Section 02 completed (pages 37-38), extraction + conversion + section QA passed; reconciliation/awards/finale-song sequence converted with conservative normalization.
+- 2026-02-14: Scene 09 full-scene QA completed and Scene 09 marked done (pages 35-38).
 
 ## Discovered Constraints (2026-02-14)
 
@@ -381,14 +383,16 @@ The booklet is done when:
 - Keep competition title lexeme (`愛叮堡榮譽` variants) as provisional until a cleaner recurrence in later Scene 07/08 OCR confirms canonical wording.
 - Run targeted hardening re-OCR for Scene 08 page-31/32 low-confidence lines `S08-SEC01-L009` and `S08-SEC01-L031` before publication lock.
 - Resolve competition-object lexeme ambiguity in Scene 09 (`愛叮堡榮譽` vs OCR variants like `榮益/樊益`) using next batch recurrence before final glossary lock.
+- Run targeted lyric hardening re-OCR for Scene 09 finale-song pages 37-38 before publication polish.
+- Execute booklet-level consistency pass to align `booklet/characters.md`, `booklet/scene-synopsis.md`, and `booklet/overview.md` with finalized Scene 01-09 scripts.
 
 ---
 
 ## Immediate Next Action
 
-Continue with Scene 9, Section 2:
+Run booklet-level alignment pass:
 
-1. OCR pages 37-38 and save batch output under `working-files/ocr/`.
-2. Extract dialogue-only lines with fresh `S09-SEC02-Lxxx` IDs.
-3. Convert and append triplets in `booklet/script/scene-09.md`.
-4. Run section QA, then execute Scene 09 scene-level QA when remaining sections are complete.
+1. Reconcile canonical names/terms in `booklet/characters.md` with `working-files/character-name-map.md` and `working-files/place-term-glossary.md`.
+2. Validate `booklet/scene-synopsis.md` and `booklet/overview.md` against finalized scene outcomes (Scene 01-09).
+3. Record any required edits in working files, then apply minimal updates to booklet files.
+4. Keep optional lyric hardening re-OCR items in backlog as non-blocking publication polish tasks.

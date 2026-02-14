@@ -215,3 +215,13 @@ Track all OCR extraction batches from scanned sources.
 - Confidence notes: Mixed-to-low OCR confidence with many stage-direction and prop artifacts; dialogue flow is recoverable and scene conflict/action beats are structurally clear.
 - Unclear lines count: 8 (mainly competition-object lexeme variants and one line with truncated cue wording around Scene 09 reveal)
 - Follow-up required: Continue Scene 09 with pages 37-38 and resolve canonical competition-object wording from clearer recurrence before full scene lock.
+
+- Batch ID: B21
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Source file: reference/叮叮魔法師劇本1-38.pdf
+- Page range: 37-38
+- Output file: working-files/ocr/batch-21-pages-37-38.md
+- Confidence notes: Mixed-to-low OCR confidence; dialogue block is recoverable with conservative normalization and the finale song is sequence-stable but token-noisy.
+- Unclear lines count: 12 (primarily finale lyric-token corruption and minor dialogue lexeme noise)
+- Follow-up required: Optional targeted lyric hardening re-OCR for finale song before publication polish; no blocker for Scene 09 lock.
