@@ -145,3 +145,13 @@ Track all OCR extraction batches from scanned sources.
 - Confidence notes: Mixed OCR quality with noise around competition title lexeme and some punctuation; dialogue flow and quiz-setup structure are recoverable.
 - Unclear lines count: 4 (one competition-title token cluster and three low-confidence lexical tokens in setup lines)
 - Follow-up required: Validate competition-title canonical wording against later recurring mentions during Scene 06 continuation.
+
+- Batch ID: B14
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Source file: reference/叮叮魔法師劇本1-38.pdf
+- Page range: 24-25
+- Output file: working-files/ocr/batch-14-pages-24-25.md
+- Confidence notes: Mixed OCR quality; quiz lines are mostly recoverable while song-heavy clusters on page 25 are noisy and require conservative normalization.
+- Unclear lines count: 9 (primarily lyric-token corruption and one trailing phrase fragment in magic-round setup)
+- Follow-up required: Continue Scene 06 with next section pages and schedule targeted re-OCR hardening for low-confidence page-25 lyric lines before full scene lock.

@@ -259,6 +259,12 @@ The booklet is done when:
 - **Terminology drift risk**: Update glossary before editing later scenes.
 - **Lyric over-adaptation risk**: Track adaptation rationale in song decisions file.
 
+## Active Follow-ups (Updated 2026-02-14)
+
+- Scene 06 Section 02 (pages 24-25) completed with conservative normalization.
+- Add targeted single-page re-OCR hardening task for page-25 lyric lines (`S06-SEC02-L058`, `S06-SEC02-L061`, `S06-SEC02-L062`) before Scene 06 scene-level lock.
+- Keep competition-title lexeme (`愛叮堡榮譽`) provisional until confirmed by cleaner recurrence in later Scene 06 pages.
+
 ## Active Open Issues (Rolling)
 
 - Competition-title OCR noise in Scene 06 page-23 (`愛叮堡樊盃/榮譽` variants): keep provisional normalization in section output, then lock canonical term only after recurrence on clearer pages.

@@ -275,3 +275,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Competition title lexeme remains OCR-noisy and provisional (`愛叮堡榮譽`) pending clearer recurrence in later pages.
 - Decisions made: Included pre-curtain butler spoken lines and excluded movement/light stage-direction lines from script triplets.
 - Next action: Process Scene 06 Section 02 from pages 24-25.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 06 / Section 02
+- Source pages: 24-25
+- Status: Done
+- Completed: OCR batch B14 saved; dialogue-only extraction staged with 66 lines; 66 triplets written to `booklet/script/scene-06.md`; section QA completed in `working-files/qa/scene-06-section-02-check.md`.
+- Outstanding: Three page-25 lyric lines remain low-confidence (`S06-SEC02-L058`, `L061`, `L062`) and competition-title lexeme is still provisional pending clearer recurrence.
+- Decisions made: Preserved quiz and magic-round sequence exactly; applied conservative lyric normalization rather than overfitting noisy OCR.
+- Next action: Process Scene 06 Section 03 from next source pages and carry forward targeted re-OCR hardening items before Scene 06 lock.
