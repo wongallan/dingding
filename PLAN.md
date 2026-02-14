@@ -161,6 +161,7 @@ For each section:
 3. **Speaker check**: Ensure speaker labels align with source intent.
 4. **Format check**: Ensure template format is exactly followed.
 5. **Exclusion check**: Verify stage directions are not included as dialogue entries.
+6. **Scene-boundary ownership check**: If an OCR batch spans two scenes, assign each dialogue line to the correct scene file (do not leave next-scene anchor lines in prior scene output).
 
 Log results in `working-files/qa/scene-0X-section-YY-check.md`.
 
@@ -258,6 +259,11 @@ The booklet is done when:
 - **Terminology drift risk**: Update glossary before editing later scenes.
 - **Lyric over-adaptation risk**: Track adaptation rationale in song decisions file.
 - **Missed lines risk**: Mandatory extracted-vs-written line count check per section.
+- **Boundary bleed risk**: When one page includes a scene transition, perform immediate boundary reconciliation before locking section/scene QA.
+
+## Active Next Task
+
+- Process `Scene 04 / Section 02` from the next source page range and continue the extraction → conversion → QA loop.
 
 ## Active OCR Follow-Ups (2026-02-14)
 

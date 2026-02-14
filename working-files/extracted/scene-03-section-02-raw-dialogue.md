@@ -25,10 +25,9 @@
 | S03-SEC02-L018 | 13 | 合唱 | 沒我在，放學發現漏，擔心她哭叫難自控。 | Song line; OCR normalized from fragmented lines |
 | S03-SEC02-L019 | 13 | 合唱 | 早日結束，能為我解封。 | Song line; OCR normalized |
 | S03-SEC02-L020 | 13 | 合唱 | 擺脫這惡夢。 | Song line; OCR normalized |
-| S03-SEC02-L021 | 14 | 合唱團 | 我一定做得到。 | Opening chorus line; mapped to Scene 04 setup in same OCR batch |
-| S03-SEC02-L022 | 14 | 合唱團 | 身體要健康。 | Opening chorus line; mapped to Scene 04 setup in same OCR batch |
+
 
 ## Uncertainty Tracking
 
 - `S03-SEC02-L010`, `S03-SEC02-L016` use conservative normalization due heavy OCR degradation.
-- Page 14 content starts Scene 04 (`第四幕`) contextually; only first two chorus anchor lines are staged here to preserve page-range continuity, and Scene 04 extraction should restart cleanly from page 14 with fresh section IDs.
+- Page 14 content starts Scene 04 (`第四幕`) contextually; boundary-opening chorus lines were reassigned to Scene 04 Section 01 to preserve scene ownership.

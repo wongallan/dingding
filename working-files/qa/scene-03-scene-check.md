@@ -2,7 +2,7 @@
 
 - Date: 2026-02-14
 - Agent: Copilot (GPT-5.3-Codex)
-- Source pages covered: 11-14 (with page-14 crossover noted)
+- Source pages covered: 11-13
 - Target script file: `booklet/script/scene-03.md`
 - Section QA references:
   - `working-files/qa/scene-03-section-01-check.md`
@@ -16,8 +16,8 @@
 - Result: PASS
 
 2. Completeness and ordering
-- Combined staged lines: 63 (Section 01: 41, Section 02: 22).
-- Scene script contains matching 63 triplets in sequence.
+- Combined staged lines: 61 (Section 01: 41, Section 02: 20).
+- Scene script contains matching 61 triplets in sequence.
 - Result: PASS
 
 3. Terminology consistency
@@ -32,4 +32,4 @@
 
 5. Risk notes
 - Section 02 includes lyric-heavy lines reconstructed from degraded OCR tokens (`S03-SEC02-L010`, `S03-SEC02-L016`) with explicit uncertainty retained in working extraction notes.
-- Page 14 clearly starts Scene 04 context; Scene 03 is treated complete up to its available continuity boundary.
+- Page 14 scene-opening chorus lines were moved to Scene 04 Section 01 to preserve scene ownership.

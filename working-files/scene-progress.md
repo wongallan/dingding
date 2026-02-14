@@ -15,7 +15,7 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Scene 01: Done
 - Scene 02: Done
 - Scene 03: Done
-- Scene 04: Not started
+- Scene 04: In progress
 - Scene 05: Not started
 - Scene 06: Not started
 - Scene 07: Not started
@@ -167,3 +167,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Optional targeted re-OCR of page 13 lyrics to harden two low-confidence normalized tokens.
 - Decisions made: Treated page-boundary carry-over as closed and retained explicit uncertainty tracking rather than silently overfitting degraded OCR.
 - Next action: Start Scene 04 Section 01 extraction/conversion from page 14 with fresh section IDs.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 04 / Section 01
+- Source pages: 14
+- Status: Done
+- Completed: Dialogue-only extraction staged with 24 lines; 24 triplets written to `booklet/script/scene-04.md`; section QA completed.
+- Outstanding: Continue Scene 04 with next source page range and run scene-level QA after all sections are complete.
+- Decisions made: Reassigned page-14 opening chorus lines to Scene 04 (from prior Scene 03 boundary staging) to preserve scene ownership.
+- Next action: Process Scene 04 Section 02 from the next page batch.

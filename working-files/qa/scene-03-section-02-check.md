@@ -9,8 +9,8 @@
 ## Checks
 
 1. Completeness check
-- Extracted line IDs: 22 (`S03-SEC02-L001` to `S03-SEC02-L022`)
-- Written triplets in scene section: 22
+- Extracted line IDs: 20 (`S03-SEC02-L001` to `S03-SEC02-L020`)
+- Written triplets in scene section: 20
 - Result: PASS
 
 2. Order check
@@ -21,7 +21,7 @@
 3. Speaker/content check
 - Emergency announcement and quarantine-panic sequence preserved.
 - Lyric lines with heavy OCR degradation were conservatively normalized and documented (`S03-SEC02-L010`, `S03-SEC02-L016`).
-- Page 14 starts next scene context (`第四幕`); only two anchoring chorus lines were included to maintain source continuity note.
+- Page 14 starts next scene context (`第四幕`); boundary-opening chorus lines are assigned to Scene 04 Section 01.
 - Result: PASS (with uncertainty notes)
 
 4. Format check
