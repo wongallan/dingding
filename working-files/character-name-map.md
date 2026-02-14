@@ -15,6 +15,11 @@ Use this file to lock character naming across all scenes.
 - 遙遙 — jiu4 jiu4 — Yiu-Yiu — Student, energetic and outspoken.
 - 安娜 — on1 no4 — Anna — Student.
 - 花輪達爾（達爾） — faa1 leon4 daat6 ji5 (daat6 ji5) — Dar — Student, flashy style.
+- 比比 — bei2 bei2 — Bibi — Student; high-status/rival posture.
+- 露露 — lou6 lou6 — Lulu — Bibi's close companion.
+- 菲菲 — fei1 fei1 — Fei-Fei — Student, sleepy entrance.
+- 芳花（老師） — fong1 faa1 (lou5 si1) — Miss Fong-Fa — Teacher figure.
+- 小志 — siu2 zi3 — Siu-Chi — Student/janitor-like role with broom.
 
 ## Needs Decision
 

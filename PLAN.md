@@ -258,6 +258,15 @@ The booklet is done when:
 - **Lyric over-adaptation risk**: Track adaptation rationale in song decisions file.
 - **Missed lines risk**: Mandatory extracted-vs-written line count check per section.
 
+---
+
+## Execution Updates (Living)
+
+- 2026-02-14: Scene 01 Section 01 completed (pages 1-2), QA passed.
+- 2026-02-14: Scene 01 Section 02 completed (pages 3-4), QA passed.
+- New mandatory carry-over task: when processing Section 03, first reconcile page-boundary continuation from `S01-SEC02-L051` (page 4 line that continues on page 5) before assigning new IDs.
+- New term-validation task: verify final spellings/meaning for `比卡特羅家族` and `愛叮堡榮譽` against clearer OCR in next batch before locking global glossary.
+
 ## Discovered Constraints (2026-02-14)
 
 - RapidOCR on this PDF is workable but noisy on title/header regions; manual normalization is required before conversion.
