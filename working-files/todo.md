@@ -18,7 +18,7 @@
 - done: Run booklet-level consistency pass across `booklet/characters.md`, `booklet/scene-synopsis.md`, and `booklet/overview.md` against final scripts
 - pending: Optional targeted re-OCR hardening for Scene 04 page-17 lyric block
 - pending: Optional targeted re-OCR hardening for Scene 05 page-21 lyric block
-- pending: Targeted re-OCR hardening for Scene 06 page-25 low-confidence lyric lines (`S06-SEC02-L058`, `L061`, `L062`)
+- done: Targeted re-OCR hardening for Scene 06 page-25 low-confidence lyric lines (`S06-SEC02-L058`, `L061`, `L062`)
 - pending: Targeted lyric hardening re-OCR for Scene 07 pages 27-30 (`S07-SEC01-L010`; `S07-SEC02-L021`, `L025`, `L029`)
 - pending: Targeted lyric/dialogue hardening re-OCR for Scene 08 pages 31-32 (`S08-SEC01-L009`, `S08-SEC01-L031`)
 - done: Targeted lyric hardening re-OCR for Scene 08 pages 33-34 (`S08-SEC02-L030` to `S08-SEC02-L046`) and lock `S08-SEC02-L041` as `即使都不怕，共對已足。`

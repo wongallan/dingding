@@ -258,37 +258,50 @@ The booklet is done when:
 - **Speaker confusion risk**: Enforce stable line IDs and section boundaries.
 - **Terminology drift risk**: Update glossary before editing later scenes.
 - **Lyric over-adaptation risk**: Track adaptation rationale in song decisions file.
-- **Scene 08 breakfast-song OCR risk**: Pages 33-34 include repetitive low-confidence lyric tokens; track targeted hardening for `S08-SEC02-L030` to `S08-SEC02-L046` before publication lock.
+
+---
+
+## Hardening Backlog Snapshot (2026-02-14)
+
+Status-tracked publication hardening queue (verified against `booklet/` + `working-files/` outputs):
+
+- Done: Scene 08 Section 02 lyric wording lock (`S08-SEC02-L041`) and section-tail hardening (`S08-SEC02-L030` to `L046`).
+- Done: Scene 06 Section 02 page-25 lyric tail hardening (`S06-SEC02-L058`, `L061`, `L062`).
+- Pending: Scene 07 targeted lyric hardening (`S07-SEC01-L010`; `S07-SEC02-L021`, `L025`, `L029`).
+- Pending: Scene 08 Section 01 targeted lyric hardening (`S08-SEC01-L009`, `L031`).
+- Pending: Optional page-level hardening for Scene 04 (page 17) and Scene 05 (page 21) lyric blocks.
+- **Scene 08 breakfast-song OCR risk**: Closed in targeted hardening pass (`S08-SEC02-L030` to `S08-SEC02-L046`, wording lock applied).
 
 ---
 
 ## Current Verified Checkpoint (2026-02-14)
 
-- Scenes 01-08: Converted and section-checked; Scene 08 closed at page 34 (`第八幕完`).
-- Highest-priority production work: Start Scene 09 Section 01 from pages 35-36.
-- Open hardening backlog: targeted lyric/dialogue re-OCR items tracked in `working-files/todo.md`.
+- Scenes 01-09: Converted and section-checked; full booklet script corpus is complete.
+- Highest-priority remaining work: targeted publication hardening tasks tracked in `working-files/todo.md`.
+- Canonical competition term lock completed: `愛叮堡榮譽` / `Love-Ding Honor`.
 
 ## Active Follow-ups (Updated 2026-02-14)
 
 - Scene 06 full-scene QA completed; boundary lock confirmed via page 26 (`第六幕完`, stage-direction-only).
-- Keep targeted single-page re-OCR hardening task for page-25 lyric lines (`S06-SEC02-L058`, `S06-SEC02-L061`, `S06-SEC02-L062`) as publication-quality follow-up.
+- Targeted single-page hardening for page-25 lyric lines (`S06-SEC02-L058`, `S06-SEC02-L061`, `S06-SEC02-L062`) completed and wording-locked.
 - Scene 07 full-scene QA completed; boundary lock confirmed via page 30 (`第七幕完`).
 - Keep targeted lyric hardening task for Scene 07 low-confidence tokens (`S07-SEC01-L010`; `S07-SEC02-L021`, `L025`, `L029`) as publication-quality follow-up.
-- Keep competition-title lexeme (`愛叮堡榮譽`) provisional until confirmed by cleaner recurrence in Scene 07+ pages.
+- Competition-title lexeme lock completed (`愛叮堡榮譽`), kept consistent across finalized outputs.
 
 ## Active Open Issues (Rolling)
 
-- Competition-title OCR noise in Scene 06 page-23 (`愛叮堡樊盃/榮譽` variants): keep provisional normalization in section output, then lock canonical term only after recurrence on clearer pages.
+- No blocking open issues; remaining items are non-blocking targeted hardening tasks listed in `working-files/todo.md`.
 
 ---
 
 ## Execution Status Snapshot (2026-02-14)
 
-- Scenes completed: 01-07
-- Current highest-priority pending task: start Scene 08 Section 01 from pages 31-32.
-- Non-blocking hardening follow-ups discovered during Scene 05 close-out:
+- Scenes completed: 01-09
+- Current highest-priority pending task: targeted lyric hardening for Scene 07 (`S07-SEC01-L010`; `S07-SEC02-L021`, `L025`, `L029`).
+- Non-blocking hardening follow-ups remaining:
    - Optional targeted re-OCR of Scene 04 page-17 lyric block.
    - Optional targeted re-OCR of Scene 05 page-21 lyric block.
+   - Targeted hardening for Scene 08 Section 01 (`S08-SEC01-L009`, `S08-SEC01-L031`).
 
 ---
 

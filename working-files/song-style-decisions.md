@@ -82,3 +82,10 @@ Document major lyric adaptation decisions so all agents apply the same artistic 
 - Final lyric rendering: Preserved repeated warmth anchors (`warm`, `heartfelt`, `together`) and simple-food imagery while normalizing heavily fragmented refrain tokens conservatively.
 - Rationale (meter, tone, audience clarity, artistic intent): Keep sing-along softness and care-reversal emotional arc (children serving butlers) without overfitting noisy OCR characters in repeated lyric lines.
 - Approved by: Copilot (GPT-5.3-Codex)
+
+- Scene/Song: Scene 06 student setback refrain (`魔法大比拼` fallout, page 25)
+- Source phrase: low-confidence lyric tail lines `S06-SEC02-L058`, `L061`, `L062` in post-competition collapse chorus.
+- Literal meaning: Without support, composure and certainty collapse; students call for the return/response of magic.
+- Final lyric rendering: `離開幫手必會失鎮定。` / `強大世界裡魔法。` / `在哪可否來和應。`
+- Rationale (meter, tone, audience clarity, artistic intent): Targeted hardening favors conservative coherence and emotional continuity with adjacent lines (`取勝`, `我命`, `泡影`, `沒法證`) while avoiding speculative over-reconstruction beyond OCR evidence.
+- Approved by: Copilot (GPT-5.3-Codex)

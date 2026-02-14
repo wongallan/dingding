@@ -62,11 +62,11 @@
 | S06-SEC02-L055 | 25 | 學生 | 今天終止魔法大比拼。 | Song lyric line |
 | S06-SEC02-L056 | 25 | 學生 | 叮叮消失現在怎取勝。 | Song lyric line |
 | S06-SEC02-L057 | 25 | 學生 | 沒有管家點救我命。 | Song lyric line |
-| S06-SEC02-L058 | 25 | 學生 | 離開雙手必會失去定。 | Low-confidence line; conservative normalization |
+| S06-SEC02-L058 | 25 | 學生 | 離開幫手必會失鎮定。 | Hardened normalization after targeted re-read |
 | S06-SEC02-L059 | 25 | 學生 | 無奈勝仗泡影。 | Song lyric line |
 | S06-SEC02-L060 | 25 | 學生 | 努力始終沒法證。 | Song lyric line |
-| S06-SEC02-L061 | 25 | 學生 | 強大世界那魔法。 | Low-confidence line; conservative normalization |
-| S06-SEC02-L062 | 25 | 學生 | 在哪可否來和應。 | Low-confidence line; conservative normalization |
+| S06-SEC02-L061 | 25 | 學生 | 強大世界裡魔法。 | Hardened normalization after targeted re-read |
+| S06-SEC02-L062 | 25 | 學生 | 在哪可否來和應。 | Hardened normalization after targeted re-read |
 | S06-SEC02-L063 | 25 | 柔柔 | 魔法比賽完畢！結果… | OCR normalized |
 | S06-SEC02-L064 | 25 | 芳花 | 無人贏！ | OCR normalized |
 | S06-SEC02-L065 | 25 | 遙遙 | （低聲）無叮叮，我書都執唔好。 | OCR normalized |
@@ -75,4 +75,4 @@
 ## Uncertainty Tracking
 
 - Page-24 and page-25 song clusters are OCR-noisy; multiple lyric tokens are conservatively normalized to preserve sequence and intent.
-- `S06-SEC02-L058`, `L061`, and `L062` remain low-confidence and should be candidates for targeted re-OCR hardening before scene lock.
+- Targeted hardening pass applied to `S06-SEC02-L058`, `L061`, and `L062` using page-25 OCR re-read; no additional unresolved tokens remain in this specific lyric tail.

@@ -388,9 +388,9 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Sidney Lau romanization: mut6 jau5 gun2 gaa1 dim2 gau3 ngo5 meng6.
 - English translation: Without butlers, who can save me?
 
-- Characters: 離開雙手必會失去定。
-- Sidney Lau romanization: lei4 hoi1 soeng1 sau2 bit1 wui5 sat1 heoi3 ding6.
-- English translation: Once those helping hands leave, we surely lose our footing.
+- Characters: 離開幫手必會失鎮定。
+- Sidney Lau romanization: lei4 hoi1 bong1 sau2 bit1 wui5 sat1 zan3 ding6.
+- English translation: Without helping hands, we’re bound to lose our calm.
 
 - Characters: 無奈勝仗泡影。
 - Sidney Lau romanization: mou4 noi6 sing3 zoeng3 paau3 jing2.
@@ -400,13 +400,13 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Sidney Lau romanization: nou5 lik6 ci2 zung1 mut6 faat3 zing3.
 - English translation: In the end, effort still proves nothing.
 
-- Characters: 強大世界那魔法。
-- Sidney Lau romanization: koeng4 daai6 sai3 gaai3 naa5 mo4 faat3.
-- English translation: Where is that great magic in this world?
+- Characters: 強大世界裡魔法。
+- Sidney Lau romanization: koeng4 daai6 sai3 gaai3 leoi5 mo4 faat3.
+- English translation: In this wide world, where is that magic?
 
 - Characters: 在哪可否來和應。
 - Sidney Lau romanization: zoi6 naa5 ho2 fau2 loi4 wo4 jing3.
-- English translation: Where can it answer and return to us?
+- English translation: Where can it come and answer us?
 
 - Characters: 魔法比賽完畢！結果…
 - Sidney Lau romanization: mo4 faat3 bei2 coi3 jyun4 bat1! git3 gwo2...

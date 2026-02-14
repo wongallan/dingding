@@ -431,3 +431,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Scene 08 Section 01 hardening remains for `S08-SEC01-L009` and `S08-SEC01-L031`.
 - Decisions made: Removed an over-normalized token (`跌倒`) where OCR recurrence did not support it.
 - Next action: Continue highest-impact pending hardening task from `working-files/todo.md` (Scene 08 Section 01 lines or Scene 09 finale lyric cluster).
+
+### 2026-02-14 — Hardening Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 06 / Section 02 targeted lyric hardening
+- Source pages: 25
+- Status: Done
+- Completed: Re-checked `working-files/ocr/batch-14-pages-24-25.md` against staged extraction and script lines `S06-SEC02-L058`, `S06-SEC02-L061`, `S06-SEC02-L062`; locked wording to `離開幫手必會失鎮定。`, `強大世界裡魔法。`, and `在哪可否來和應。`; synchronized section QA and todo tracking.
+- Outstanding: Remaining hardening backlog stays in `working-files/todo.md` (Scenes 04, 05, 07, and 08).
+- Decisions made: Replaced over-fragmented OCR-normalized wording with conservative but coherent lyric reads while preserving line order and song intent.
+- Next action: Execute targeted lyric hardening for Scene 07 pages 27-30 lines tracked in `working-files/todo.md`.
