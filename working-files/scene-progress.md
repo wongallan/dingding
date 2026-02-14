@@ -407,3 +407,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Optional targeted lyric hardening for pages 37-38 remains non-blocking follow-up.
 - Decisions made: Locked final scene ownership through page 38 `(全劇完)` with no cross-scene spillover.
 - Next action: Run booklet-level consistency pass for `booklet/characters.md`, `booklet/scene-synopsis.md`, and `booklet/overview.md` against finalized scripts.
+
+### 2026-02-14 — Booklet-Level Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Booklet-level consistency pass (post Scene 09)
+- Source pages: Script corpus pages 1-38 (via finalized scene files)
+- Status: Done
+- Completed: Filled `booklet/characters.md`, `booklet/scene-synopsis.md`, and `booklet/overview.md`; aligned terminology and narrative arc references with finalized scene scripts and canonical working maps.
+- Outstanding: Optional publication hardening tasks remain (targeted re-OCR items already tracked in `todo.md`).
+- Decisions made: Kept `愛叮堡榮譽` as `Love-Ding Honor`; preserved existing canonical name map and did not force new renaming changes during booklet pass.
+- Next action: Optional terminology hardening pass for remaining provisional lexemes if publication-level lock is required.

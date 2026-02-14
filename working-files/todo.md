@@ -15,7 +15,7 @@
 - done: OCR pages 35-36 and process Scene 09 Section 01
 - done: OCR pages 37-38 and process Scene 09 Section 02
 - done: Run Scene 09 scene-level QA after all Scene 09 sections are complete
-- pending: Run booklet-level consistency pass across `booklet/characters.md`, `booklet/scene-synopsis.md`, and `booklet/overview.md` against final scripts
+- done: Run booklet-level consistency pass across `booklet/characters.md`, `booklet/scene-synopsis.md`, and `booklet/overview.md` against final scripts
 - pending: Optional targeted re-OCR hardening for Scene 04 page-17 lyric block
 - pending: Optional targeted re-OCR hardening for Scene 05 page-21 lyric block
 - pending: Targeted re-OCR hardening for Scene 06 page-25 low-confidence lyric lines (`S06-SEC02-L058`, `L061`, `L062`)

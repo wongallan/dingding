@@ -330,7 +330,7 @@ The booklet is done when:
 
 ## Active Next Task
 
-- Process `Scene 08 / Section 01` from pages 31-32 and continue the extraction → conversion → QA loop.
+- Booklet-level consistency pass completed; next work is optional publication hardening (targeted re-OCR and terminology lock cleanup).
 
 ## Active OCR Follow-Ups (2026-02-14)
 
@@ -365,6 +365,7 @@ The booklet is done when:
 - 2026-02-14: Scene 09 Section 01 completed (pages 35-36), extraction + conversion + section QA passed; opening ceremony + search drill sequence locked with conservative normalization.
 - 2026-02-14: Scene 09 Section 02 completed (pages 37-38), extraction + conversion + section QA passed; reconciliation/awards/finale-song sequence converted with conservative normalization.
 - 2026-02-14: Scene 09 full-scene QA completed and Scene 09 marked done (pages 35-38).
+- 2026-02-14: Booklet-level consistency pass completed; `booklet/characters.md`, `booklet/scene-synopsis.md`, and `booklet/overview.md` updated against finalized Scene 01-09 scripts.
 
 ## Discovered Constraints (2026-02-14)
 
@@ -384,15 +385,14 @@ The booklet is done when:
 - Run targeted hardening re-OCR for Scene 08 page-31/32 low-confidence lines `S08-SEC01-L009` and `S08-SEC01-L031` before publication lock.
 - Resolve competition-object lexeme ambiguity in Scene 09 (`愛叮堡榮譽` vs OCR variants like `榮益/樊益`) using next batch recurrence before final glossary lock.
 - Run targeted lyric hardening re-OCR for Scene 09 finale-song pages 37-38 before publication polish.
-- Execute booklet-level consistency pass to align `booklet/characters.md`, `booklet/scene-synopsis.md`, and `booklet/overview.md` with finalized Scene 01-09 scripts.
+- Resolve canonical family-name spelling lock for `比卡特羅家族` (`Pikatero` vs `Picatro`) and normalize booklet/glossary/script references once confirmed.
 
 ---
 
 ## Immediate Next Action
 
-Run booklet-level alignment pass:
+Run optional publication-hardening pass:
 
-1. Reconcile canonical names/terms in `booklet/characters.md` with `working-files/character-name-map.md` and `working-files/place-term-glossary.md`.
-2. Validate `booklet/scene-synopsis.md` and `booklet/overview.md` against finalized scene outcomes (Scene 01-09).
-3. Record any required edits in working files, then apply minimal updates to booklet files.
-4. Keep optional lyric hardening re-OCR items in backlog as non-blocking publication polish tasks.
+1. Prioritize targeted re-OCR items already listed in `working-files/todo.md`.
+2. Lock unresolved provisional lexemes (`愛叮堡榮譽`, `比卡特羅家族`) only when clearer OCR evidence is available.
+3. Normalize glossary/booklet references after lexical lock and re-run spot QA on affected scenes.
