@@ -20,7 +20,7 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Scene 06: Done
 - Scene 07: Done
 - Scene 08: Done
-- Scene 09: Not started
+- Scene 09: In progress
 
 ## Section Log (append-only)
 
@@ -371,3 +371,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Targeted lyric hardening remains for Section 01 (`S08-SEC01-L009`, `L031`) and Section 02 (`S08-SEC02-L030` to `L046`).
 - Decisions made: Scene boundary locked at page 34 `第八幕完`; next production priority moved to Scene 09 page 35.
 - Next action: Begin Scene 09 Section 01 extraction/conversion from pages 35-36.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 09 / Section 01
+- Source pages: 35-36
+- Status: Done
+- Completed: OCR batch B20 saved; dialogue-only extraction staged with 35 lines; 35 triplets written to `booklet/script/scene-09.md`; section QA completed in `working-files/qa/scene-09-section-01-check.md`.
+- Outstanding: Competition object/title lexeme (`愛叮堡榮譽` variants) remains provisional and needs clearer recurrence in pages 37-38 before scene lock.
+- Decisions made: Preserved non-magic problem-solving structure (`三步找法`) and conservative normalization in noisy lexeme zones while excluding stage-direction-only movement/lighting lines.
+- Next action: OCR pages 37-38 and process Scene 09 Section 02.

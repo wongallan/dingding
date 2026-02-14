@@ -362,6 +362,7 @@ The booklet is done when:
 - 2026-02-14: Scene 07 Section 02 completed (pages 29-30), extraction + conversion + section QA passed; `新節奏` call/response block normalized conservatively with explicit low-confidence markers.
 - 2026-02-14: Scene 07 full-scene QA completed and Scene 07 marked done (pages 27-30).
 - 2026-02-14: Scene 08 Section 01 completed (pages 31-32), extraction + conversion + section QA passed; opening `重新起步` song and butler-observation dialogue converted with conservative normalization for fragmented OCR tokens.
+- 2026-02-14: Scene 09 Section 01 completed (pages 35-36), extraction + conversion + section QA passed; opening ceremony + search drill sequence locked with conservative normalization.
 
 ## Discovered Constraints (2026-02-14)
 
@@ -379,14 +380,15 @@ The booklet is done when:
 - Resolve low-confidence `新節奏` bracket tokens in `S07-SEC02-L021`, `L025`, and `L029` when cleaner recurrence appears.
 - Keep competition title lexeme (`愛叮堡榮譽` variants) as provisional until a cleaner recurrence in later Scene 07/08 OCR confirms canonical wording.
 - Run targeted hardening re-OCR for Scene 08 page-31/32 low-confidence lines `S08-SEC01-L009` and `S08-SEC01-L031` before publication lock.
+- Resolve competition-object lexeme ambiguity in Scene 09 (`愛叮堡榮譽` vs OCR variants like `榮益/樊益`) using next batch recurrence before final glossary lock.
 
 ---
 
 ## Immediate Next Action
 
-Continue with Scene 8, Section 2:
+Continue with Scene 9, Section 2:
 
-1. OCR pages 33-34 and save batch output under `working-files/ocr/`.
-2. Extract dialogue-only lines with fresh `S08-SEC02-Lxxx` IDs.
-3. Convert and append triplets in `booklet/script/scene-08.md`.
-4. Run section QA and continue section loop until Scene 08 scene-level QA.
+1. OCR pages 37-38 and save batch output under `working-files/ocr/`.
+2. Extract dialogue-only lines with fresh `S09-SEC02-Lxxx` IDs.
+3. Convert and append triplets in `booklet/script/scene-09.md`.
+4. Run section QA, then execute Scene 09 scene-level QA when remaining sections are complete.
