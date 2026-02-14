@@ -261,6 +261,14 @@ The booklet is done when:
 
 ---
 
+## Live Execution Updates (2026-02-14)
+
+- Scene 04 Section 03 source (page 17) is completed with conservative lyric normalization due low OCR confidence.
+- New follow-up task: targeted single-page re-OCR hardening for page 17 lyric block before publication lock.
+- Scene boundary confirmed: Scene 04 closes at `第四幕完` (page 17), Scene 05 starts at page 18 (`第五幕`).
+
+---
+
 ## Active Follow-Up Queue (Discovered During Execution)
 
 - 2026-02-14: Scene 04 Section 02 (pages 15-16) required five heavy OCR normalizations (`S04-SEC02-L001`, `L007`, `L019`, `L033`, `L041`).

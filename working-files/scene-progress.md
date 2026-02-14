@@ -15,7 +15,7 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Scene 01: Done
 - Scene 02: Done
 - Scene 03: Done
-- Scene 04: In progress
+- Scene 04: Done
 - Scene 05: Not started
 - Scene 06: Not started
 - Scene 07: Not started
@@ -191,3 +191,27 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Heavier OCR normalizations in five lines should be hardened via optional targeted re-OCR before final Scene 04 lock.
 - Decisions made: Added `柔柔（老師）` to canonical character map; retained mixed-language spoken tokens (`Baby`, `Too bad`, `Water, I need water`) where present in source style.
 - Next action: Process Scene 04 Section 03 from next source page range, then run full Scene 04 scene-level QA.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 04 / Section 03
+- Source pages: 17
+- Status: Done
+- Completed: OCR batch B10 generated (pages 17-18); dialogue-only extraction staged with 25 lines for page 17; 25 triplets written to `booklet/script/scene-04.md`; section QA completed in `working-files/qa/scene-04-section-03-check.md`.
+- Outstanding: Optional targeted re-OCR for page-17 lyric block before publication lock.
+- Decisions made: Closed Scene 04 at `第四幕完` on page 17; treated page 18 as Scene 05 boundary start and excluded it from Scene 04 ownership.
+- Next action: Run Scene 04 full-scene QA and close scene status.
+
+### 2026-02-14 — Scene-Level Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 04 / Full Scene QA
+- Source pages: 14-17
+- Status: Done
+- Completed: Scene-level continuity/boundary/format checks logged in `working-files/qa/scene-04-scene-check.md`; Scene 04 marked complete.
+- Outstanding: Optional page-17 lyric re-OCR hardening task remains tracked as non-blocking follow-up.
+- Decisions made: Scene boundary ownership locked (`第四幕完` closes Scene 04, `第五幕` begins Scene 05).
+- Next action: Begin Scene 05 Section 01 extraction/conversion from page 18 onward.

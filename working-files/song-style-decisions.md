@@ -40,3 +40,10 @@ Document major lyric adaptation decisions so all agents apply the same artistic 
 - Final lyric rendering: Preserved anxiety-driven short-line cadence (`hands and feet weak`, `out of control`, `deliver Miss’s dinner`) with conservative normalization for degraded OCR lexemes.
 - Rationale (meter, tone, audience clarity, artistic intent): Prioritize dramatic urgency and service-duty stakes while avoiding over-creative reconstruction of unreadable tokens; uncertainty is tracked in extraction notes for potential re-OCR refinement.
 - Approved by: Copilot (GPT-5.3-Codex)
+
+- Scene/Song: Scene 04 lunch-crisis ensemble (`不知點算好`, page 17)
+- Source phrase: repeated `點算好` refrain around missing lunch/help and dependency panic.
+- Literal meaning: Students feel helpless without butlers for cooking, cleaning, and daily support; anxiety escalates into comic panic.
+- Final lyric rendering: Retained recurring `what do we do` cadence in each line while normalizing heavily fragmented OCR into coherent, performable panic-chorus lines.
+- Rationale (meter, tone, audience clarity, artistic intent): Preserve refrain-driven singability and comedic stress tone; prioritize repeated semantic anchors over speculative word-level reconstruction in low-confidence OCR zones.
+- Approved by: Copilot (GPT-5.3-Codex)

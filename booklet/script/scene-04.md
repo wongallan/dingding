@@ -287,3 +287,105 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Characters: 我上星期就做晒啦，琴日已經執好放入個袋！叮！……
 - Sidney Lau romanization: ngo5 soeng6 sing1 kei4 zau6 zou6 saai3 laa1, kam4 jat6 ji5 ging1 zap1 hou2 fong3 jap6 go3 doi2! ding1!...
 - English translation: I already finished it last week and packed it into my bag yesterday! Ding!...
+
+## Section 3 (page 17)
+
+- Characters: 你個書包細，肯定無帶！
+- Sidney Lau romanization: nei5 go3 syu1 baau1 sai3, hang2 ding6 mou4 daai3!
+- English translation: Your schoolbag is tiny—you definitely didn’t bring everything!
+
+- Characters: 呀！我從未試過唔交功課，點算呀！（哭）
+- Sidney Lau romanization: aa3! ngo5 cung4 mei6 si3 gwo3 m4 gaau1 gung1 fo3, dim2 syun3 aa3! (huk1)
+- English translation: Ah! I’ve never tried not handing in homework before—what do I do?! (crying)
+
+- Characters: 安娜，唔好喊啦……
+- Sidney Lau romanization: on1 no4, m4 hou2 haam3 laa1...
+- English translation: Anna, don’t cry...
+
+- Characters: Oh baby... too bad......
+- Sidney Lau romanization: ou1 be1 bi1... tu1 baad6...
+- English translation: Oh baby... too bad...
+
+- Characters: 呵呵！高材生失手啦！呵呵呵！
+- Sidney Lau romanization: ho1 ho1! gou1 coi4 saang1 sat1 sau2 laa1! ho1 ho1 ho1!
+- English translation: Heh-heh! The top student messed up! Hahaha!
+
+- Characters: 比比，你連書包都無帶啊！
+- Sidney Lau romanization: bei2 bei2, nei5 lin4 syu1 baau1 dou1 mou4 daai3 aa3!
+- English translation: Bibi, you didn’t even bring your bag at all!
+
+- Characters: 哎吔！
+- Sidney Lau romanization: aai1 je1!
+- English translation: Oops!
+
+- Characters: 各位同學再見。
+- Sidney Lau romanization: gok3 wai2 tung4 hok6 zoi3 gin3.
+- English translation: Goodbye, class.
+
+- Characters: 吓！老師，我先返學咋喎，放堂啦？
+- Sidney Lau romanization: haa2! lou5 si1, ngo5 sin1 faan1 hok6 zaa3 wo3, fong3 tong4 laa1?
+- English translation: Huh?! Teacher, I only just got here—is class over already?
+
+- Characters: 唔係呀，比比同學，因為你遲返學，而家已經係午飯時間。
+- Sidney Lau romanization: m4 hai6 aa3, bei2 bei2 tung4 hok6, jan1 wai6 nei5 ci4 faan1 hok6, ji4 gaa1 ji5 ging1 hai6 ng5 faan6 si4 gaan3.
+- English translation: No, Bibi—because you came late, it’s already lunchtime.
+
+- Characters: 大家快啲拎你午餐食飯啦，老師唔阻你哋啦！
+- Sidney Lau romanization: daai6 gaa1 faai3 di1 ling1 nei5 ng5 caan1 sik6 faan6 laa1, lou5 si1 m4 zo2 nei5 dei6 laa1!
+- English translation: Everyone, quickly get your lunch and eat—teacher won’t hold you up.
+
+- Characters: 糟啦！唔記得叮叮魔法失靈呀！
+- Sidney Lau romanization: zou1 laa1! m4 gei3 dak1 ding1 ding1 mo4 faat3 sat1 ling4 aa3!
+- English translation: Oh no! I forgot Ding Ding Magic is out of order!
+
+- Characters: 噢！我午餐和牛肉醬墨魚汁香蒜意粉，冇啦！
+- Sidney Lau romanization: ou1! ngo5 ng5 caan1 wo4 ngau4 juk6 zoeng3 mak6 jyu4 zap1 hoeng1 syun3 ji3 fan2, mou5 laa1!
+- English translation: Oh! My wagyu meat-sauce squid-ink garlic pasta lunch is gone!
+
+- Characters: 我嗰盒蟹膏吞拿魚飯團……
+- Sidney Lau romanization: ngo5 go2 hap6 haai5 gou1 tan1 naa4 jyu4 faan6 tyun4...
+- English translation: And my box of crab-roe tuna rice balls...
+
+- Characters: 而家點算呀？
+- Sidney Lau romanization: ji4 gaa1 dim2 syun3 aa3?
+- English translation: What do we do now?
+
+- Characters: 無管家幫手入廚，點算好。
+- Sidney Lau romanization: mou4 gun2 gaa1 bong1 sau2 jap6 cyu4, dim2 syun3 hou2.
+- English translation: No butlers to help in the kitchen—what do we do?
+
+- Characters: 神經爆煲，點算好。
+- Sidney Lau romanization: san4 ging1 baau3 bou1, dim2 syun3 hou2.
+- English translation: Our nerves are exploding—what do we do?
+
+- Characters: 肚咕嚕嚕，無餐飽肚落堂，點算好。
+- Sidney Lau romanization: tou5 gu1 lou1 lou1, mou4 caan1 baau2 tou5 lok6 tong4, dim2 syun3 hou2.
+- English translation: Stomachs rumble; no meal to fill us through class—what do we do?
+
+- Characters: 無管家清潔抹地，呢啲污糟點洗刷，點算好。
+- Sidney Lau romanization: mou4 gun2 gaa1 cing1 git3 mut3 dei6, ni1 di1 wu1 zou1 dim2 sai2 caat3, dim2 syun3 hou2.
+- English translation: No butlers to clean and mop; how do we scrub all this mess—what do we do?
+
+- Characters: 我唔知點樣踏前路，啊，有邊個可救助？
+- Sidney Lau romanization: ngo5 m4 zi1 dim2 joeng6 daap6 cin4 lou6, aa3, jau5 bin1 go3 ho2 gau3 zo6?
+- English translation: I don’t know how to keep moving forward—ah, who can help us?
+
+- Characters: 我唔想撞親跌低，蜘蛛飛舞，好恐怖。
+- Sidney Lau romanization: ngo5 m4 seung2 zong6 can1 dit3 dai1, zi1 zyu1 fei1 mou5, hou2 hung2 bou3.
+- English translation: I don’t want to bump and fall; spiders are flying around—it’s terrifying.
+
+- Characters: 我想逃，神經爆煲，點算好。
+- Sidney Lau romanization: ngo5 seung2 tou4, san4 ging1 baau3 bou1, dim2 syun3 hou2.
+- English translation: I want to run away; my nerves are blown—what do we do?
+
+- Characters: 無管家解決問題，個書包好重，點算好。
+- Sidney Lau romanization: mou4 gun2 gaa1 gaai2 kyut3 man6 tai4, go3 syu1 baau1 hou2 zung6, dim2 syun3 hou2.
+- English translation: No butlers to solve problems; this schoolbag is so heavy—what do we do?
+
+- Characters: 無管家煎炒煮炸，四周污糟，點算好。
+- Sidney Lau romanization: mou4 gun2 gaa1 zin1 caau2 zyu2 zaa3, sei3 zau1 wu1 zou1, dim2 syun3 hou2.
+- English translation: No butlers to fry, stir-fry, boil, or cook; everything around us is messy—what do we do?
+
+- Characters: 我置身黑暗像迷路。
+- Sidney Lau romanization: ngo5 zi3 san1 hak1 am3 zoeng6 mai4 lou6.
+- English translation: I’m stuck in darkness, like I’ve lost the way.
