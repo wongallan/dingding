@@ -497,3 +497,7 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Characters: 全賴有管家，齊集各管家高呼：無敵大管家，安心齊齊來學叮！
 - Sidney Lau romanization: cyun4 laai6 jau5 gun2 gaa1, cai4 zaap6 gok3 gun2 gaa1 gou1 fu1: mou4 dik6 daai6 gun2 gaa1, on1 sam1 cai4 cai4 loi4 hok6 ding1!
 - English translation: It all depends on butlers—gather all butlers and shout: invincible great butlers, come learn Ding together with peace of mind!
+
+---
+
+[← Back to Script Index](index.md) | [← Back to Home](../index.md)

@@ -389,3 +389,7 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Characters: 我置身黑暗像迷路。
 - Sidney Lau romanization: ngo5 zi3 san1 hak1 am3 zoeng6 mai4 lou6.
 - English translation: I’m stuck in darkness, like I’ve lost the way.
+
+---
+
+[← Back to Script Index](index.md) | [← Back to Home](../index.md)

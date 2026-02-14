@@ -13,3 +13,10 @@ One paragraph per scene describing what happens. Link each synopsis to its corre
 - Scene 9 — In the finale, a missing “Love-Ding Honor” triggers a no-magic group problem-solving test that ends in accountability, reconciliation, and redefined awards, concluding that the strongest magic is love, courage, cooperation, and hands-on action. ([Script](script/scene-09.md))
 
 Add or remove scene entries to match the final show structure.
+
+## Navigation
+
+- [← Back to Home](index.md)
+- [Overview](overview.md)
+- [Character Guide](characters.md)
+- [Script files](script/)

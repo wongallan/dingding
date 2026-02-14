@@ -291,3 +291,7 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Characters: （輕聲）叮叮今次，我唔靠你啦。
 - Sidney Lau romanization: (hing1 seng1) ding1 ding1 gam1 ci3, ngo5 m4 kaau3 nei5 laa1.
 - English translation: (Softly) Ding Ding, this time I won’t rely on you.
+
+---
+
+[← Back to Script Index](index.md) | [← Back to Home](../index.md)

@@ -16,6 +16,7 @@ At Love-Ding Fort Academy, students begin by relying on “Ding Ding Magic” fo
 
 ## Navigation
 
+- [← Back to Home](index.md)
 - [Character Guide](characters.md)
 - [Scene Synopsis](scene-synopsis.md)
 - [Script (per-scene files)](script/)

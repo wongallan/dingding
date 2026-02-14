@@ -405,3 +405,7 @@ For every spoken line include three parallel lines:
 - Characters: 係，柔柔老師！早晨。
 - Sidney Lau romanization: hai6, jau4 jau4 lou5 si1! zou2 san4.
 - English translation: Yes, Miss Yau-Yau! Good morning.
+
+---
+
+[← Back to Script Index](index.md) | [← Back to Home](../index.md)

@@ -423,3 +423,7 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Characters: （小聲）我都一樣。
 - Sidney Lau romanization: (siu2 seng1) ngo5 dou1 jat1 joeng6.
 - English translation: (quietly) Same here.
+
+---
+
+[← Back to Script Index](index.md) | [← Back to Home](../index.md)

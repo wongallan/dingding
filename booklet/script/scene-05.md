@@ -481,3 +481,7 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Characters: 少爺小姐，我幫你。
 - Sidney Lau romanization: siu3 je5 siu2 ze2, ngo5 bong1 nei5.
 - English translation: Young master, miss—I’ll help you.
+
+---
+
+[← Back to Script Index](index.md) | [← Back to Home](../index.md)
