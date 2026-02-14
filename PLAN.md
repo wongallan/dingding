@@ -396,3 +396,25 @@ Run optional publication-hardening pass:
 1. Prioritize targeted re-OCR items already listed in `working-files/todo.md`.
 2. Lock unresolved provisional lexemes (`愛叮堡榮譽`, `比卡特羅家族`) only when clearer OCR evidence is available.
 3. Normalize glossary/booklet references after lexical lock and re-run spot QA on affected scenes.
+
+---
+
+## Execution Update (2026-02-14, Later Increment)
+
+- Verified highest-priority uncompleted item by output artifacts: Scene 08 Section 02 song cluster hardening (`S08-SEC02-L030` to `L046`) had the broadest unresolved lyric surface area.
+- Completed targeted hardening pass using `working-files/ocr/batch-19-pages-33-34.md` against staged extraction and final script.
+- Applied one wording lock where prior normalization overreached OCR evidence:
+   - `S08-SEC02-L041`: `即使跌倒不怕，共對已足。` → `即使都不怕，共對已足。`
+- Updated all affected artifacts:
+   - `booklet/script/scene-08.md`
+   - `working-files/extracted/scene-08-section-02-raw-dialogue.md`
+   - `working-files/qa/scene-08-section-02-check.md`
+   - `working-files/scene-progress.md`
+   - `working-files/todo.md`
+
+## Revised Open Hardening Queue (Post Increment)
+
+- Scene 08 Section 01: `S08-SEC01-L009`, `S08-SEC01-L031`.
+- Scene 06 Section 02 lyric lines: `S06-SEC02-L058`, `L061`, `L062`.
+- Scene 07 lyric lines: `S07-SEC01-L010`; `S07-SEC02-L021`, `L025`, `L029`.
+- Scene 09 finale lyric cluster (pages 37-38) as publication polish follow-up.

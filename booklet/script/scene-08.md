@@ -304,9 +304,9 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Sidney Lau romanization: cong3 zou6 jyu4 faai3 cyun4 soeng1 sau2.
 - English translation: Joy is created by both hands.
 
-- Characters: 即使跌倒不怕，共對已足。
-- Sidney Lau romanization: zik1 si2 dit3 dou2 bat1 paa3, gung6 deoi3 ji5 zuk1.
-- English translation: Even if we fall, we’re not afraid; facing it together is enough.
+- Characters: 即使都不怕，共對已足。
+- Sidney Lau romanization: zik1 si2 dou1 bat1 paa3, gung6 deoi3 ji5 zuk1.
+- English translation: Even so, we are not afraid; facing it together is enough.
 
 - Characters: 真心真意去嚐每一口。
 - Sidney Lau romanization: zan1 sam1 zan1 ji3 heoi3 soeng4 mui5 jat1 hau2.

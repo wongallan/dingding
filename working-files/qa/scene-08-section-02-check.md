@@ -37,4 +37,6 @@
 
 ## Residual Risk Notes
 
-- `S08-SEC02-L030` to `S08-SEC02-L046` (song refrain cluster) remain conservative normalizations from low-confidence OCR and are tracked for optional targeted hardening.
+- Targeted hardening pass completed for `S08-SEC02-L030` to `S08-SEC02-L046` using batch-19 OCR recurrence.
+- Wording lock applied to `S08-SEC02-L041`: `即使都不怕，共對已足。` (removed prior over-normalized `跌倒` token).
+- Remaining Section 02 uncertainty is limited to one dialogue action phrasing in `S08-SEC02-L010`.

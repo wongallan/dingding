@@ -45,7 +45,7 @@
 | S08-SEC02-L038 | 34 | 眾人（唱） | 默默地欣賞你們。 | Song `早餐小心意`; OCR normalized |
 | S08-SEC02-L039 | 34 | 眾人（唱） | 華麗菜式未免太講究。 | Song `早餐小心意`; conservative normalization |
 | S08-SEC02-L040 | 34 | 眾人（唱） | 創造愉快全雙手。 | Song `早餐小心意`; conservative normalization |
-| S08-SEC02-L041 | 34 | 眾人（唱） | 即使跌倒不怕，共對已足。 | Song `早餐小心意`; low-confidence phrase normalized |
+| S08-SEC02-L041 | 34 | 眾人（唱） | 即使都不怕，共對已足。 | Song `早餐小心意`; hardened against OCR recurrence |
 | S08-SEC02-L042 | 34 | 眾人（唱） | 真心真意去嚐每一口。 | Song `早餐小心意`; conservative normalization |
 | S08-SEC02-L043 | 34 | 眾人（唱） | 苦悶困惑都飄走。 | Song `早餐小心意`; OCR normalized |
 | S08-SEC02-L044 | 34 | 眾人（唱） | 開心的見證成長這刻。 | Song `早餐小心意`; OCR normalized |
@@ -56,5 +56,5 @@
 
 ## Uncertainty Tracking
 
-- Song-heavy lines `S08-SEC02-L030` to `S08-SEC02-L046` contain conservative normalizations from low-confidence OCR fragments and are tracked for optional targeted hardening re-OCR.
-- One dialogue action line (`S08-SEC02-L010`) is normalized conservatively due token fragmentation around utensil phrasing.
+- Targeted hardening pass completed for song-heavy lines `S08-SEC02-L030` to `S08-SEC02-L046`; `S08-SEC02-L041` wording was tightened to align with OCR recurrence (`即使都不怕，共對已足。`).
+- One dialogue action line (`S08-SEC02-L010`) remains conservatively normalized due token fragmentation around utensil phrasing.

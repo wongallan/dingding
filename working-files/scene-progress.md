@@ -419,3 +419,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Optional publication hardening tasks remain (targeted re-OCR items already tracked in `todo.md`).
 - Decisions made: Kept `愛叮堡榮譽` as `Love-Ding Honor`; preserved existing canonical name map and did not force new renaming changes during booklet pass.
 - Next action: Optional terminology hardening pass for remaining provisional lexemes if publication-level lock is required.
+
+### 2026-02-14 — Hardening Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 08 / Section 02 targeted lyric hardening
+- Source pages: 33-34
+- Status: Done
+- Completed: Re-checked `working-files/ocr/batch-19-pages-33-34.md` against staged extraction and script lines `S08-SEC02-L030` to `L046`; locked one wording correction in `S08-SEC02-L041` from `即使跌倒不怕，共對已足。` to `即使都不怕，共對已足。`; updated section QA and todo tracking.
+- Outstanding: Scene 08 Section 01 hardening remains for `S08-SEC01-L009` and `S08-SEC01-L031`.
+- Decisions made: Removed an over-normalized token (`跌倒`) where OCR recurrence did not support it.
+- Next action: Continue highest-impact pending hardening task from `working-files/todo.md` (Scene 08 Section 01 lines or Scene 09 finale lyric cluster).
