@@ -264,8 +264,10 @@ The booklet is done when:
 
 - 2026-02-14: Scene 01 Section 01 completed (pages 1-2), QA passed.
 - 2026-02-14: Scene 01 Section 02 completed (pages 3-4), QA passed.
-- New mandatory carry-over task: when processing Section 03, first reconcile page-boundary continuation from `S01-SEC02-L051` (page 4 line that continues on page 5) before assigning new IDs.
+- 2026-02-14: Scene 01 Section 03 completed (page 5 scene-ending lines), QA passed; page-boundary continuation from `S01-SEC02-L051` reconciled.
+- Carry-over task completed: reconciled page-boundary continuation from `S01-SEC02-L051` before assigning Section 03 IDs.
 - New term-validation task: verify final spellings/meaning for `比卡特羅家族` and `愛叮堡榮譽` against clearer OCR in next batch before locking global glossary.
+- Scene boundary discovered: page 6 starts Scene 2 (`第二幕`), so Scene 01 extraction scope closes at page 5.
 
 ## Discovered Constraints (2026-02-14)
 
@@ -277,9 +279,9 @@ The booklet is done when:
 
 ## Immediate Next Action
 
-Continue with Scene 1, Section 2:
+Continue with Scene 2, Section 1:
 
-1. OCR next 2–4 relevant PDF pages (pages 3-4) via tool.
-2. Save batch output and extract dialogue-only lines with IDs.
-3. Convert and append section triplets in `booklet/script/scene-01.md`.
+1. OCR next relevant PDF pages beginning at page 6 (Scene 2 opening).
+2. Save batch output and extract dialogue-only lines with fresh Scene 02 section IDs.
+3. Convert and append section triplets in `booklet/script/scene-02.md`.
 4. Run section QA and log outcomes.

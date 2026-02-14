@@ -12,7 +12,7 @@ Use this file as the single source of truth for what is completed, in progress, 
 
 ## Scene Status
 
-- Scene 01: In progress
+- Scene 01: Done
 - Scene 02: Not started
 - Scene 03: Not started
 - Scene 04: Not started
@@ -59,3 +59,27 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Reconcile `S01-SEC02-L051` (line continues on page 5); confirm final English rendering of `比卡特羅家族` and `愛叮堡榮譽` after clearer OCR context.
 - Decisions made: Added new recurring character names (比比/露露/菲菲/芳花/小志) to canonical name map; retained parenthetical tone markers only when embedded in spoken text.
 - Next action: Process Scene 01 Section 03 from pages 5-6 with explicit carry-over merge from previous section boundary.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 01 / Section 03
+- Source pages: 5 (Scene 1 ending only)
+- Status: Done
+- Completed: OCR batch B03 saved; dialogue-only extraction staged; 11 triplets written to `booklet/script/scene-01.md`; section QA completed.
+- Outstanding: Confirm final rendering of `比卡特羅家族` / `愛叮堡榮譽` when cleaner OCR appears in later pages.
+- Decisions made: Treated `S01-SEC02-L051` as interrupted carry-over; started new IDs at `S01-SEC03-L001`; kept uncertain speaker attributions flagged in working extraction only.
+- Next action: Start Scene 02 Section 01 from page 6 and establish new section boundaries.
+
+### 2026-02-14 — Scene-Level Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 01 / Full Scene QA
+- Source pages: 1-5
+- Status: Done
+- Completed: Scene-level continuity/duplicate/format checks logged in `working-files/qa/scene-01-scene-check.md`.
+- Outstanding: Re-validate provisional terms (`比卡特羅家族`, `愛叮堡榮譽`) when clearer OCR occurrences are available.
+- Decisions made: Scene 01 marked complete; Scene 02 starts at page 6 (`第二幕`).
+- Next action: Begin Scene 02 Section 01 extraction and conversion.

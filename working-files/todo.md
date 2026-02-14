@@ -1,9 +1,9 @@
 # Todo
 
-- [done] OCR + extract + translate Scene 1 Section 1 (first 2 pages)
-- [done] QA Scene 1 Section 1 and update trackers/logs
-- [done] Commit increment
-- [done] OCR + extract + translate Scene 1 Section 2 (pages 3-4)
-- [done] QA Scene 1 Section 2 and update trackers/logs
-- [in-progress] Scene 1 continuation: prepare Section 3 boundary carry-over from page 4 to page 5
-- [pending] OCR + extract + translate Scene 1 Section 3 (next 2 pages)
+- done: OCR + extract + translate Scene 01 Section 01 (pages 1-2)
+- done: OCR + extract + translate Scene 01 Section 02 (pages 3-4)
+- done: Reconcile page-boundary carry-over (`S01-SEC02-L051`) and complete Scene 01 Section 03 (page 5 end)
+- done: QA Scene 01 Section 03 and update trackers/logs
+- done: Scene 01 scene-level consistency pass
+- in-progress: Commit this increment
+- pending: Start Scene 02 Section 01 extraction/translation from page 6 onward

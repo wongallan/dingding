@@ -359,3 +359,49 @@ For every spoken line include three parallel lines:
 - Characters: 唔好意思，我唔識用魔法，一定要用掃把。呢度有啲污糟，一定要……
 - Sidney Lau romanization: m4 hou2 ji3 si3, ngo5 m4 sik1 jung6 mo4 faat3, jat1 ding6 jiu3 jung6 sou3 baa2. ni1 dou6 jau5 di1 wu1 zou1, jat1 ding6 jiu3...
 - English translation: Sorry, I don’t know magic, so I have to use a broom. It’s a bit dirty here, so I really need to...
+
+## Section 3 (page 5, end of Scene 1)
+
+- Characters: 行開吖，你都唔係呢度學生，你梗係唔識魔法啦，去返埋位。
+- Sidney Lau romanization: haang4 hoi1 aa3, nei5 dou1 m4 hai6 ni1 dou6 hok6 saang1, nei5 gang2 hai6 m4 sik1 mo4 faat3 laa1, heoi3 faan1 maai4 wai2.
+- English translation: Move aside. You’re not even a student here, so of course you don’t know magic—go back to your seat.
+
+- Characters: 叮！
+- Sidney Lau romanization: ding1!
+- English translation: Ding!
+
+- Characters: 達爾、菲菲，你哋起身先。
+- Sidney Lau romanization: daat6 ji5, fei1 fei1, nei5 dei6 hei2 san1 sin1.
+- English translation: Dar, Fei-Fei, you two get up first.
+
+- Characters: 我唔係學生，又唔識魔法，唔使多謝我啦。
+- Sidney Lau romanization: ngo5 m4 hai6 hok6 saang1, jau6 m4 sik1 mo4 faat3, m4 sai2 do1 ze6 ngo5 laa1.
+- English translation: I’m not a student, and I don’t know magic, so you don’t need to thank me.
+
+- Characters: 你係學校校工嚟㗎喎，學校你都有份。唔該。
+- Sidney Lau romanization: nei5 hai6 hok6 haau6 haau6 gung1 lai4 gaa3 wo3, hok6 haau6 nei5 dou1 jau5 fan6. m4 goi1.
+- English translation: You’re a school worker too—you’re part of this school as well. Thank you.
+
+- Characters: （起身後）Too bad，非常唔優雅。
+- Sidney Lau romanization: (hei2 san1 hau6) Too bad, fei1 soeng4 m4 jau1 ngaa5.
+- English translation: (After getting up) Too bad. Very ungraceful.
+
+- Characters: 比比太過份啦，遙遙，為咗愛叮堡榮譽，你一定要贏佢吖。
+- Sidney Lau romanization: bei2 bei2 taai3 gwo3 fan6 laa1, jiu4 jiu4, wai6 zo2 oi3 ding1 bou2 wing4 jyu6, nei5 jat1 ding6 jiu3 jeng4 keoi5 aa3.
+- English translation: Bibi has gone too far. Yiu-Yiu, for Love-Ding Fort’s honor, you must beat her.
+
+- Characters: Baby，要優雅贏。
+- Sidney Lau romanization: Baby, jiu3 jau1 ngaa5 jeng4.
+- English translation: Baby, win with elegance.
+
+- Characters: 我唔會輸，唔好忘記，我背後有強大的力量。
+- Sidney Lau romanization: ngo5 m4 wui5 syu1, m4 hou2 mong4 gei3, ngo5 bui3 hau6 jau5 koeng4 daai6 dik1 lik6 loeng6.
+- English translation: I won’t lose. Don’t forget—I’ve got great power behind me.
+
+- Characters: 各位同學，唔好意思老師遲少少，你哋唔好掛住傾計，鐘上堂啦。
+- Sidney Lau romanization: gok3 wai6 tung4 hok6, m4 hou2 ji3 si3 lou5 si1 ci4 siu2 siu2, nei5 dei6 m4 hou2 gwaa3 zyu6 king2 gai2, zung1 soeng6 tong4 laa1.
+- English translation: Students, sorry I’m a bit late. Don’t keep chatting—the bell says class starts now.
+
+- Characters: 係，柔柔老師！早晨。
+- Sidney Lau romanization: hai6, jau4 jau4 lou5 si1! zou2 san4.
+- English translation: Yes, Miss Yau-Yau! Good morning.
