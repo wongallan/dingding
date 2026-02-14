@@ -206,6 +206,4 @@ Read one line at a time with Chinese, romanization, and English shown together.
   })();
 </script>
 
----
-
 [← Back to Script Index](index.md) | [← Back to Home](../index.md)
