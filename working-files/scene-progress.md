@@ -227,3 +227,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Three low-confidence OCR lexemes (`S05-SEC01-L005`, `L007`, `L015`) require cross-check during next batch.
 - Decisions made: Preserved mixed-language spoken tokens and kept conservative normalization where OCR was degraded.
 - Next action: OCR and process Scene 05 Section 02 from pages 19-20, then continue section loop.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 05 / Section 02
+- Source pages: 19-20
+- Status: Done
+- Completed: OCR batch B11 saved; dialogue-only extraction staged with 57 lines; 57 triplets written to `booklet/script/scene-05.md`; section QA completed in `working-files/qa/scene-05-section-02-check.md`.
+- Outstanding: Page-20 lyric tokens in `S05-SEC02-L049`, `L056`, and one rivalry lexeme in `L032` remain conservatively normalized pending recurrence check.
+- Decisions made: Preserved mixed-language token `Oh Baby`; normalized breakfast-item terms conservatively to maintain continuity with prior scenes (`柴爾德家族` / `比卡特羅家族`).
+- Next action: OCR and process Scene 05 Section 03 from pages 21-22, then run Scene 05 scene-level QA once section loop is complete.

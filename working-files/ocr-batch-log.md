@@ -115,3 +115,13 @@ Track all OCR extraction batches from scanned sources.
 - Confidence notes: Page 17 (Scene 04 closing song) is low-confidence and lyric-fragmented; page 18 clearly starts Scene 05 with cleaner structural markers.
 - Unclear lines count: 10 (mostly lyric-token corruption in Scene 04 song block)
 - Follow-up required: Run targeted single-page re-OCR on page 17 to harden final lyric wording before publication lock.
+
+- Batch ID: B11
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Source file: reference/叮叮魔法師劇本1-38.pdf
+- Page range: 19-20
+- Output file: working-files/ocr/batch-11-pages-19-20.md
+- Confidence notes: Mixed OCR quality; page 19 dialogue is mostly recoverable with conservative normalization, while page 20 lyric block remains token-noisy.
+- Unclear lines count: 6 (three dialogue lexemes and three lyric tokens with conservative reconstruction)
+- Follow-up required: Cross-check low-confidence page-20 lyric terms during Scene 05 Section 03 processing (pages 21-22) and run targeted re-OCR only if term recurrence stays unstable.

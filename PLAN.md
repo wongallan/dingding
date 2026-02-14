@@ -274,6 +274,11 @@ The booklet is done when:
    1. OCR next batch for Scene 05 continuity (`pages 19-20`) before Section 02 conversion.
    2. Re-check low-confidence tokens from Scene 05 Section 01 (`S05-SEC01-L005`, `L007`, `L015`) against next-page context.
    3. Keep Scene 04 page-17 lyric targeted re-OCR hardening as non-blocking publication-quality task.
+ - Completed follow-up task: Scene 05 Section 02 (pages 19-20) OCR + extraction + conversion + section QA is now done.
+ - New/active follow-up tasks after Section 02:
+   1. OCR/process Scene 05 Section 03 (`pages 21-22`) and continue section loop.
+   2. Cross-check conservative Section 02 lexemes (`S05-SEC02-L018`, `L028`, `L032`) against next-page recurrence.
+   3. Keep Scene 04 page-17 lyric targeted re-OCR hardening as non-blocking publication-quality task.
 
 ---
 
@@ -294,7 +299,7 @@ The booklet is done when:
 
 ## Active Next Task
 
-- Process `Scene 04 / Section 02` from the next source page range and continue the extraction → conversion → QA loop.
+- Process `Scene 05 / Section 03` from pages 21-22 and continue the extraction → conversion → QA loop.
 
 ## Active OCR Follow-Ups (2026-02-14)
 
@@ -334,9 +339,9 @@ The booklet is done when:
 
 ## Immediate Next Action
 
-Continue with Scene 3, Section 2:
+Continue with Scene 5, Section 3:
 
-1. OCR next source pages (starting page 13) and reconcile the carry-over completion for `S03-SEC01-L041` first.
-2. Save batch output and extract dialogue-only lines with fresh `S03-SEC02-Lxxx` IDs.
-3. Convert and append section triplets in `booklet/script/scene-03.md`.
-4. Run section QA and update trackers/logs.
+1. OCR pages 21-22 and save batch output under `working-files/ocr/`.
+2. Extract dialogue-only lines with fresh `S05-SEC03-Lxxx` IDs.
+3. Convert and append triplets in `booklet/script/scene-05.md`.
+4. Run section QA, then proceed toward Scene 05 scene-level QA once section loop is complete.
