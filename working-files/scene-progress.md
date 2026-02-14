@@ -17,7 +17,7 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Scene 03: Done
 - Scene 04: Done
 - Scene 05: Done
-- Scene 06: Not started
+- Scene 06: In progress
 - Scene 07: Not started
 - Scene 08: Not started
 - Scene 09: Not started
@@ -263,3 +263,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Optional targeted page-21 lyric re-OCR remains tracked as non-blocking hardening.
 - Decisions made: Closed Scene 05 at page-21 `第五幕完`; Scene 06 starts at page 22 with fresh section IDs.
 - Next action: Begin Scene 06 Section 01 extraction/conversion from pages 22-23.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 06 / Section 01
+- Source pages: 22-23
+- Status: Done
+- Completed: OCR batch B13 saved for page 23; dialogue-only extraction staged with 38 lines; 38 triplets written to `booklet/script/scene-06.md`; section QA completed in `working-files/qa/scene-06-section-01-check.md`.
+- Outstanding: Competition title lexeme remains OCR-noisy and provisional (`愛叮堡榮譽`) pending clearer recurrence in later pages.
+- Decisions made: Included pre-curtain butler spoken lines and excluded movement/light stage-direction lines from script triplets.
+- Next action: Process Scene 06 Section 02 from pages 24-25.

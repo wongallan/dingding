@@ -135,3 +135,13 @@ Track all OCR extraction batches from scanned sources.
 - Confidence notes: Page 21 is lyric-heavy with moderate-to-low OCR confidence but stable sequence; page 22 clearly begins Scene 06 with cast/location heading and was boundary-excluded from Scene 05 conversion.
 - Unclear lines count: 5 (page-21 lyric lexemes normalized conservatively in extraction notes)
 - Follow-up required: Optional targeted single-page re-OCR on page 21 to harden final lyric wording before publication lock; continue primary flow with Scene 06 from page 22.
+
+- Batch ID: B13
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Source file: reference/叮叮魔法師劇本1-38.pdf
+- Page range: 23-23
+- Output file: working-files/ocr/batch-13-pages-23-23.md
+- Confidence notes: Mixed OCR quality with noise around competition title lexeme and some punctuation; dialogue flow and quiz-setup structure are recoverable.
+- Unclear lines count: 4 (one competition-title token cluster and three low-confidence lexical tokens in setup lines)
+- Follow-up required: Validate competition-title canonical wording against later recurring mentions during Scene 06 continuation.

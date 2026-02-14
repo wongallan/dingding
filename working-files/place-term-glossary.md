@@ -17,6 +17,7 @@ Use this file for recurring world terms, place names, magical phrases, titles, a
 - 貴族早餐指引 — gwai3 zuk6 zou2 caan1 zi2 jan5 — Noble Breakfast Guide — Household protocol invoked by butlers in Scene 02.
 - 無敵大管家 — mou4 dik6 daai6 gun2 gaa1 — Invincible Great Butler — Scene 02 butler anthem refrain.
 - 安特烈山 — on1 dak6 lit6 saan1 — Mount Antrel (provisional) — Annual camp destination referenced in Scene 05 opening.
+- 愛叮堡榮譽 — oi3 ding1 bou2 wing4 jyu6 — Love-Ding Honor (provisional) — Annual competition title introduced in Scene 06 page 23.
 
 ## Needs Decision
 

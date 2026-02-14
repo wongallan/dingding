@@ -259,6 +259,10 @@ The booklet is done when:
 - **Terminology drift risk**: Update glossary before editing later scenes.
 - **Lyric over-adaptation risk**: Track adaptation rationale in song decisions file.
 
+## Active Open Issues (Rolling)
+
+- Competition-title OCR noise in Scene 06 page-23 (`愛叮堡樊盃/榮譽` variants): keep provisional normalization in section output, then lock canonical term only after recurrence on clearer pages.
+
 ---
 
 ## Execution Status Snapshot (2026-02-14)
