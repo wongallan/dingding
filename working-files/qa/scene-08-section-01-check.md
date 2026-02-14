@@ -37,4 +37,5 @@
 
 ## Residual Risk Notes
 
-- `S08-SEC01-L009` and `S08-SEC01-L031` contain conservatively normalized low-confidence OCR fragments and remain targeted hardening candidates.
+- Targeted hardening pass completed for `S08-SEC01-L009` and `S08-SEC01-L031` using `working-files/ocr/batch-18-pages-31-32.md` recurrence.
+- No remaining high-impact unresolved tokens in Section 01.

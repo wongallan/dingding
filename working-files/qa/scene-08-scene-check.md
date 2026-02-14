@@ -34,8 +34,8 @@
 
 ## Residual Risk Notes
 
-- Section 01: `S08-SEC01-L009`, `S08-SEC01-L031` remain targeted hardening candidates.
-- Section 02: `S08-SEC02-L030` to `S08-SEC02-L046` remain conservative lyric normalizations pending optional targeted re-OCR.
+- Section 01 targeted hardening completed for `S08-SEC01-L009` and `S08-SEC01-L031` via batch-18 recurrence verification.
+- Section 02 targeted lyric hardening already completed for `S08-SEC02-L030` to `S08-SEC02-L046`; one minor low-confidence phrasing remains in `S08-SEC02-L010` as optional polish.
 
 ## Scene Status
 

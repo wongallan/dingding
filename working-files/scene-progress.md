@@ -443,3 +443,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Remaining hardening backlog stays in `working-files/todo.md` (Scenes 04, 05, 07, and 08).
 - Decisions made: Replaced over-fragmented OCR-normalized wording with conservative but coherent lyric reads while preserving line order and song intent.
 - Next action: Execute targeted lyric hardening for Scene 07 pages 27-30 lines tracked in `working-files/todo.md`.
+
+### 2026-02-14 — Hardening Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 08 / Section 01 targeted lyric-dialogue hardening
+- Source pages: 31-32
+- Status: Done
+- Completed: Re-checked `working-files/ocr/batch-18-pages-31-32.md` against staged extraction and script lines `S08-SEC01-L009` and `S08-SEC01-L031`; confirmed wording stability and marked both lines hardened; synchronized `todo.md` and Scene 08 QA files.
+- Outstanding: Remaining hardening backlog is Scene 07 targeted lyric lines plus optional Scene 04/05 lyric-polish tasks.
+- Decisions made: Kept canonical line wording unchanged (`今日咁就好啦`; `開直昇機模式，上面盤旋。`) because recurrence evidence supports existing script text.
+- Next action: Execute Scene 07 targeted lyric hardening (`S07-SEC01-L010`; `S07-SEC02-L021`, `L025`, `L029`).

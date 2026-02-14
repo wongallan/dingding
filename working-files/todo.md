@@ -1,25 +1,10 @@
 # Todo
 
-- done: Scene 01 complete (all sections + scene QA)
-- done: Scene 02 complete (all sections + scene QA)
-- done: Scene 03 complete (boundary-corrected + scene QA)
-- done: Scene 04 complete (scene-level QA closed)
-- done: Scene 05 complete (scene-level QA closed)
-- done: Scene 06 complete (all sections + scene-level QA + boundary lock)
-- done: OCR + process Scene 07 Section 01 from pages 27-28
-- done: OCR pages 29-30 and process Scene 07 Section 02
-- done: Scene 07 complete (all sections + scene-level QA)
-- done: OCR pages 31-32 and process Scene 08 Section 01
-- done: OCR pages 33-34 and process Scene 08 Section 02
-- done: Scene 08 complete (all sections + scene-level QA)
-- done: OCR pages 35-36 and process Scene 09 Section 01
-- done: OCR pages 37-38 and process Scene 09 Section 02
-- done: Run Scene 09 scene-level QA after all Scene 09 sections are complete
-- done: Run booklet-level consistency pass across `booklet/characters.md`, `booklet/scene-synopsis.md`, and `booklet/overview.md` against final scripts
-- pending: Optional targeted re-OCR hardening for Scene 04 page-17 lyric block
-- pending: Optional targeted re-OCR hardening for Scene 05 page-21 lyric block
-- done: Targeted re-OCR hardening for Scene 06 page-25 low-confidence lyric lines (`S06-SEC02-L058`, `L061`, `L062`)
-- pending: Targeted lyric hardening re-OCR for Scene 07 pages 27-30 (`S07-SEC01-L010`; `S07-SEC02-L021`, `L025`, `L029`)
-- pending: Targeted lyric/dialogue hardening re-OCR for Scene 08 pages 31-32 (`S08-SEC01-L009`, `S08-SEC01-L031`)
-- done: Targeted lyric hardening re-OCR for Scene 08 pages 33-34 (`S08-SEC02-L030` to `S08-SEC02-L046`) and lock `S08-SEC02-L041` as `即使都不怕，共對已足。`
-- done: Resolve canonical competition object/title lexeme lock for Scene 09 as `愛叮堡榮譽` / `Love-Ding Honor` (kept as conservative OCR normalization)
+- done: Scene corpus complete (`scene-01.md` to `scene-09.md`) with section + scene QA.
+- done: Booklet consistency pass complete for `booklet/characters.md`, `booklet/scene-synopsis.md`, and `booklet/overview.md`.
+- done: Targeted hardening complete for Scene 06 (`S06-SEC02-L058`, `L061`, `L062`).
+- done: Targeted hardening complete for Scene 08 Section 02 (`S08-SEC02-L030` to `L046`, incl. `L041` lock).
+- done: Targeted hardening complete for Scene 08 Section 01 (`S08-SEC01-L009`, `L031`).
+- pending: Targeted lyric hardening re-OCR for Scene 07 pages 27-30 (`S07-SEC01-L010`; `S07-SEC02-L021`, `L025`, `L029`).
+- pending: Optional targeted re-OCR hardening for Scene 04 page-17 lyric block.
+- pending: Optional targeted re-OCR hardening for Scene 05 page-21 lyric block.

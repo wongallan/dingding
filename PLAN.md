@@ -427,7 +427,14 @@ Run optional publication-hardening pass:
 
 ## Revised Open Hardening Queue (Post Increment)
 
-- Scene 08 Section 01: `S08-SEC01-L009`, `S08-SEC01-L031`.
-- Scene 06 Section 02 lyric lines: `S06-SEC02-L058`, `L061`, `L062`.
 - Scene 07 lyric lines: `S07-SEC01-L010`; `S07-SEC02-L021`, `L025`, `L029`.
+- Optional Scene 04 page-17 lyric block hardening.
+- Optional Scene 05 page-21 lyric block hardening.
 - Scene 09 finale lyric cluster (pages 37-38) as publication polish follow-up.
+
+## Execution Update (2026-02-14, Tracking Reconciliation Increment)
+
+- Verified against output artifacts that Scene 08 Section 01 hardening lines (`S08-SEC01-L009`, `S08-SEC01-L031`) were still open and highest-impact among active non-optional queue items.
+- Completed targeted hardening verification against `working-files/ocr/batch-18-pages-31-32.md` and closed both lines as stable.
+- Reconciled stale status drift across QA trackers where completed hardening was still listed as pending (notably Scene 06 and Scene 08 scene-level residual notes).
+- Updated lightweight status queue in `working-files/todo.md` to keep only active/open publication-hardening items.

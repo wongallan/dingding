@@ -43,7 +43,8 @@
 
 ## Residual Risk Notes
 
-- Page-25 lyric lines `S06-SEC02-L058`, `L061`, and `L062` remain low-confidence and should still receive targeted re-OCR hardening before publication lock.
+- Targeted hardening already completed for page-25 lyric lines `S06-SEC02-L058`, `L061`, and `L062`.
+- Remaining Scene 06 lexical uncertainty is limited to non-blocking publication polish.
 
 ## Scene Status Decision
 

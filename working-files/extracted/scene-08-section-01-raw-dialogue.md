@@ -13,7 +13,7 @@
 | S08-SEC01-L006 | 31 | 眾人（唱） | 笑一笑，互相協助。 | Song `重新起步` |
 | S08-SEC01-L007 | 31 | 眾人（唱） | 有你陪伴我。 | Song `重新起步` |
 | S08-SEC01-L008 | 31 | 芬尼 | 早晨空氣真係好清新呀！呢度啲花都開晒，好香呀！ | OCR normalized |
-| S08-SEC01-L009 | 31 | 奧妙妮 | Baby！（吸一口氣）聞到呢陣花香，真係病痛都少一半。如果每日都可以好似今日咁就好啦。 | Conservative normalization |
+| S08-SEC01-L009 | 31 | 奧妙妮 | Baby！（吸一口氣）聞到呢陣花香，真係病痛都少一半。如果每日都可以好似今日咁就好啦。 | Hardened against batch-18 recurrence |
 | S08-SEC01-L010 | 31 | 麥芬尼 | 悠？我今朝先抹完一百零八個銀匙呀！ | OCR normalized |
 | S08-SEC01-L011 | 31 | 奧妙妮 | 吓？你真係有數㗎？ | OCR normalized |
 | S08-SEC01-L012 | 31 | 貝琪 | 我今朝擦花樽，擦到啲花都想同我投訴。 | OCR normalized |
@@ -35,12 +35,12 @@
 | S08-SEC01-L028 | 32 | 艾莉 | （攞回望遠鏡）咦？小姐離開課室去邊呀？ | OCR normalized |
 | S08-SEC01-L029 | 32 | 奧妙妮 | （搶去艾莉望遠鏡）Baby，少爺呢？ | OCR normalized |
 | S08-SEC01-L030 | 32 | 艾莉 | 要唔要跟實佢？ | OCR normalized |
-| S08-SEC01-L031 | 32 | 奧妙妮 | 開直昇機模式，上面盤旋。 | Low-confidence phrase normalized |
+| S08-SEC01-L031 | 32 | 奧妙妮 | 開直昇機模式，上面盤旋。 | Hardened against batch-18 recurrence |
 | S08-SEC01-L032 | 32 | 占士 | 停！（一拍）成日盤旋，少爺小姐點學獨立？記唔記得管家守則第七：唔好衝動，冷靜觀察……或者，唔止少爺小姐要學，我哋都要學。 | Conservative normalization |
 | S08-SEC01-L033 | 32 | 麥芬尼 | 占士，得喇，我哋繼續飲茶啦。 | OCR normalized |
 | S08-SEC01-L034 | 32 | 奧妙妮 | 我想知你頭先到底聽到係咩聲？ | OCR normalized |
 
 ## Uncertainty Tracking
 
-- Page-31 line `S08-SEC01-L009` is normalized conservatively due OCR fragmentation in the middle clause.
-- Page-32 line `S08-SEC01-L031` (`直昇機模式，上面盤旋`) is reconstructed from low-confidence OCR tokens and should be hardened in a targeted re-OCR pass.
+- Targeted hardening pass completed for `S08-SEC01-L009` and `S08-SEC01-L031` using `working-files/ocr/batch-18-pages-31-32.md` recurrence.
+- No remaining high-impact unresolved tokens in this section.
