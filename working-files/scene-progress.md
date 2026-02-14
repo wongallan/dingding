@@ -19,7 +19,7 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Scene 05: Done
 - Scene 06: Done
 - Scene 07: Done
-- Scene 08: In progress
+- Scene 08: Done
 - Scene 09: Not started
 
 ## Section Log (append-only)
@@ -347,3 +347,27 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Low-confidence fragments remain in `S08-SEC01-L009` and `S08-SEC01-L031` for targeted hardening re-OCR.
 - Decisions made: Preserved opening-song motivational cadence (`重新起步`) and butler-observation comedic tone while applying conservative normalization where OCR tokens were fragmented.
 - Next action: OCR pages 33-34 and process Scene 08 Section 02.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 08 / Section 02
+- Source pages: 33-34
+- Status: Done
+- Completed: OCR batch B19 saved; dialogue-only extraction staged with 48 lines; 48 triplets written to `booklet/script/scene-08.md`; section QA completed in `working-files/qa/scene-08-section-02-check.md`.
+- Outstanding: Song-heavy lines `S08-SEC02-L030` to `S08-SEC02-L046` remain conservatively normalized and are tracked for optional targeted lyric hardening re-OCR.
+- Decisions made: Preserved student-to-butler care-reversal arc and `早餐小心意` warmth while maintaining conservative line-by-line normalization in low-confidence lyric clusters.
+- Next action: Run Scene 08 full-scene QA and close scene status.
+
+### 2026-02-14 — Scene-Level Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 08 / Full Scene QA
+- Source pages: 31-34
+- Status: Done
+- Completed: Scene-level continuity/boundary/format checks logged in `working-files/qa/scene-08-scene-check.md`; Scene 08 marked complete.
+- Outstanding: Targeted lyric hardening remains for Section 01 (`S08-SEC01-L009`, `L031`) and Section 02 (`S08-SEC02-L030` to `L046`).
+- Decisions made: Scene boundary locked at page 34 `第八幕完`; next production priority moved to Scene 09 page 35.
+- Next action: Begin Scene 09 Section 01 extraction/conversion from pages 35-36.

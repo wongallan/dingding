@@ -75,3 +75,10 @@ Document major lyric adaptation decisions so all agents apply the same artistic 
 - Final lyric rendering: Kept short, chant-like motivational lines with clear recovery verbs (`start again`, `help each other`) and preserved the communal support anchor.
 - Rationale (meter, tone, audience clarity, artistic intent): Preserve upbeat reset energy at Scene 08 opening while keeping language simple for live follow-along readability; avoid speculative embellishment in low-confidence OCR fragments.
 - Approved by: Copilot (GPT-5.3-Codex)
+
+- Scene/Song: Scene 08 breakfast ensemble (`早餐小心意`, pages 33-34)
+- Source phrase: playful-but-warm breakfast gift lines around simple food, care, and growth (`窩心`, `雙手`, `成長`).
+- Literal meaning: Students prepare a simple breakfast for butlers; imperfect food still carries gratitude, maturity, and mutual care.
+- Final lyric rendering: Preserved repeated warmth anchors (`warm`, `heartfelt`, `together`) and simple-food imagery while normalizing heavily fragmented refrain tokens conservatively.
+- Rationale (meter, tone, audience clarity, artistic intent): Keep sing-along softness and care-reversal emotional arc (children serving butlers) without overfitting noisy OCR characters in repeated lyric lines.
+- Approved by: Copilot (GPT-5.3-Codex)

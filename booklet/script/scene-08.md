@@ -141,3 +141,197 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Characters: 我想知你頭先到底聽到係咩聲？
 - Sidney Lau romanization: ngo5 soeng2 zi1 nei5 tau4 sin1 dou3 dai2 teng1 dou2 hai6 me1 seng1?
 - English translation: I want to know what sound you actually heard just now.
+
+## Section 2 (pages 33-34)
+
+- Characters: 嘩嘩嘩！煮緊熟雞蛋、牛奶、同麵包。
+- Sidney Lau romanization: waa1 waa1 waa1! zyu2 gan2 suk6 gai1 daan2, ngau4 naai5, tung4 min6 baau1.
+- English translation: Waah waah waah! We’re making boiled eggs, milk, and bread.
+
+- Characters: 遙遙，你有冇話過要學自己做？我今日整早餐畀啲管家。
+- Sidney Lau romanization: jiu4 jiu4, nei5 jau5 mou5 waa6 gwo3 jiu3 hok6 zi6 gei2 zou6? ngo5 gam1 jat6 zing2 zou2 caan1 bei2 di1 gun2 gaa1.
+- English translation: Yiu-Yiu, didn’t you say we should learn to do things ourselves? Today I made breakfast for the butlers.
+
+- Characters: 我淨係叫佢哋到學校之後，就即刻去後花園，唔好理我哋住。
+- Sidney Lau romanization: ngo5 zing6 hai6 giu3 keoi5 dei6 dou3 hok6 haau6 zi1 hau6, zau6 zik1 hak1 heoi3 hau6 faa1 jyun4, m4 hou2 lei5 ngo5 dei6 zyu6.
+- English translation: I just told them that once we got to school, they should go straight to the back garden and leave us to it.
+
+- Characters: Baby，我睇電視學整多士，今次一定唔會失手。
+- Sidney Lau romanization: baby, ngo5 tai2 din6 si6 hok6 zing2 do1 si2, gam1 ci3 jat1 ding6 m4 wui5 sat1 sau2.
+- English translation: Baby, I learned toast-making from TV—this time I definitely won’t mess up.
+
+- Characters: 咪住，你聞唔聞到呀？
+- Sidney Lau romanization: mai6 zyu6, nei5 man4 m4 man4 dou2 aa3?
+- English translation: Hold on—do you smell that?
+
+- Characters: 多士燶咗呀！慘，多士燶啦！
+- Sidney Lau romanization: do1 si2 nung1 zo2 aa3! caam2, do1 si2 nung1 laa1!
+- English translation: The toast is burnt! Oh no—the toast is burnt!
+
+- Characters: （忍笑）佢哋整早餐呀？
+- Sidney Lau romanization: (jan2 siu3) keoi5 dei6 zing2 zou2 caan1 aa3?
+- English translation: (Holding back laughter) They’re making breakfast?
+
+- Characters: （抑笑）似整早餐，又似做實驗。
+- Sidney Lau romanization: (jik1 siu3) ci5 zing2 zou2 caan1, jau6 ci5 zou6 sat6 jim6.
+- English translation: (Suppressing a laugh) It looks like breakfast-making and a science experiment at the same time.
+
+- Characters: 達爾個手勢，好似呼召緊惡魔。
+- Sidney Lau romanization: daat6 ji5 go3 sau2 sai3, hou2 ci5 fu1 ziu3 gan2 ngok6 mo1.
+- English translation: Dar’s hand gestures look like he’s summoning a demon.
+
+- Characters: 小姐揸住個水煲，眼都唔眨到，我都想幫下手呀！
+- Sidney Lau romanization: siu2 ze2 zaa1 zyu6 go3 seoi2 bou1, ngaan5 dou1 m4 zaap3 dou3, ngo5 dou1 soeng2 bong1 haa5 sau2 aa3!
+- English translation: Miss is gripping that kettle without even blinking—I want to jump in and help too!
+
+- Characters: 唔睇小姐，我睇住佢哋我都想幫手……
+- Sidney Lau romanization: m4 tai2 siu2 ze2, ngo5 tai2 zyu6 keoi5 dei6 ngo5 dou1 soeng2 bong1 sau2...
+- English translation: Even if I don’t look at Miss, just watching them makes me want to help...
+
+- Characters: 噓！畀佢哋學習。
+- Sidney Lau romanization: heoi1! bei2 keoi5 dei6 hok6 zaap6.
+- English translation: Shh! Let them learn.
+
+- Characters: 好彩小志幫手，熄個爐。
+- Sidney Lau romanization: hou2 coi2 siu2 zi3 bong1 sau2, sik1 go3 lou4.
+- English translation: Good thing Siu-Chi helped and turned off the stove.
+
+- Characters: 你睇下，我終於煮熟第一隻蛋！
+- Sidney Lau romanization: nei5 tai2 haa5, ngo5 zung1 jyu1 zyu2 suk6 dai6 jat1 zek3 daan2!
+- English translation: Look—I finally cooked my first egg properly!
+
+- Characters: 我都得，今次煎蛋冇爆。
+- Sidney Lau romanization: ngo5 dou1 dak1, gam1 ci3 zin1 daan2 mou5 baau3.
+- English translation: I did it too—this time my fried egg didn’t split.
+
+- Characters: 水未滾就要落蛋，八分熟，煎蛋就唔會爆。
+- Sidney Lau romanization: seoi2 mei6 gwan2 zau6 jiu3 lok6 daan2, baat3 fan1 suk6, zin1 daan2 zau6 m4 wui5 baau3.
+- English translation: Drop in the egg before the water fully boils; cook it to about eighty percent, and the egg won’t burst.
+
+- Characters: 小志好叻呀。
+- Sidney Lau romanization: siu2 zi3 hou2 lek1 aa3.
+- English translation: Siu-Chi, you’re amazing.
+
+- Characters: 我淨係識煮簡單，唔識煮你平時食嗰啲好複雜嘢。
+- Sidney Lau romanization: ngo5 zing6 hai6 sik1 zyu2 gaan2 daan1, m4 sik1 zyu2 nei5 ping4 si4 sik6 go2 di1 hou2 fuk1 zaap6 je5.
+- English translation: I only know simple cooking—I can’t make those complicated things you usually eat.
+
+- Characters: I got this，小志，你先係廚房魔法師。
+- Sidney Lau romanization: I got this, siu2 zi3, nei5 sin1 hai6 cyu4 fong2 mo4 faat3 si1.
+- English translation: I got this, Siu-Chi—you’re the real kitchen wizard.
+
+- Characters: 佢哋真係開始互相幫手。
+- Sidney Lau romanization: keoi5 dei6 zan1 hai6 hoi1 ci2 wu6 soeng1 bong1 sau2.
+- English translation: They’ve really started helping each other.
+
+- Characters: 冇我哋，反而學識合作。
+- Sidney Lau romanization: mou5 ngo5 dei6, faan2 ji4 hok6 sik1 hap6 zok3.
+- English translation: Without us, they actually learned how to cooperate.
+
+- Characters: 我第一次覺得原來混亂，都可以好可愛。
+- Sidney Lau romanization: ngo5 dai6 jat1 ci3 gok3 dak1 jyun4 loi4 wan6 lyun6, dou1 ho2 ji5 hou2 ho2 oi3.
+- English translation: For the first time, I feel even chaos can be adorable.
+
+- Characters: （微笑）我都係坐低，等食。
+- Sidney Lau romanization: (mei4 siu3) ngo5 dou1 hai6 co5 dai1, dang2 sik6.
+- English translation: (Smiles) I’ll just sit down and wait to eat.
+
+- Characters: 占士、艾莉，我哋煮咗早餐畀你哋。
+- Sidney Lau romanization: zim1 si6, ngaai6 lei6, ngo5 dei6 zyu2 zo2 zou2 caan1 bei2 nei5 dei6.
+- English translation: James, Ellie—we made breakfast for you.
+
+- Characters: 魯魯夫、沙沙拉，我都煮咗早餐畀你。
+- Sidney Lau romanization: lou5 lou5 fu1, saa1 saa1 laai1, ngo5 dou1 zyu2 zo2 zou2 caan1 bei2 nei5.
+- English translation: Lulu-Fu, Sa-Sa-La, I made breakfast for you too.
+
+- Characters: 我哋都唔識，只係得簡單蛋、麵包同埋牛奶。
+- Sidney Lau romanization: ngo5 dei6 dou1 m4 sik1, zi2 hai6 dak1 gaan2 daan1 daan2, min6 baau1 tung4 maai4 ngau4 naai5.
+- English translation: We’re not experts either—it’s just simple eggs, bread, and milk.
+
+- Characters: 慢慢享用。
+- Sidney Lau romanization: maan6 maan6 hoeng2 jung6.
+- English translation: Enjoy it slowly.
+
+- Characters: 小姐偷笑，少爺怕怕醜。
+- Sidney Lau romanization: siu2 ze2 tau1 siu3, siu3 je5 paa3 paa3 cau2.
+- English translation: Miss steals a smile, and the young master turns shy.
+
+- Characters: 鬼鼠古怪，似淘氣跳豆。
+- Sidney Lau romanization: gwai2 syu2 gu2 gwaai3, ci5 tou4 hei3 tiu3 dau6.
+- English translation: Mischievous and quirky, like playful jumping beans.
+
+- Characters: 預備早餐，窩心暖笠笠。
+- Sidney Lau romanization: jyu6 bei6 zou2 caan1, wo1 sam1 nyun5 lap6 lap6.
+- English translation: Preparing breakfast, warm and heart-soothing.
+
+- Characters: 我鍾意烚熟蛋伴吐司。
+- Sidney Lau romanization: ngo5 zung1 ji3 hap1 suk6 daan2 bun6 tou3 si1.
+- English translation: I like boiled eggs with toast.
+
+- Characters: 明白你藏著了大意思。
+- Sidney Lau romanization: ming4 baak6 nei5 cong4 zoek6 liu5 daai6 ji3 si1.
+- English translation: I understand the deeper meaning hidden in what you did.
+
+- Characters: 相對視，溫暖地接收到。
+- Sidney Lau romanization: soeng1 deoi3 si6, wan1 nyun5 dei6 zip3 sau6 dou2.
+- English translation: Looking at each other, we warmly receive it.
+
+- Characters: 替我做精簡早餐，這心意。
+- Sidney Lau romanization: tai3 ngo5 zou6 zing1 gaan2 zou2 caan1, ze5 sam1 ji3.
+- English translation: You made me a simple breakfast—this thoughtfulness.
+
+- Characters: 雞蛋加柚子果醬。
+- Sidney Lau romanization: gai1 daan2 gaa1 jau6 zi2 gwo2 zoeng3.
+- English translation: Egg with yuzu jam.
+
+- Characters: 暗裡藏著了大青豆。
+- Sidney Lau romanization: am3 leoi5 cong4 zoek6 liu5 daai6 cing1 dau6.
+- English translation: Hidden inside is a big green pea surprise.
+
+- Characters: 小餐盤載滿溫暖情感。
+- Sidney Lau romanization: siu2 caan1 pun4 zoi3 mun5 wan1 nyun5 cing4 gam2.
+- English translation: A small plate carries overflowing warmth.
+
+- Characters: 默默地欣賞你們。
+- Sidney Lau romanization: mak6 mak6 dei6 jan1 soeng2 nei5 mun4.
+- English translation: Quietly admiring all of you.
+
+- Characters: 華麗菜式未免太講究。
+- Sidney Lau romanization: waa4 lai6 coi3 sik1 mei6 min5 taai3 gong2 gau3.
+- English translation: Fancy dishes can be a bit too fussy.
+
+- Characters: 創造愉快全雙手。
+- Sidney Lau romanization: cong3 zou6 jyu4 faai3 cyun4 soeng1 sau2.
+- English translation: Joy is created by both hands.
+
+- Characters: 即使跌倒不怕，共對已足。
+- Sidney Lau romanization: zik1 si2 dit3 dou2 bat1 paa3, gung6 deoi3 ji5 zuk1.
+- English translation: Even if we fall, we’re not afraid; facing it together is enough.
+
+- Characters: 真心真意去嚐每一口。
+- Sidney Lau romanization: zan1 sam1 zan1 ji3 heoi3 soeng4 mui5 jat1 hau2.
+- English translation: Taste every bite with true sincerity.
+
+- Characters: 苦悶困惑都飄走。
+- Sidney Lau romanization: fu2 mun6 kwan3 waak6 dou1 piu1 zau2.
+- English translation: Bitterness and confusion drift away.
+
+- Characters: 開心的見證成長這刻。
+- Sidney Lau romanization: hoi1 sam1 dik1 gin3 zing3 sing4 zoeng2 ze5 hak1.
+- English translation: This joyful moment witnesses growth.
+
+- Characters: 共聚早餐窩心暖笠笠。
+- Sidney Lau romanization: gung6 zeoi6 zou2 caan1 wo1 sam1 nyun5 lap6 lap6.
+- English translation: Gathering for breakfast, warm and comforting.
+
+- Characters: 共聚早餐窩心暖笠笠。
+- Sidney Lau romanization: gung6 zeoi6 zou2 caan1 wo1 sam1 nyun5 lap6 lap6.
+- English translation: Gathering for breakfast, warm and comforting.
+
+- Characters: 今日早餐，可能唔完美，但係最好味，係你哋自己做。
+- Sidney Lau romanization: gam1 jat6 zou2 caan1, ho2 nang4 m4 jyun4 mei5, daan6 hai6 zeoi3 hou2 mei6, hai6 nei5 dei6 zi6 gei2 zou6.
+- English translation: Today’s breakfast may not be perfect, but it tastes the best, because you made it yourselves.
+
+- Characters: 多謝！
+- Sidney Lau romanization: do1 ze6!
+- English translation: Thank you!

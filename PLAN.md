@@ -258,6 +258,15 @@ The booklet is done when:
 - **Speaker confusion risk**: Enforce stable line IDs and section boundaries.
 - **Terminology drift risk**: Update glossary before editing later scenes.
 - **Lyric over-adaptation risk**: Track adaptation rationale in song decisions file.
+- **Scene 08 breakfast-song OCR risk**: Pages 33-34 include repetitive low-confidence lyric tokens; track targeted hardening for `S08-SEC02-L030` to `S08-SEC02-L046` before publication lock.
+
+---
+
+## Current Verified Checkpoint (2026-02-14)
+
+- Scenes 01-08: Converted and section-checked; Scene 08 closed at page 34 (`第八幕完`).
+- Highest-priority production work: Start Scene 09 Section 01 from pages 35-36.
+- Open hardening backlog: targeted lyric/dialogue re-OCR items tracked in `working-files/todo.md`.
 
 ## Active Follow-ups (Updated 2026-02-14)
 
