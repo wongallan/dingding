@@ -5,6 +5,6 @@
 - done: Targeted hardening complete for Scene 06 (`S06-SEC02-L058`, `L061`, `L062`).
 - done: Targeted hardening complete for Scene 08 Section 02 (`S08-SEC02-L030` to `L046`, incl. `L041` lock).
 - done: Targeted hardening complete for Scene 08 Section 01 (`S08-SEC01-L009`, `L031`).
-- pending: Targeted lyric hardening re-OCR for Scene 07 pages 27-30 (`S07-SEC01-L010`; `S07-SEC02-L021`, `L025`, `L029`).
+- done: Targeted lyric hardening complete for Scene 07 pages 27-30 (`S07-SEC01-L010`; `S07-SEC02-L021`, `L025`, `L029`).
 - pending: Optional targeted re-OCR hardening for Scene 04 page-17 lyric block.
 - pending: Optional targeted re-OCR hardening for Scene 05 page-21 lyric block.

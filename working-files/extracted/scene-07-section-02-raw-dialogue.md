@@ -25,15 +25,15 @@
 | S07-SEC02-L018 | 29 | 眾人（唱） | 你要自我解救。 | Song `新節奏` |
 | S07-SEC02-L019 | 29 | 眾人（唱） | 靠自己雙手。 | Song `新節奏` |
 | S07-SEC02-L020 | 29 | 眾人（唱） | 推開心魔不顫抖。 | Song `新節奏`; conservative normalization |
-| S07-SEC02-L021 | 29 | 眾人（唱） | 要像這小燕，靠自己雙手。 | Song `新節奏`; low-confidence noun token |
+| S07-SEC02-L021 | 29 | 眾人（唱） | 要像這小燕，靠自己雙手。 | Song `新節奏`; targeted hardening lock (kept wording) |
 | S07-SEC02-L022 | 29 | 眾人（唱） | 起居不怕，靈魂迷失。 | Song `新節奏`; conservative normalization |
 | S07-SEC02-L023 | 29 | 遙遙、安娜、達爾、比比（唱） | 無知的失敗少年，不強大。 | Song `新節奏`; conservative normalization |
 | S07-SEC02-L024 | 30 | 眾人（唱） | 徒勞無功，無止境膨大妄為。 | Song `新節奏`; conservative normalization |
-| S07-SEC02-L025 | 30 | 對唱（遙遙/眾人） | 我不想再退後（你要）。 | Song `新節奏`; low-confidence repair |
+| S07-SEC02-L025 | 30 | 對唱（遙遙/眾人） | 我不想再退後（你要）。 | Song `新節奏`; targeted hardening lock (kept wording) |
 | S07-SEC02-L026 | 30 | 對唱（遙遙/眾人） | 看我沒用的那雙手（靠你一雙手）。 | Song `新節奏`; conservative normalization |
 | S07-SEC02-L027 | 30 | 對唱（遙遙/眾人） | 我不敢去試（也靠你身邊的好友）。 | Song `新節奏`; conservative normalization |
 | S07-SEC02-L028 | 30 | 對唱（遙遙/眾人） | 再嘗試怕出醜（不必怕會出醜）。 | Song `新節奏`; conservative normalization |
-| S07-SEC02-L029 | 30 | 對唱（遙遙/眾人） | 我不想再被看透（說要）。 | Song `新節奏`; low-confidence bracket token |
+| S07-SEC02-L029 | 30 | 對唱（遙遙/眾人） | 我不想再被看透（說要）。 | Song `新節奏`; targeted hardening lock (kept wording) |
 | S07-SEC02-L030 | 30 | 對唱（遙遙/眾人） | 失去了身邊的手（信自己）。 | Song `新節奏`; conservative normalization |
 | S07-SEC02-L031 | 30 | 對唱（遙遙/眾人） | 我經已去嘗試，再嘗試。 | Song `新節奏` |
 | S07-SEC02-L032 | 30 | 對唱（遙遙/眾人） | 要出走（爭一口氣），你不必走。 | Song `新節奏`; conservative normalization |
@@ -45,5 +45,4 @@
 
 ## Uncertainty Tracking
 
-- Page-29 lyric noun in `S07-SEC02-L021` (`小燕`) remains low-confidence and should be re-checked against cleaner material if available.
-- Page-30 call/response bracket fragments (`S07-SEC02-L025`, `L029`) are conservatively reconstructed from degraded OCR and remain publication-hardening candidates.
+- Targeted hardening review completed for `S07-SEC02-L021`, `L025`, and `L029`; existing wording is retained as the most coherent OCR-supported read in current source quality.

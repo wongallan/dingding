@@ -42,7 +42,7 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Sidney Lau romanization: bibi, m4 hou2 gwo3 fan6.
 - English translation: Bibi, don’t go too far.
 
-- Characters: 失敗啦，阿叮。
+- Characters: 失敗啦，呀叮。
 - Sidney Lau romanization: sat1 baai6 laa1, aa3 ding1.
 - English translation: You failed, Ah-Ding.
 

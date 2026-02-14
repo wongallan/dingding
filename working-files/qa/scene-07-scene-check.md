@@ -42,7 +42,7 @@
 
 ## Residual Risk Notes
 
-- Low-confidence lyric tokens from pages 27-30 remain tracked for optional publication-hardening re-OCR (`S07-SEC01-L010`; `S07-SEC02-L021`, `L025`, `L029`).
+- Targeted publication hardening for tracked lines is completed (`S07-SEC01-L010`; `S07-SEC02-L021`, `L025`, `L029`), with one wording lock (`呀叮`) and three wording-stability locks.
 
 ## Scene Status Decision
 

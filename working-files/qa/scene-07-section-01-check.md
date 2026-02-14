@@ -37,5 +37,5 @@
 
 ## Residual Risk Notes
 
-- Several lyric tokens on pages 27-28 are reconstructed conservatively from low-confidence OCR and should be hardened with targeted re-OCR when feasible.
-- `S07-SEC01-L010` addressee token remains provisional (`阿叮`).
+- Several lyric tokens on pages 27-28 are reconstructed conservatively from low-confidence OCR; targeted hardening review found no additional line-level wording changes needed for this section.
+- `S07-SEC01-L010` addressee token is now wording-locked as `呀叮` after targeted OCR re-check.

@@ -37,4 +37,4 @@
 
 ## Residual Risk Notes
 
-- `S07-SEC02-L021`, `L025`, and `L029` contain low-confidence lyric tokens reconstructed conservatively from degraded OCR and remain candidates for targeted hardening.
+- Targeted hardening review completed for `S07-SEC02-L021`, `L025`, and `L029`; existing wording is retained as OCR-supported and stable for publication output.

@@ -455,3 +455,15 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Remaining hardening backlog is Scene 07 targeted lyric lines plus optional Scene 04/05 lyric-polish tasks.
 - Decisions made: Kept canonical line wording unchanged (`今日咁就好啦`; `開直昇機模式，上面盤旋。`) because recurrence evidence supports existing script text.
 - Next action: Execute Scene 07 targeted lyric hardening (`S07-SEC01-L010`; `S07-SEC02-L021`, `L025`, `L029`).
+
+### 2026-02-14 — Hardening Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 07 / targeted lyric hardening
+- Source pages: 27-30
+- Status: Done
+- Completed: Re-checked `working-files/ocr/batch-15-pages-26-27.md`, `batch-16-pages-28-28.md`, and `batch-17-pages-29-30.md` against staged extraction and script lines `S07-SEC01-L010`, `S07-SEC02-L021`, `L025`, `L029`; applied one wording correction lock (`阿叮` → `呀叮`) and locked the other three lines as wording-stable.
+- Outstanding: Optional publication hardening remains for Scene 04 page-17 and Scene 05 page-21 lyric blocks.
+- Decisions made: Retained `小燕`/`你要`/`說要` phrasing for `S07-SEC02-L021`, `L025`, `L029` as the best OCR-supported coherent read in current source quality.
+- Next action: Execute next highest pending optional hardening from `working-files/todo.md` (Scene 04 page-17 lyric block).

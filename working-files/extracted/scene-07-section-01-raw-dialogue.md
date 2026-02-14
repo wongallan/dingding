@@ -14,7 +14,7 @@
 | S07-SEC01-L007 | 27 | 安娜 | 喂！比比，你講咩。 | OCR normalized |
 | S07-SEC01-L008 | 27 | 比比 | 之不過柴爾德家族都係無贏到啦。 | Conservative normalization |
 | S07-SEC01-L009 | 27 | 達爾 | Bibi，唔好過份。 | Mixed-language token preserved |
-| S07-SEC01-L010 | 27 | 比比 | 失敗啦，阿叮。 | Low-confidence lexeme normalized conservatively |
+| S07-SEC01-L010 | 27 | 比比 | 失敗啦，呀叮。 | Targeted hardening lock from OCR `呀叮` recurrence |
 | S07-SEC01-L011 | 27 | 遙遙 | （聲音顫抖）我已經試咗好多次，點解無叮叮魔法，我乜都做唔到，我真係做唔到。 | OCR normalized |
 | S07-SEC01-L012 | 27 | 眾人（唱） | 那奇妙雙手，我一向都擁有。 | Song `我真的試了` |
 | S07-SEC01-L013 | 27 | 眾人（唱） | 叮一聲得心應手，那微妙手。 | Song `我真的試了` |
@@ -42,5 +42,4 @@
 
 ## Uncertainty Tracking
 
-- Page-27 line `S07-SEC01-L010` remains low-confidence in the final addressee token (`阿叮` provisional).
-- `我真的試了` and `靜靜守候` lyric lines on pages 27-28 were reconstructed conservatively from fragmented OCR; sequence is stable but several word-level tokens remain provisional pending cleaner recurrence.
+- `我真的試了` and `靜靜守候` lyric lines on pages 27-28 remain conservative reconstructions from fragmented OCR; sequence is stable and no additional line-level wording changes were warranted in this hardening pass.
