@@ -295,3 +295,189 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Characters: 我要努力求突破
 - Sidney Lau romanization: ngo5 jiu3 nou5 lik6 kau4 tyut3 po3
 - English translation: I’ll work hard to break through
+
+## Section 3 (page 21)
+
+- Characters: 朱古力加啲Cream太誘人
+- Sidney Lau romanization: zyu1 gu2 lik6 gaa1 di1 cream taa3 jau5 jan4
+- English translation: Chocolate with extra cream is too tempting
+
+- Characters: 唧花最美麗
+- Sidney Lau romanization: zik1 faa1 zeoi3 mei5 lai6
+- English translation: Piped frosting is the prettiest
+
+- Characters: 士多啤梨多新鮮又彈彈牙
+- Sidney Lau romanization: si6 do1 be1 lei2 do1 san1 sin1 jau6 daan6 daan6 ngaa4
+- English translation: Strawberries are fresh and springy
+
+- Characters: 冇得多麼高貴
+- Sidney Lau romanization: mou5 dak1 do1 mo1 gou1 gwai3
+- English translation: Nothing beats that classy taste
+
+- Characters: 牛角酥原味最好
+- Sidney Lau romanization: ngau4 gok3 sou1 jyun4 mei6 zeoi3 hou2
+- English translation: Original-flavor croissants are best
+
+- Characters: 焗嘅味道更好，放入焗爐等三分鐘出世
+- Sidney Lau romanization: guk6 ge3 mei6 dou6 gang3 hou2, fong3 jap6 guk6 lou4 dang2 saam1 fan1 zung1 ceot1 sai3
+- English translation: Baked flavor is even better—into the oven, three minutes and it comes out
+
+- Characters: 加啲粉
+- Sidney Lau romanization: gaa1 di1 fan2
+- English translation: Add some flour
+
+- Characters: 加啲蛋
+- Sidney Lau romanization: gaa1 di1 daan2
+- English translation: Add some eggs
+
+- Characters: 片糖
+- Sidney Lau romanization: pin3 tong4
+- English translation: Slab sugar
+
+- Characters: 蘋果批最暖胃
+- Sidney Lau romanization: ping4 gwo2 pai1 zeoi3 nyun5 wai6
+- English translation: Apple pie warms your stomach best
+
+- Characters: 加啲水加冰
+- Sidney Lau romanization: gaa1 di1 seoi2 gaa1 bing1
+- English translation: Add some water, add some ice
+
+- Characters: 落蜜糖
+- Sidney Lau romanization: lok6 mat6 tong4
+- English translation: Pour in honey
+
+- Characters: 檸汁幾得矜貴
+- Sidney Lau romanization: ning4 zap1 gei2 dak1 ging1 gwai3
+- English translation: Lemon juice gives it a refined touch
+
+- Characters: 蘋果批甜味最好
+- Sidney Lau romanization: ping4 gwo2 pai1 tim4 mei6 zeoi3 hou2
+- English translation: Apple pie is best when it’s sweet
+
+- Characters: 用力越快越好
+- Sidney Lau romanization: jung6 lik6 jyut6 faai3 jyut6 hou2
+- English translation: The faster you work with force, the better
+
+- Characters: 用力攪越快越好
+- Sidney Lau romanization: jung6 lik6 gaau2 jyut6 faai3 jyut6 hou2
+- English translation: Stir hard—the faster, the better
+
+- Characters: 信我啦，焗牛角酥要3分鐘。
+- Sidney Lau romanization: seon3 ngo5 laa1, guk6 ngau4 gok3 sou1 jiu3 saam1 fan1 zung1.
+- English translation: Trust me—croissants need three minutes in the oven.
+
+- Characters: 但係焗熱，好味。
+- Sidney Lau romanization: daan6 hai6 guk6 jit6, hou2 mei6.
+- English translation: But baked hot tastes great.
+
+- Characters: 13分鐘啦。
+- Sidney Lau romanization: sap6 saam1 fan1 zung1 laa1.
+- English translation: Make it thirteen minutes then.
+
+- Characters: 不如30分鐘啦！
+- Sidney Lau romanization: bat1 jyu4 saam1 sap6 fan1 zung1 laa1!
+- English translation: Why not thirty minutes!
+
+- Characters: 點解嗰個粉團都唔勻？
+- Sidney Lau romanization: dim2 gaai2 go2 go3 fan2 tyun4 dou1 m4 wan4?
+- English translation: Why is that dough still uneven?
+
+- Characters: 好似唔夠粉，等我加啲先。
+- Sidney Lau romanization: hou2 ci5 m4 gau3 fan2, dang2 ngo5 gaa1 di1 sin1.
+- English translation: Looks like not enough flour—let me add some first.
+
+- Characters: 你慢，梗係唔得，等我嚟！等我！
+- Sidney Lau romanization: nei5 maan6, gang2 hai6 m4 dak1, dang2 ngo5 lai4! dang2 ngo5!
+- English translation: You’re too slow—that won’t work. Let me do it! Let me!
+
+- Characters: 睇睇我多心思不需界限
+- Sidney Lau romanization: tai2 tai2 ngo5 do1 sam1 si1 bat1 seoi1 gaai3 haan6
+- English translation: Look how full of ideas I am—no limits needed
+
+- Characters: 等我整個大早餐
+- Sidney Lau romanization: dang2 ngo5 zing2 go3 daai6 zou2 caan1
+- English translation: Let me make a grand breakfast
+
+- Characters: 不管多少困難
+- Sidney Lau romanization: bat1 gun2 do1 siu2 kwan3 naan4
+- English translation: No matter how many difficulties there are
+
+- Characters: 我創意多新鮮
+- Sidney Lau romanization: ngo5 cong3 ji3 do1 san1 sin1
+- English translation: My ideas are so fresh
+
+- Characters: 實力無限
+- Sidney Lau romanization: sat6 lik6 mou4 haan6
+- English translation: My ability is limitless
+
+- Characters: 施展魔法做早餐
+- Sidney Lau romanization: si1 zin2 mo4 faat3 zou6 zou2 caan1
+- English translation: Use magic to make breakfast
+
+- Characters: 創意法力無限
+- Sidney Lau romanization: cong3 ji3 faat3 lik6 mou4 haan6
+- English translation: Creative magic power without limits
+
+- Characters: 今天可以食到飽
+- Sidney Lau romanization: gam1 tin1 ho2 ji5 sik6 dou3 baau2
+- English translation: Today we can eat until full
+
+- Characters: 盡情任我玩
+- Sidney Lau romanization: zeon6 cing4 jam6 ngo5 waan2
+- English translation: Let me do as I please
+
+- Characters: 今天可以食到飽
+- Sidney Lau romanization: gam1 tin1 ho2 ji5 sik6 dou3 baau2
+- English translation: Today we can eat until full
+
+- Characters: 盡情任我玩
+- Sidney Lau romanization: zeon6 cing4 jam6 ngo5 waan2
+- English translation: Let me do as I please
+
+- Characters: 等一等
+- Sidney Lau romanization: dang2 jat1 dang2
+- English translation: Wait a second
+
+- Characters: 等一等
+- Sidney Lau romanization: dang2 jat1 dang2
+- English translation: Wait a second
+
+- Characters: 你快看出爐
+- Sidney Lau romanization: nei5 faai3 hon3 ceot1 lou4
+- English translation: Hurry, look—it’s coming out of the oven
+
+- Characters: 香濃不散
+- Sidney Lau romanization: hoeng1 nung4 bat1 saan3
+- English translation: Rich fragrance that doesn’t fade
+
+- Characters: 加啲蛋加啲粉，太有趣加啲冰
+- Sidney Lau romanization: gaa1 di1 daan2 gaa1 di1 fan2, taai3 jau5 ceoi3 gaa1 di1 bing1
+- English translation: Add eggs, add flour—so fun, add some ice too
+
+- Characters: 人人都讚
+- Sidney Lau romanization: jan4 jan4 dou1 zaan3
+- English translation: Everyone praises it
+
+- Characters: 慘啦，我啲早餐。
+- Sidney Lau romanization: caam2 laa1, ngo5 di1 zou2 caan1.
+- English translation: Oh no—my breakfast.
+
+- Characters: 好肚餓呀！
+- Sidney Lau romanization: hou2 tou5 ngo6 aa3!
+- English translation: I’m so hungry!
+
+- Characters: 整早餐，等我！
+- Sidney Lau romanization: zing2 zou2 caan1, dang2 ngo5!
+- English translation: Making breakfast? Leave it to me!
+
+- Characters: Baby，仲有我呀…
+- Sidney Lau romanization: be1 bi1, zung6 jau5 ngo5 aa3...
+- English translation: Baby, and me too...
+
+- Characters: 仲有我同魯魯夫呀！
+- Sidney Lau romanization: zung6 jau5 ngo5 tung4 lou5 lou5 fu1 aa3!
+- English translation: And me with Lulu-Fu too!
+
+- Characters: 少爺小姐，我幫你。
+- Sidney Lau romanization: siu3 je5 siu2 ze2, ngo5 bong1 nei5.
+- English translation: Young master, miss—I’ll help you.

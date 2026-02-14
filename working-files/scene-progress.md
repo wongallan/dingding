@@ -16,7 +16,7 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Scene 02: Done
 - Scene 03: Done
 - Scene 04: Done
-- Scene 05: In progress
+- Scene 05: Done
 - Scene 06: Not started
 - Scene 07: Not started
 - Scene 08: Not started
@@ -239,3 +239,27 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Page-20 lyric tokens in `S05-SEC02-L049`, `L056`, and one rivalry lexeme in `L032` remain conservatively normalized pending recurrence check.
 - Decisions made: Preserved mixed-language token `Oh Baby`; normalized breakfast-item terms conservatively to maintain continuity with prior scenes (`柴爾德家族` / `比卡特羅家族`).
 - Next action: OCR and process Scene 05 Section 03 from pages 21-22, then run Scene 05 scene-level QA once section loop is complete.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 05 / Section 03
+- Source pages: 21 (page 22 excluded as Scene 06 boundary)
+- Status: Done
+- Completed: OCR batch B12 saved (pages 21-22); dialogue-only extraction staged with 46 lines for page 21; 46 triplets written to `booklet/script/scene-05.md`; section QA completed in `working-files/qa/scene-05-section-03-check.md`.
+- Outstanding: Several page-21 lyric lexemes remain conservatively normalized in low-confidence OCR zones (`S05-SEC03-L004`, `L013`, `L038`).
+- Decisions made: Locked scene boundary at `第五幕完` on page 21 and excluded all `第六幕` setup lines on page 22 from Scene 05 ownership.
+- Next action: Run Scene 05 scene-level QA and close scene status.
+
+### 2026-02-14 — Scene-Level Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 05 / Full Scene QA
+- Source pages: 18-21
+- Status: Done
+- Completed: Scene-level continuity/boundary/format checks logged in `working-files/qa/scene-05-scene-check.md`; Scene 05 marked complete.
+- Outstanding: Optional targeted page-21 lyric re-OCR remains tracked as non-blocking hardening.
+- Decisions made: Closed Scene 05 at page-21 `第五幕完`; Scene 06 starts at page 22 with fresh section IDs.
+- Next action: Begin Scene 06 Section 01 extraction/conversion from pages 22-23.

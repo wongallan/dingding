@@ -125,3 +125,13 @@ Track all OCR extraction batches from scanned sources.
 - Confidence notes: Mixed OCR quality; page 19 dialogue is mostly recoverable with conservative normalization, while page 20 lyric block remains token-noisy.
 - Unclear lines count: 6 (three dialogue lexemes and three lyric tokens with conservative reconstruction)
 - Follow-up required: Cross-check low-confidence page-20 lyric terms during Scene 05 Section 03 processing (pages 21-22) and run targeted re-OCR only if term recurrence stays unstable.
+
+- Batch ID: B12
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Source file: reference/叮叮魔法師劇本1-38.pdf
+- Page range: 21-22
+- Output file: working-files/ocr/batch-12-pages-21-22.md
+- Confidence notes: Page 21 is lyric-heavy with moderate-to-low OCR confidence but stable sequence; page 22 clearly begins Scene 06 with cast/location heading and was boundary-excluded from Scene 05 conversion.
+- Unclear lines count: 5 (page-21 lyric lexemes normalized conservatively in extraction notes)
+- Follow-up required: Optional targeted single-page re-OCR on page 21 to harden final lyric wording before publication lock; continue primary flow with Scene 06 from page 22.

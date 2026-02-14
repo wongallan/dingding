@@ -261,6 +261,16 @@ The booklet is done when:
 
 ---
 
+## Execution Status Snapshot (2026-02-14)
+
+- Scenes completed: 01-05
+- Current highest-priority pending task: start Scene 06 Section 01 from pages 22-23.
+- Non-blocking hardening follow-ups discovered during Scene 05 close-out:
+   - Optional targeted re-OCR of Scene 04 page-17 lyric block.
+   - Optional targeted re-OCR of Scene 05 page-21 lyric block.
+
+---
+
 ## Execution Updates
 
 ### 2026-02-14
