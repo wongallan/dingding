@@ -13,7 +13,7 @@ Use this file as the single source of truth for what is completed, in progress, 
 ## Scene Status
 
 - Scene 01: Done
-- Scene 02: In progress
+- Scene 02: Done
 - Scene 03: Not started
 - Scene 04: Not started
 - Scene 05: Not started
@@ -107,3 +107,27 @@ Use this file as the single source of truth for what is completed, in progress, 
 - Outstanding: Re-validate four provisional OCR normalizations during Scene 02 scene-level QA (`魚水波蛋`, `貴族早餐指引`, `芬尼/麥芬尼`, and one imperative particle in `S02-SEC02-L021`).
 - Decisions made: Normalized dropped speaker label before `唔制呀，我想食奶凍先。` to `遙遙` by dialogue flow; normalized `麥芬尼` to `芬尼` provisionally for consistency.
 - Next action: Process Scene 02 Section 03 from pages 9-10 and then run Scene 02 scene-level consistency pass.
+
+### 2026-02-14 — Section Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 02 / Section 03
+- Source pages: 9-10
+- Status: Done
+- Completed: OCR batch B06 saved; dialogue-only extraction staged with 47 lines; 47 triplets written to `booklet/script/scene-02.md`; section QA completed.
+- Outstanding: Several lyric lexemes remain normalized from degraded OCR and should be cross-checked if cleaner source material appears.
+- Decisions made: Grouped page-10 anthem lines under `管家合唱`; retained conservative normalization with uncertainty handled in working extraction notes.
+- Next action: Run Scene 02 scene-level consistency/continuity pass and close scene status.
+
+### 2026-02-14 — Scene-Level Update
+
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Scene/Section: Scene 02 / Full Scene QA
+- Source pages: 6-10
+- Status: Done
+- Completed: Scene-level continuity/duplicate/format checks logged in `working-files/qa/scene-02-scene-check.md`; Scene 02 marked complete.
+- Outstanding: Provisional OCR normalizations from Section 02 remain tracked in working notes due lack of clearer recurrence.
+- Decisions made: Closed Scene 02 as complete within available source quality; unresolved lexical uncertainty preserved as explicit risk note rather than silently forcing novel terms.
+- Next action: Start Scene 03 Section 01 extraction/conversion on next source page range.

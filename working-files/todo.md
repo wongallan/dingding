@@ -10,5 +10,6 @@
 - done: Commit this increment (Scene 02 Section 01)
 - done: OCR + extract + translate Scene 02 Section 02 (pages 7-8)
 - done: QA Scene 02 Section 02 and update trackers/logs
-- pending: Process Scene 02 Section 03 extraction/translation from pages 9-10
-- pending: Run Scene 02 scene-level QA (including provisional OCR normalizations)
+- done: Process Scene 02 Section 03 extraction/translation from pages 9-10
+- done: Run Scene 02 scene-level QA (including provisional OCR normalizations)
+- pending: Process Scene 03 Section 01 extraction/translation from next source pages

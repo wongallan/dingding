@@ -65,3 +65,13 @@ Track all OCR extraction batches from scanned sources.
 - Confidence notes: Mixed OCR quality with multiple split lines and one dropped speaker label; normalization required for butler-protocol dialogue and table-service segment.
 - Unclear lines count: 4 (`魚水波蛋` lexeme, `貴族早餐指引` phrasing, `芬尼/麥芬尼` label variant, one imperative particle in `S02-SEC02-L021`)
 - Follow-up required: Re-check pages 8-9 during Scene 02 scene-level QA for lexical confirmation and final name-label lock.
+
+- Batch ID: B06
+- Date: 2026-02-14
+- Agent: Copilot (GPT-5.3-Codex)
+- Source file: reference/叮叮魔法師劇本1-38.pdf
+- Page range: 9-10
+- Output file: working-files/ocr/batch-06-pages-09-10.md
+- Confidence notes: Mixed-to-low OCR quality on lyric-heavy page 10; scene-level structure recoverable with conservative normalization.
+- Unclear lines count: 6 (mostly lyric token degradation and one page-9 timephrase lexeme)
+- Follow-up required: Carry unresolved lyric-token uncertainty to cross-scene terminology normalization if a cleaner source version becomes available.

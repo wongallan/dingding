@@ -307,3 +307,193 @@ Follow the same three-line per-line format as `scene-01.md`.
 - Characters: 無問題。
 - Sidney Lau romanization: mou4 man6 tai4.
 - English translation: No problem.
+
+## Section 3 (pages 9-10)
+
+- Characters: 少爺，快啲啦，係時候返學。
+- Sidney Lau romanization: siu3 je5, faai3 di1 laa1, hai6 si4 hau6 faan1 hok6.
+- English translation: Young master, hurry up—it’s time for school.
+
+- Characters: 奧妙妮，Baby，要保持優雅，唔可以心急㗎！
+- Sidney Lau romanization: ou3 miu6 nei4, baby, jiu3 bou2 ci4 jau1 ngaa5, m4 ho2 ji5 sam1 gap1 gaa3!
+- English translation: O-Miu-Nei, baby, stay elegant—you can’t rush!
+
+- Characters: 但係就鐘啦。
+- Sidney Lau romanization: daan6 hai6 zau6 zung1 laa1.
+- English translation: But the bell is about to ring.
+
+- Characters: 今日就算遲到，都要優雅。
+- Sidney Lau romanization: gam1 jat6 zau6 syun3 ci4 dou3, dou1 jiu3 jau1 ngaa5.
+- English translation: Even if we’re late today, we still have to be elegant.
+
+- Characters: 少爺，唔會發生㗎，飲完橙汁我就走得，書包都會即時送到。
+- Sidney Lau romanization: siu3 je5, m4 wui5 faat3 sang1 gaa3, jam2 jyun4 caang2 zap1 ngo5 zau6 zau2 dak1, syu1 baau1 dou1 wui5 zik1 si4 sung3 dou3.
+- English translation: Young master, that won’t happen. Once you finish your orange juice, I can leave, and your schoolbag will be delivered right away.
+
+- Characters: Baby，優雅。…我件體育衫，記得要又平又直。
+- Sidney Lau romanization: baby, jau1 ngaa5. ngo5 gin6 tai2 juk6 saam1, gei3 dak1 jiu3 jau6 peng4 jau6 zik6.
+- English translation: Baby, elegance... And my PE uniform—remember, perfectly flat and straight.
+
+- Characters: 少爺，為咗唔會令體育衫變皺，我會上體育堂前10分鐘先送到學校。
+- Sidney Lau romanization: siu3 je5, wai6 zo2 m4 wui5 ling6 tai2 juk6 saam1 bin3 zau3, ngo5 wui5 soeng5 tai2 juk6 tong4 cin4 sap6 fan1 zung1 sin1 sung3 dou3 hok6 haau6.
+- English translation: Young master, to keep your PE uniform from wrinkling, I’ll deliver it to school ten minutes before PE class.
+
+- Characters: No problem！記得噴白茶花芒果味嘅香薰噴霧。
+- Sidney Lau romanization: no problem! gei3 dak1 pan3 baak6 caa4 faa1 mong1 gwo2 mei6 ge3 hoeng1 fan1 pan3 mou6.
+- English translation: No problem! Remember to spray the white-tea-and-mango fragrance mist.
+
+- Characters: 係，少爺，快用叮叮魔法，我要走啦。
+- Sidney Lau romanization: hai6, siu3 je5, faai3 jung6 ding1 ding1 mo4 faat3, ngo5 jiu3 zau2 laa1.
+- English translation: Yes, young master—use Ding Ding Magic quickly, I need to go.
+
+- Characters: OK！
+- Sidney Lau romanization: o-kei1!
+- English translation: OK!
+
+- Characters: 今日早餐，本小姐要一切完美。
+- Sidney Lau romanization: gam1 jat6 zou2 caan1, bun2 siu2 ze2 jiu3 jat1 cai3 jyun4 mei5.
+- English translation: For today’s breakfast, this young lady wants everything perfect.
+
+- Characters: 係，小姐！
+- Sidney Lau romanization: hai6, siu2 ze2!
+- English translation: Yes, Miss!
+
+- Characters: 魯魯夫，餅要金黃色、厚度要一隻半手指……
+- Sidney Lau romanization: lou5 lou5 fu1, beng2 jiu3 gam1 wong4 sik1, hau5 dou6 jiu3 jat1 zek3 bun3 sau2 zi2...
+- English translation: Lulu-Fu, the pancake must be golden, and one-and-a-half finger-widths thick...
+
+- Characters: 一隻半手指。
+- Sidney Lau romanization: jat1 zek3 bun3 sau2 zi2.
+- English translation: One and a half finger-widths.
+
+- Characters: 叮！沙沙拉，果汁溫度要7度，不能多都唔少。
+- Sidney Lau romanization: ding1! saa1 saa1 laai1, gwo2 zap1 wan1 dou6 jiu3 cat1 dou6, bat1 nang4 do1 dou1 m4 siu2.
+- English translation: Ding! Sa-Sa-La, the juice must be 7 degrees—not more, not less.
+
+- Characters: （小聲）7度？邊度有溫度計？
+- Sidney Lau romanization: (siu2 seng1) cat1 dou6? bin1 dou6 jau5 wan1 dou6 gai3?
+- English translation: (whispering) 7 degrees? Where do we even have a thermometer?
+
+- Characters: 雞蛋要半熟，唔能流得太快，都唔能太硬。你哋記住，早餐唔可以亂，一定要有儀式感。
+- Sidney Lau romanization: gai1 daan6 jiu3 bun3 suk6, m4 nang4 lau4 dak1 taai3 faai3, dou1 m4 nang4 taai3 ngaang6. nei5 dei6 gei3 zyu6, zou2 caan1 m4 ho2 ji5 lyun6, jat1 ding6 jiu3 jau5 ji4 sik1 gam2.
+- English translation: The egg must be half-cooked—not too runny and not too hard. Remember, breakfast cannot be chaotic; it must have ceremony.
+
+- Characters: 噗！點解餅厚咗？唔係一隻半手指？
+- Sidney Lau romanization: puk1! dim2 gaai2 beng2 hau5 zo2? m4 hai6 jat1 zek3 bun3 sau2 zi2?
+- English translation: Pff! Why is the pancake thicker now? Isn’t it one and a half fingers?
+
+- Characters: 咦？零度？
+- Sidney Lau romanization: ji2? ling4 dou6?
+- English translation: Huh? Zero degrees?
+
+- Characters: 唔好意思呀，小姐！
+- Sidney Lau romanization: m4 hou2 ji3 si3 aa3, siu2 ze2!
+- English translation: I’m so sorry, Miss!
+
+- Characters: （指雞蛋）隻雞蛋又硬？你哋當我係早餐實驗品？
+- Sidney Lau romanization: (zi2 gai1 daan6) zek3 gai1 daan6 jau6 ngaang6? nei5 dei6 dong3 ngo5 hai6 zou2 caan1 sat6 jim6 ban2?
+- English translation: (pointing at the egg) This egg is hard again? Do you take me for a breakfast test subject?
+
+- Characters: 唔係呀，唔係呀，我即刻做返好。
+- Sidney Lau romanization: m4 hai6 aa3, m4 hai6 aa3, ngo5 zik1 hak1 zou6 faan1 hou2.
+- English translation: No, no—I’ll fix it right away.
+
+- Characters: 我依家心情唔好，要食蘋果批。
+- Sidney Lau romanization: ngo5 ji1 gaa1 sam1 cing4 m4 hou2, jiu3 sik6 ping4 gwo2 pai1.
+- English translation: I’m in a bad mood now. I want apple pie.
+
+- Characters: 係，小姐！
+- Sidney Lau romanization: hai6, siu2 ze2!
+- English translation: Yes, Miss!
+
+- Characters: 吓！只要「叮！」一聲就有得食，生活真係太簡單太無聊啦。
+- Sidney Lau romanization: haa2! zi2 jiu3 "ding1!" jat1 seng1 zau6 jau5 dak1 sik6, sang1 wut6 zan1 hai6 taai3 gaan2 daan1 taai3 mou4 liu4 laa1.
+- English translation: Hah! Just one “Ding!” and food appears—life is way too easy and boring.
+
+- Characters: （輕笑）因為貴族小姐要知識豐富，其他簡單嘢就可以。
+- Sidney Lau romanization: (hing1 siu3) jan1 wai6 gwai3 zuk6 siu2 ze2 jiu3 zi1 sik1 fung1 fu3, kei4 taa1 gaan2 daan1 je5 zau6 ho2 ji5.
+- English translation: (light laugh) Because noble young ladies must be rich in knowledge; the other tasks can stay simple.
+
+- Characters: 而簡單背後（輕輕鞠躬）就係我哋專業管家嘅努力，我哋會一直係小姐最專業、最可靠、最強後盾。
+- Sidney Lau romanization: ji4 gaan2 daan1 bui3 hau6 (hing1 hing1 guk1 gung1) zau6 hai6 ngo5 dei6 zyun1 jip6 gun2 gaa1 ge3 nou5 lik6, ngo5 dei6 wui5 jat1 zik6 hai6 siu2 ze2 zeoi3 zyun1 jip6, zeoi3 ho2 kaau3, zeoi3 koeng4 hau6 deon6.
+- English translation: And behind that simplicity (bows lightly) is the effort of professional butlers—we’ll always be Miss’s most professional, most reliable, strongest support.
+
+- Characters: （召喚各管家）各位管家，到！
+- Sidney Lau romanization: (ziu6 wun6 gok3 wai2 gun2 gaa1) gok3 wai2 gun2 gaa1, dou3!
+- English translation: (calling all butlers) All butlers, report!
+
+- Characters: 無敵大管家，穿一身西裝的造型。
+- Sidney Lau romanization: mou4 dik6 daai6 gun2 gaa1, cyun1 jat1 san1 sai1 zong1 dik1 zou6 jing4.
+- English translation: Invincible great butlers, dressed in full suit style.
+
+- Characters: 齊集各徽章，別具智慧有功績。
+- Sidney Lau romanization: cai4 zaap6 gok3 fai1 zoeng1, bit6 geoi6 zi3 wai6 jau5 gung1 zik1.
+- English translation: Gathered with badges on display, uniquely wise and full of merit.
+
+- Characters: 凡事鋪排不即興，舉止溫文身端正。
+- Sidney Lau romanization: faan4 si6 pou1 paai4 bat1 zik1 hing3, geoi2 zi2 wan1 man4 san1 dyun1 zing3.
+- English translation: Everything is planned, never impulsive; manners are refined and posture upright.
+
+- Characters: 絕無主人的率性，能自信閃耀滿星。
+- Sidney Lau romanization: zyut6 mou4 zyu2 jan4 ge3 seot1 sing3, nang4 zi6 seon3 sim2 jiu6 mun5 sing1.
+- English translation: No reckless whims from the master’s side; confidence shines like a sky of stars.
+
+- Characters: 榮耀天才的尊稱，老師親臨都尊敬。
+- Sidney Lau romanization: wing4 jiu6 tin1 coi4 dik1 zyun1 cing1, lou5 si1 can1 lam4 dou1 zyun1 ging3.
+- English translation: A glorious title of genius—even teachers show respect in person.
+
+- Characters: 令我主人可取勝，來護我運籌校內較勁。
+- Sidney Lau romanization: ling6 ngo5 zyu2 jan4 ho2 ceoi2 sing3, loi4 wu6 ngo5 wan6 cau4 haau6 noi6 gaau3 ging6.
+- English translation: Helping my master claim victory, strategizing to win every school contest.
+
+- Characters: 於校園，來讓我守在旁，隨時被叫喚應急注視凝望。
+- Sidney Lau romanization: jyu1 haau6 jyun4, loi4 joeng6 ngo5 sau2 zoi6 pong4, ceoi4 si4 bei6 giu3 wun6 jing3 gap1 zyu3 si6 jing4 mong6.
+- English translation: On campus, let me stand by your side, ready to respond whenever called.
+
+- Characters: 填密我的日程，全程在發射我自信的目光。
+- Sidney Lau romanization: tin4 mat6 ngo5 dik1 jat6 cing4, cyun4 cing4 zoi6 faat3 se6 ngo5 zi6 seon3 dik1 muk6 gwong1.
+- English translation: Filling my schedule to the brim, shining confidence through every moment.
+
+- Characters: 禮服內，我心充滿力量，睿智在眉頭額角凡事也毫無難度。
+- Sidney Lau romanization: lai5 fuk6 noi6, ngo5 sam1 cung1 mun5 lik6 loeng6, jeoi6 zi3 zoi6 mei4 tau4 ngaak6 gok3 faan4 si6 jaa5 hou4 mou4 naan4 dou6.
+- English translation: Inside this formalwear, my heart is full of strength; wisdom at brow and temple makes nothing difficult.
+
+- Characters: 輕步行，華麗向前路往，這宇宙你共我極了得，默默讓傲氣綻放。
+- Sidney Lau romanization: hing1 bou6 hang4, waa4 lai6 hoeng3 cin4 lou6 wong5, ze5 jyu5 zau6 nei5 gung6 ngo5 gik6 liu5 dak1, mak6 mak6 joeng6 ngou6 hei3 zaan3 fong3.
+- English translation: Step lightly, stride forward in style; in this universe, you and I are remarkable—let our pride bloom quietly.
+
+- Characters: 勤力做管家，小姐叮一聲即會明，伶俐又細心。
+- Sidney Lau romanization: kan4 lik6 zou6 gun2 gaa1, siu2 ze2 ding1 jat1 seng1 zik1 wui5 ming4, ling4 lei6 jau6 sai3 sam1.
+- English translation: Work hard as butlers; one “ding” from Miss and we understand—smart and attentive.
+
+- Characters: 默默讓小姐得勁，只需返學心得，課本英文識得拼。
+- Sidney Lau romanization: mak6 mak6 joeng6 siu2 ze2 dak1 ging6, zi2 seoi1 faan1 hok6 sam1 dak1, fo3 bun2 jing1 man4 sik1 dak1 ping3.
+- English translation: Quietly helping Miss excel—just focus on learning at school and spelling English from the textbook.
+
+- Characters: 各種粗活不花勁，能令事事學會叮，為怕主人不適應。
+- Sidney Lau romanization: gok3 zung2 cou1 wut6 bat1 faa1 ging6, nang4 ling6 si6 si6 hok6 wui5 ding1, wai6 paa3 zyu2 jan4 bat1 sik1 jing3.
+- English translation: Every rough chore is handled with ease, teaching every task to answer with a “ding,” so the master never struggles to adapt.
+
+- Characters: 百般殷勤等呼應，讓我主人多高興，從未怕睡眠未為求達使命。
+- Sidney Lau romanization: baak3 bun1 jan1 kan4 dang2 fu1 jing3, joeng6 ngo5 zyu2 jan4 do1 gou1 hing3, cung4 mei6 paa3 seoi6 min4 mei6 wai6 kau4 daat6 si3 ming6.
+- English translation: We answer with every kind of diligence, keeping our master happy, never fearing lost sleep to fulfill the mission.
+
+- Characters: 於校園，來讓我守在旁，隨時被叫喚應急注視凝望。
+- Sidney Lau romanization: jyu1 haau6 jyun4, loi4 joeng6 ngo5 sau2 zoi6 pong4, ceoi4 si4 bei6 giu3 wun6 jing3 gap1 zyu3 si6 jing4 mong6.
+- English translation: On campus, let me stand by your side, ready to respond whenever called.
+
+- Characters: 填密我的日程，全程在發射我自信的目光。
+- Sidney Lau romanization: tin4 mat6 ngo5 dik1 jat6 cing4, cyun4 cing4 zoi6 faat3 se6 ngo5 zi6 seon3 dik1 muk6 gwong1.
+- English translation: Filling my schedule to the brim, shining confidence through every moment.
+
+- Characters: 禮服內，我心充滿力量，睿智在眉頭額角凡事也毫無難度。
+- Sidney Lau romanization: lai5 fuk6 noi6, ngo5 sam1 cung1 mun5 lik6 loeng6, jeoi6 zi3 zoi6 mei4 tau4 ngaak6 gok3 faan4 si6 jaa5 hou4 mou4 naan4 dou6.
+- English translation: Inside this formalwear, my heart is full of strength; wisdom at brow and temple makes nothing difficult.
+
+- Characters: 輕步行，華麗向前路往，這宇宙你共我極了得，默默傲氣釋放。
+- Sidney Lau romanization: hing1 bou6 hang4, waa4 lai6 hoeng3 cin4 lou6 wong5, ze5 jyu5 zau6 nei5 gung6 ngo5 gik6 liu5 dak1, mak6 mak6 ngou6 hei3 sik1 fong3.
+- English translation: Step lightly, move forward in splendor; in this universe, you and I are extraordinary—let quiet pride release.
+
+- Characters: 全賴有管家，齊集各管家高呼：無敵大管家，安心齊齊來學叮！
+- Sidney Lau romanization: cyun4 laai6 jau5 gun2 gaa1, cai4 zaap6 gok3 gun2 gaa1 gou1 fu1: mou4 dik6 daai6 gun2 gaa1, on1 sam1 cai4 cai4 loi4 hok6 ding1!
+- English translation: It all depends on butlers—gather all butlers and shout: invincible great butlers, come learn Ding together with peace of mind!

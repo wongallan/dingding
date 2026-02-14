@@ -26,3 +26,10 @@ Document major lyric adaptation decisions so all agents apply the same artistic 
 - Final lyric rendering: Kept direct parental refrain as `Dad and Mom` with warm, audience-readable domestic imagery in complete sentence lines.
 - Rationale (meter, tone, audience clarity, artistic intent): Preserve repetitive sing-along structure while prioritizing clear emotional gratitude over strict literal compression.
 - Approved by: Copilot (GPT-5.3-Codex)
+
+- Scene/Song: Scene 02 butler anthem `無敵大管家` (page 10)
+- Source phrase: repeated butler-pride refrains around service protocol, confidence, and on-call support.
+- Literal meaning: Professional butlers frame discipline, readiness, and student support as a proud identity.
+- Final lyric rendering: Retained declarative chant structure (`Invincible great butlers...`) while normalizing noisy OCR tokens into coherent service-themed lyric lines.
+- Rationale (meter, tone, audience clarity, artistic intent): Keep ensemble momentum and boastful tone for stage energy; prioritize semantic anchors (discipline, readiness, confidence, support) where OCR character-level certainty is low.
+- Approved by: Copilot (GPT-5.3-Codex)

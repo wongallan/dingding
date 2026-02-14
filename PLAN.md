@@ -260,12 +260,12 @@ The booklet is done when:
 
 ## Active OCR Follow-Ups (2026-02-14)
 
-- Scene 02 pages 7-8 produced four provisional normalizations that must be verified during Scene 02 scene-level QA:
+- Scene 02 pages 7-8 produced four provisional normalizations reviewed during Scene 02 scene-level QA:
    - dish/item lexeme currently normalized as `魚水波蛋`
    - protocol phrase currently normalized as `貴族早餐指引`
    - speaker label variant `芬尼` vs `麥芬尼`
    - one imperative particle in `S02-SEC02-L021`
-- Add targeted cross-check in next batch (pages 9-10) to confirm these terms before marking Scene 02 as done.
+- Pages 9-10 did not provide clear recurrence for final lexical confirmation; keep these as explicitly tracked provisional normalizations until cleaner source evidence appears.
 
 ---
 
@@ -278,6 +278,9 @@ The booklet is done when:
 - New term-validation task: verify final spellings/meaning for `比卡特羅家族` and `愛叮堡榮譽` against clearer OCR in next batch before locking global glossary.
 - Scene boundary discovered: page 6 starts Scene 2 (`第二幕`), so Scene 01 extraction scope closes at page 5.
 - 2026-02-14: Scene 02 Section 01 completed (page 6), extraction + conversion + section QA passed; heavy OCR normalizations documented line-by-line in staged extraction.
+- 2026-02-14: Scene 02 Section 02 completed (pages 7-8), extraction + conversion + section QA passed.
+- 2026-02-14: Scene 02 Section 03 completed (pages 9-10), extraction + conversion + section QA passed; lyric-heavy OCR normalized conservatively with uncertainty notes.
+- 2026-02-14: Scene 02 scene-level QA completed and Scene 02 marked done (pages 6-10).
 
 ## Discovered Constraints (2026-02-14)
 
@@ -290,9 +293,9 @@ The booklet is done when:
 
 ## Immediate Next Action
 
-Continue with Scene 2, Section 2:
+Continue with Scene 3, Section 1:
 
-1. OCR next relevant PDF pages 7-8 for Scene 2 continuation.
-2. Save batch output and extract dialogue-only lines with fresh `S02-SEC02-Lxxx` IDs.
-3. Convert and append section triplets in `booklet/script/scene-02.md`.
+1. Identify next source page range immediately after Scene 02 ending marker and OCR that batch.
+2. Save batch output and extract dialogue-only lines with fresh `S03-SEC01-Lxxx` IDs.
+3. Convert and append section triplets in `booklet/script/scene-03.md`.
 4. Run section QA and update trackers/logs.
